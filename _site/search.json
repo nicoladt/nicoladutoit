@@ -1,9 +1,41 @@
 [
 	
 		{
+		  "title"      : "Why I love the Gautrain",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/why-i-love-the-gautrain",
+		  "date"       : "2013-11-14 00:00:00 +0200",
+		  "shortdate"  : "November 14, 2013"
+		} ,
+	
+		{
+		  "title"      : "Confessions of an atheist",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/confessions-of-an-atheist",
+		  "date"       : "2013-09-17 00:00:00 +0200",
+		  "shortdate"  : "September 17, 2013"
+		} ,
+	
+		{
+		  "title"      : "Why I hate your bad grammar",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/why-i-hate-your-bad-grammar",
+		  "date"       : "2013-08-18 00:00:00 +0200",
+		  "shortdate"  : "August 18, 2013"
+		} ,
+	
+		{
 		  "title"      : "ZoneAlarm you're dead to me now.",
 		  "category"   : "articles",
 		  "url"        : "http://localhost:4000/articles/zonealarm-youre-dead-to-me-now",
+		  "date"       : "2013-08-14 00:00:00 +0200",
+		  "shortdate"  : "August 14, 2013"
+		} ,
+	
+		{
+		  "title"      : "So your hard drive crashed...",
+		  "category"   : "articles",
+		  "url"        : "http://localhost:4000/articles/so-your-hard-drive-crashed",
 		  "date"       : "2013-08-14 00:00:00 +0200",
 		  "shortdate"  : "August 14, 2013"
 		} ,

@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Latest Posts
-description: "A simple and clean responsive Jekyll theme for words and photos."
-tags: [Jekyll, theme, themes, responsive, blog, minimalism]
+title: Recent signs of life
+description: "Nicola du Toit: UX designer, musician and writer"
+tags: [Nicola du Toit, HCI, UX, web design]
 ---
 
 <ul class="post-list">
-{% for post in site.posts limit:10 %} 
+{% for post in site.posts limit:5 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+<h1>What I'm currently working on</h1>
+<ul>
+<li>First and foremost, finishing my dissertation for an M.Phil. in IT, through the University of Cape Town</li>
+<li>Polishing my CSS skills by converting appalling and very old inline style (made a decade ago using FrontPage) into one slick CSS file, and cleaning up the remaining HTML</li>
+<li>Learning Javascript via (the truly awesome) <a href="http://www.codecademy.com/">Codecademy</a></li>
+<li>My <a href="http://en.wikipedia.org/wiki/Half-Life_2">Half-Life 2</a>  score</li>
+</ul>
+
+

@@ -15,31 +15,49 @@ figure.center{
 	text-align:center;
 }
 
-figure.center > figcaption{
+figure.center figcaption{
 margin-left: auto;
 margin-right: auto;	
 
 }
-figure > figcaption{
+figure figcaption{
 	text-align: center;
 	padding-top: 0px;
 }
 
-figure.vertical > img{
+figure.vertical img{
 	max-width: 150px;
 }
 
-figure.horizontal > img{
+figure.horizontal img{
 	max-width: 250px;
 }
 
-figure.vertical > figcaption{
+figure.vertical figcaption{
 	max-width: 150px;
 	word-wrap: normal;
 }
 
-figure.horizontal > figcaption{
+figure.horizontal figcaption{
 	max-width:250px;	
 	word-wrap: normal;
 }
+
+figure a img{
+	-webkit-opacity: 1;
+	opacity: 1;
+	-moz-opacity: 1;
+}
+
+figcaption a{
+	border-bottom: 1px dotted #a2a2a2;
+}
+
+figcaption a:hover{
+	border-bottom: 1px solid #a2a2a2;
+
+}
+
+}
+
 

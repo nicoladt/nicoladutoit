@@ -6,7 +6,23 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/why-i-love-the-gautrain</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/confessions-of-an-atheist</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/why-i-hate-your-bad-grammar</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/zonealarm-youre-dead-to-me-now</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/so-your-hard-drive-crashed</loc>
     </url>
     
     <url>
