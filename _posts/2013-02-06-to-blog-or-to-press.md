@@ -4,7 +4,7 @@ title: To blog or to press
 description: "How (the new) Blogger beats Wordpress in my books..."
 modified: 2013-02-06
 category: articles
-tags: [blogger blogging UI]
+tags: [blogging, wordpress, blogger. user interfaces]
  
 ---
 

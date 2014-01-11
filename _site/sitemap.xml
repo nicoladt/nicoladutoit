@@ -6,35 +6,19 @@
     
     
     <url>
-        <loc>http://localhost:4000/articles/code-highlighting-post</loc>
+        <loc>http://localhost:4000/articles/zonealarm-youre-dead-to-me-now</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/articles/sample-link-post</loc>
+        <loc>http://localhost:4000/articles/remembering-how-to-run</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/articles/video-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/articles/readability-feature-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/articles/sample-post-images</loc>
+        <loc>http://localhost:4000/articles/why-cc-by-sa-should-die</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/articles/to-blog-or-to-press</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/articles/readability-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/articles/sample-post</loc>
     </url>
     
 </urlset>

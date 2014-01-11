@@ -5,7 +5,7 @@ title: Graphic design
 description: "A portfolio of graphic design work."
 ---
 
-Stuff goes here like this. 
+A sample of some of the graphic design work I've done is presented below.
 
 
 <figure class="half">
