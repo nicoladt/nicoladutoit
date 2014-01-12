@@ -16,7 +16,7 @@ That was the beginning of the end of my relationship with the word and concept o
 
 One day, whilst drinking wine and watching birds in one of the loveliest corners of the Earth, I realised that life itself is simply amazing. The tenacity of things to grow, and reproduce; of cells to divide; of organisms to evolve, is extraordinary. We have gardens and forests and deserts and oceans and skies teeming with life. And life has been teeming for billions of years, with organisms that all have their place in a very complicated natural system. The genes handed down to me by my ancestors are uniquely my own, and yet I share DNA with every other person on Earth. Everything is connected and yet it is all unique.
 
-<figure class="center"><a href="/images/blog/brenton.JPG"><img src="/images/blog/brenton.JPG" width="250"/></a><figcaption>Think of all the things living in this sea!</figcaption></figure>
+<figure class="center"><a href="images/blog/brenton.JPG"><img src="images/blog/brenton.JPG" width="250"/></a><figcaption>Think of all the things living in this sea!</figcaption></figure>
 
 Science, and human intellect and perseverance have enabled us to understand how much of this complicated system works, and that is amazing too. What clever organisms we've become! And on top of science, us humans have art, music, love, words, feats of profound endurance, loyalty, courage and compassion.
 
