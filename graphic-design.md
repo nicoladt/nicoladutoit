@@ -9,7 +9,7 @@ I have a concert pianist mother and a photographer father. I also love playing a
 
 
 <figure class="left" display="block">
-	<a href="{{ site.baseurl }}/images/RiteOfSpring.jpg"><img src="{{ site.baseurl }}/images/RiteOfSpring.jpg" width ="300" alt="The Rite of Spring"></a><figcaption>Artwork by Nicholas Roerich</figcaption></figure>
+	<a href="{{ site.baseurl }}images/RiteOfSpring.jpg"><img src="{{ site.baseurl }}/images/RiteOfSpring.jpg" width ="300" alt="The Rite of Spring"></a><figcaption>Artwork by Nicholas Roerich</figcaption></figure>
 
 <figure class="right"><a href="{{ site.baseurl }}/images/Untitled310.jpg"><img src="{{ site.baseurl }}/images/Untitled310.jpg" width="300" alt="Untitled #310"></a><figcaption>Photo by Francisco Lopez</figcaption></figure>
 
