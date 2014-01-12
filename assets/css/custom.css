@@ -58,6 +58,24 @@ figcaption a:hover{
 
 }
 
+div.span6{
+	padding:10px;
 }
 
+div.left{
+	float:left;
+}
+
+div.right{
+	float:right;
+}
+
+div.right > figure > figcaption{
+	max-width: 235px;
+	word-wrap: normal;
+}
+
+div.row{
+	clear:both;	
+}
 
