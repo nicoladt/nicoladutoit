@@ -10,7 +10,7 @@ tags: [entrapment, firewall, ux fail]
 
 Having used <a href="http://www.zonealarm.com/security/en-us/home.htm" target="_blank">ZoneAlarm</a>'s free firewall in Windows for years and years, I just tried to upgrade, and got this:
 
-<img src="images/zonealarm.PNG">
+<img src="{{ site.url }}/images/zonealarm.PNG">
 
 >"To enable "Agree" please check the two boxes below.
 ><ul>

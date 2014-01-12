@@ -51,7 +51,7 @@ In short: Linus Torvalds and the GitHub team deserve a repository-shaped cake.
 <h2>
 <a href="https://www.dropbox.com/">3. Dropbox</a></h2>
 
-<figure class= "left vertical"><img src="images/dropbox-logos_dropbox-vertical-blue.png"/></figure>
+<figure class= "left vertical"><img src="{{ site.url }}/images/dropbox-logos_dropbox-vertical-blue.png"/></figure>
 For those computer users who don't trust Google, or don't need the larny version control that GitHub has to offer, Dropbox is surely the most simple off-site storage solution. Dropbox gives you up to 18GB free (though friend referrals and social network sharing get you more data). After that, pricing starts at $10 per 100GB. Dropbox sits on your computer disguised as any other folder. And syncs the hell out of whatever happens in that folder. No need for backups, no need for tedious uploads. Dropbox will handle all of that for you. And, as with any well-synced data, you can access it from any device and from the web.
 
 
@@ -59,7 +59,7 @@ Dropbox is ideal for lazy users, who, like me, want offsite syncing and backup t
 
 <h2>
 <a href="https://evernote.com/">4. Evernote</a></h2>
-<figure class="left vertical"><img src="images/elephant.JPG"/>
+<figure class="left vertical"><img src="{{ site.url }}/images/elephant.JPG"/>
 <figcaption>A filing cabinet with ivory teeth.</figcaption>
 </figure>
 Evernote is a brilliant tool for people who want to be organised. Content (in all shapes and sizes) can be organised into notebooks and folders, and labelled with tags. Imagine keeping track of a whack of PDF's, web clippings and notes for a thesis literature review. Now imagine those same documents neatly filed and grouped, with searchable titles and tags. And now imagine all of this organisation being available to you on any device and on the web. Who needs a personal assistant when you have an elephant?

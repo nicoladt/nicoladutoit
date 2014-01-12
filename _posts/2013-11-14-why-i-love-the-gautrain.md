@@ -36,7 +36,7 @@ Until yesterday, when (several months later) I caught the Gautrain to the airpor
 
 I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.
 
-<figure class="center horizontal"><a href="images/gautrain.jpg"><img src="images/gautrain.jpg" /></a><figcaption>21st century Joburg is a pretty shiny sight. </figcaption></figure>
+<figure class="center horizontal"><a href="{{ site.url }}/images/gautrain.jpg"><img src="{{ site.url }}/images/gautrain.jpg" /></a><figcaption>21st century Joburg is a pretty shiny sight. </figcaption></figure>
 
 In my lifetime I have often wondered what this magnificent country would be like today if we didn't have an appalling history of oppression and bigotry; if all South Africans had been permitted to realise their full potential for the last four centuries; and if democracy and capitalism had been the norm for hundreds of years.
 
