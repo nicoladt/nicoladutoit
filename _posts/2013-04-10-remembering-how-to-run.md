@@ -19,7 +19,7 @@ My original intention for resurrecting my blog was to write about tech-ified thi
 I have never been a fan of exercise. In high school I traded in Physical Education for music lessons at the first possible opportunity.  I've always judged people who run marathons, swim kilometres, cycle races (OK, I still judge cyclists but that's Lance Armstrong's fault). I was convinced they were all obsessed, insane motherfuckers. Why the hell would you go running at the end of a tough day, when you could have a glass of wine and watch the sunset like a reasonable person?
 
 <figure class="left vertical">
-	<img src="images/blog/dogs.jpg">
+	<img src="images/dogs.jpg">
 <figcaption>These aren't high maintenance dogs at all.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ I'm aiming to run our entire loop one of these days. And then I'm going to run i
 The running is part of a bigger process though, that's turning out to be a new journey with myself. I realised today that I am much, much tougher than I thought. I can push myself harder than I'd ever expected. My comfort zone is expanding by the day. I'm no longer scared of falling on my face, or losing control of my legs, or slipping and landing on my arse. In fact, I <i>love</i> the feeling of free-wheeling on my own two feet. I'm not afraid of the discomfort of burning lungs and aching muscles. Running up that damn hill today, it felt like a whole world of possibilities was literally unfurling before me with each step. And it felt like I was returning to that gleeful comfortable-in-my-body, fierce fearlessness that I knew and loved as a kid.
 
 <figure class="center vertical">
-	<img src="images/blog/OubosRock.jpg">
+	<img src="images/OubosRock.jpg">
 <figcaption>Fearless, fierce me (no really) embarking on my rock climbing career, aged 3.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ We all knew how to run when we were kids. Why do we apparently forget how to do 
 
 
 <figure class="center vertical">
-	<img src="images/blog/newlands.jpg">
+	<img src="images/newlands.jpg">
 <figcaption>Boyfriend and dogs, in our really shitty gym.</figcaption>
 </figure>
 

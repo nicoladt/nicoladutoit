@@ -16,7 +16,7 @@ Words are not merely strings of letters, thrown together in random sequences. Th
 
 Knowingly using bad grammar and willfully neglecting spellcheckers or dictionaries (particularly in this day and age!) is like stomping through a flowerbed of spring bulbs because you're too petulant and lazy to rather walk a bit further along a well-trodden path.
 
-<figure class="center vertical"><a href="images/blog/flowers.JPG"><img src="images/blog/flowers.JPG"/></a><figcaption>All these hateful flowerwords must die!<br />
+<figure class="center vertical"><a href="images/flowers.JPG"><img src="images/flowers.JPG"/></a><figcaption>All these hateful flowerwords must die!<br />
 Because: fuck English!</figcaption>
 </figure>
 
