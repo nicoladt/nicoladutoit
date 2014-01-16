@@ -2,27 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Nicola du Toit</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://nicoladt.github.io/nicoladutoit/feed.xml" />
-<link rel="alternate" type="text/html" href="http://nicoladt.github.io/nicoladutoit" />
-<updated>2014-01-12T14:11:41+02:00</updated>
-<id>http://nicoladt.github.io/nicoladutoit/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-01-16T15:34:44+02:00</updated>
+<id>/</id>
 <author>
   <name>Nicola du Toit</name>
-  <uri>http://nicoladt.github.io/nicoladutoit/</uri>
+  <uri>/</uri>
   <email>nicoladutoit@gmail.com</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Tips for installing Jekyll with So Simple and Jekyll Slideshow]]></title>
+  <link>/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</link>
+  <id>/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</id>
+  <updated>2014-01-16T00:00:00-00:00</updated>
+  <published>2014-01-16T00:00:00+02:00</published>
+  
+  <author>
+    <name>Nicola du Toit</name>
+    <uri></uri>
+    <email>nicoladutoit@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;. There are a number of shiny themes available for Jekyll. This site uses the &lt;a href=&quot;http://mademistakes.com/articles/so-simple-jekyll-theme/&quot;&gt;So Simple Theme&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The processes for &lt;a href=&quot;http://jekyllrb.com/docs/installation/&quot;&gt;installing Jekyll&lt;/a&gt;, &lt;a href=&quot;https://github.com/mmistakes/so-simple-theme/&quot;&gt;installing this theme&lt;/a&gt; and &lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages&quot;&gt;using Jekyll with GitHub Pages&lt;/a&gt; are well documented and mostly simple, but I did run into a few weird errors when I added the &lt;a href=&quot;https://github.com/matthewowen/jekyll-slideshow&quot;&gt;Jekyll Slideshow&lt;/a&gt; gallery plugin to my installation - I think due to version conflicts between all the different bits of software.&lt;/p&gt;
+
+&lt;p&gt;I managed to debug the process on my home laptop, then tried running Jekyll on my work machine and ran into the same problem. Stupidly, I couldn’t remember what the hell I’d done to fix it in the first place. For my own future reference and for your edification and delight, here is a list of commands that should install Jekyll, (Ruby and RubyGems), the So Simple theme and the Jekyll Slideshow plugin. These instructions should work for Ubuntu 12.04 and 13.10.&lt;/p&gt;
+
+&lt;p&gt;To install Jekyll you’ll first need to install Ruby and RubyGems:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install ruby1.9.3
+sudo apt-get install gem
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For good measure install the following Ruby extensions too:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install libreadline-ruby1.9 libruby1.9 libopenssl-ruby
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then use RubyGems to install Jekyll:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo gem install jekyll
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once this is done, &lt;a href=&quot;https://github.com/mmistakes/so-simple-theme/fork&quot;&gt;fork&lt;/a&gt; and clone the So Simple theme repo and follow the instructions &lt;a href=&quot;https://github.com/mmistakes/so-simple-theme/&quot;&gt;here&lt;/a&gt; to customise and set up your new site.&lt;/p&gt;
+
+&lt;p&gt;Instructions for getting the Jekyll Slideshow plugin into your own repo are available &lt;a href=&quot;https://github.com/matthewowen/jekyll-slideshow&quot;&gt;here&lt;/a&gt;. (Assuming you’re already using plugins, you’ll just need to copy across the &lt;code&gt;_plugins&lt;/code&gt; and &lt;code&gt;jesl&lt;/code&gt; folders into your projects, and call some additional CSS.)&lt;/p&gt;
+
+&lt;p&gt;Jekyll Slideshow uses ImageMagick as well as the RMagick and nokogiri gems however, and this is where things started getting hairy for me but theoretically it should work if you’ve got the latest versions of everything on your machine. &lt;/p&gt;
+
+&lt;p&gt;ImageMagick is probably already installed if you’re in Ubuntu. To check:
+    convert -version&lt;/p&gt;
+
+&lt;p&gt;If it isn’t installed:
+    sudo apt-get install imagemagick&lt;/p&gt;
+
+&lt;p&gt;While you’re at it, also install the following library:
+    sudo apt-get install libmagickwand-dev &lt;/p&gt;
+
+&lt;p&gt;Assuming you’ve already copied the necessary bits of Jekyll Slideshow into your repo, you’ll need to install this plugins required gems:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo gem install rmagick
+sudo gem install nokogiri
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Theoretically this should work. If it doesn’t, you might also want to try:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install libxslt-dev libxml2-dev
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You should now be able to build and serve up your Jekyll site (with a functional theme and plugin) using the &lt;a href=&quot;http://jekyllrb.com/docs/usage/&quot;&gt;standard Jekyll commands&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To integrate your new Jekyll repo with GitHub, you’ll also need to install Bundler:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo gem install bundler
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After this, create a file in your repo called &lt;code&gt;Gemfile&lt;/code&gt; and add the line &lt;code&gt;gem 'github-pages'&lt;/code&gt;. Then run the command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bundle install.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I suspect there may be an overlap between Bundler and the other gems I’ve installed, but following this process was the only way I could get everything to work, error free. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow&quot;&gt;Tips for installing Jekyll with So Simple and Jekyll Slideshow&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Why I love the Gautrain]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/why-i-love-the-gautrain</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/why-i-love-the-gautrain</id>
+  <link>/articles/why-i-love-the-gautrain</link>
+  <id>/articles/why-i-love-the-gautrain</id>
   <updated>2013-09-17T00:00:00-00:00</updated>
   <published>2013-11-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I was 29 years old the first time I rode on a train in my hometown, &lt;a href=&quot;http://en.wikipedia.org/wiki/Johannesburg&quot;&gt;Johannesburg&lt;/a&gt;.&lt;/p&gt;
@@ -53,7 +131,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 
 &lt;p&gt;I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.&lt;/p&gt;
 
-&lt;figure class=&quot;center horizontal&quot;&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/images/gautrain.jpg&quot;&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/gautrain.jpg&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;21st century Joburg is a pretty shiny sight. &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;center horizontal&quot;&gt;&lt;a href=&quot;/images/gautrain.jpg&quot;&gt;&lt;img src=&quot;/images/gautrain.jpg&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;21st century Joburg is a pretty shiny sight. &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;In my lifetime I have often wondered what this magnificent country would be like today if we didn’t have an appalling history of oppression and bigotry; if all South Africans had been permitted to realise their full potential for the last four centuries; and if democracy and capitalism had been the norm for hundreds of years.&lt;/p&gt;
 
@@ -63,20 +141,20 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 
 &lt;figure class=&quot;center horizontal&quot;&gt;&lt;a href=&quot;http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Image by  &lt;a href=&quot;http://www.flickr.com/photos/wildlife_encounters/&quot;&gt;Steve Slater (Wildlife Encounters)&lt;/a&gt; on Flickr&lt;/figcaption&gt;&lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/why-i-love-the-gautrain&quot;&gt;Why I love the Gautrain&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/why-i-love-the-gautrain&quot;&gt;Why I love the Gautrain&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Confessions of an atheist]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/confessions-of-an-atheist</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/confessions-of-an-atheist</id>
+  <link>/articles/confessions-of-an-atheist</link>
+  <id>/articles/confessions-of-an-atheist</id>
   <updated>2013-09-17T00:00:00-00:00</updated>
   <published>2013-09-17T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I am an atheist. I went to an Anglican primary school, where we dutifully said our prayers and sang hymns every day, and believed our teachers when they told us we’d go to hell if we didn’t do our homework.&lt;/p&gt;
@@ -87,7 +165,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 
 &lt;p&gt;One day, whilst drinking wine and watching birds in one of the loveliest corners of the Earth, I realised that life itself is simply amazing. The tenacity of things to grow, and reproduce; of cells to divide; of organisms to evolve, is extraordinary. We have gardens and forests and deserts and oceans and skies teeming with life. And life has been teeming for billions of years, with organisms that all have their place in a very complicated natural system. The genes handed down to me by my ancestors are uniquely my own, and yet I share DNA with every other person on Earth. Everything is connected and yet it is all unique.&lt;/p&gt;
 
-&lt;figure class=&quot;center&quot;&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/images/brenton.JPG&quot;&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/brenton.JPG&quot; width=&quot;250&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Think of all the things living in this sea!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;center&quot;&gt;&lt;a href=&quot;/images/brenton.JPG&quot;&gt;&lt;img src=&quot;/images/brenton.JPG&quot; width=&quot;250&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Think of all the things living in this sea!&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Science, and human intellect and perseverance have enabled us to understand how much of this complicated system works, and that is amazing too. What clever organisms we’ve become! And on top of science, us humans have art, music, love, words, feats of profound endurance, loyalty, courage and compassion.&lt;/p&gt;
 
@@ -125,20 +203,20 @@ Image: &lt;a href=&quot;http://hubblesite.org/&quot;&gt;Hubble Telescope&lt;/a&g
 &lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/9D05ej8u-gU&quot; width=&quot;560&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/confessions-of-an-atheist&quot;&gt;Confessions of an atheist&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on September 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/confessions-of-an-atheist&quot;&gt;Confessions of an atheist&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on September 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why I hate your bad grammar]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/why-i-hate-your-bad-grammar</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/why-i-hate-your-bad-grammar</id>
+  <link>/articles/why-i-hate-your-bad-grammar</link>
+  <id>/articles/why-i-hate-your-bad-grammar</id>
   <updated>2013-08-18T00:00:00-00:00</updated>
   <published>2013-08-18T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I judge people based on their grammar, and here’s why:&lt;/p&gt;
@@ -149,7 +227,7 @@ Image: &lt;a href=&quot;http://hubblesite.org/&quot;&gt;Hubble Telescope&lt;/a&g
 
 &lt;p&gt;Knowingly using bad grammar and willfully neglecting spellcheckers or dictionaries (particularly in this day and age!) is like stomping through a flowerbed of spring bulbs because you’re too petulant and lazy to rather walk a bit further along a well-trodden path.&lt;/p&gt;
 
-&lt;figure class=&quot;center vertical&quot;&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/images/flowers.JPG&quot;&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/flowers.JPG&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;All these hateful flowerwords must die!&lt;br /&gt;
+&lt;figure class=&quot;center vertical&quot;&gt;&lt;a href=&quot;/images/flowers.JPG&quot;&gt;&lt;img src=&quot;/images/flowers.JPG&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;All these hateful flowerwords must die!&lt;br /&gt;
 Because: fuck English!&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -179,25 +257,25 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;p&gt;(Other note: bad grammar online reminds me very much of this gem: &lt;a href=&quot;http://xkcd.com/386/&quot;&gt;http://xkcd.com/386/&lt;/a&gt;)&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/why-i-hate-your-bad-grammar&quot;&gt;Why I hate your bad grammar&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/why-i-hate-your-bad-grammar&quot;&gt;Why I hate your bad grammar&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ZoneAlarm you're dead to me now.]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/zonealarm-youre-dead-to-me-now</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/zonealarm-youre-dead-to-me-now</id>
+  <link>/articles/zonealarm-youre-dead-to-me-now</link>
+  <id>/articles/zonealarm-youre-dead-to-me-now</id>
   <updated>2013-08-14T00:00:00-00:00</updated>
   <published>2013-08-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Having used &lt;a href=&quot;http://www.zonealarm.com/security/en-us/home.htm&quot; target=&quot;_blank&quot;&gt;ZoneAlarm&lt;/a&gt;’s free firewall in Windows for years and years, I just tried to upgrade, and got this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/zonealarm.PNG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zonealarm.PNG&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“To enable “Agree” please check the two boxes below.&lt;/p&gt;
@@ -213,20 +291,20 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;p&gt;Update: on uninstalling the damn thing, I was asked to provide customer feedback, so I did: “Remove the checkboxes, and I’ll reinstall your product.”&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now.&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now.&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[So your hard drive crashed...]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/so-your-hard-drive-crashed</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/so-your-hard-drive-crashed</id>
+  <link>/articles/so-your-hard-drive-crashed</link>
+  <id>/articles/so-your-hard-drive-crashed</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-08-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;In the last couple of months I’ve had to listen to a number of friends and colleagues lamenting the recently-occured, or impending crash of their hard drive/flash disk/computer, resulting in a catastrophic loss of data.&lt;/p&gt;
@@ -273,14 +351,14 @@ Basically, any combination of silicon and solder ultimately results in failure, 
 &lt;h2&gt;
 &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;3. Dropbox&lt;/a&gt;&lt;/h2&gt;
 
-&lt;figure class=&quot;left vertical&quot;&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/dropbox-logos_dropbox-vertical-blue.png&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;left vertical&quot;&gt;&lt;img src=&quot;/images/dropbox-logos_dropbox-vertical-blue.png&quot; /&gt;&lt;/figure&gt;
 &lt;p&gt;For those computer users who don’t trust Google, or don’t need the larny version control that GitHub has to offer, Dropbox is surely the most simple off-site storage solution. Dropbox gives you up to 18GB free (though friend referrals and social network sharing get you more data). After that, pricing starts at $10 per 100GB. Dropbox sits on your computer disguised as any other folder. And syncs the hell out of whatever happens in that folder. No need for backups, no need for tedious uploads. Dropbox will handle all of that for you. And, as with any well-synced data, you can access it from any device and from the web.&lt;/p&gt;
 
 &lt;p&gt;Dropbox is ideal for lazy users, who, like me, want offsite syncing and backup that can babysit itself. I recently upgraded to a premium account and am syncing 75GB of photos. Because I like to sleep at night. &lt;/p&gt;
 
 &lt;h2&gt;
 &lt;a href=&quot;https://evernote.com/&quot;&gt;4. Evernote&lt;/a&gt;&lt;/h2&gt;
-&lt;figure class=&quot;left vertical&quot;&gt;&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/elephant.JPG&quot; /&gt;
+&lt;figure class=&quot;left vertical&quot;&gt;&lt;img src=&quot;/images/elephant.JPG&quot; /&gt;
 &lt;figcaption&gt;A filing cabinet with ivory teeth.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Evernote is a brilliant tool for people who want to be organised. Content (in all shapes and sizes) can be organised into notebooks and folders, and labelled with tags. Imagine keeping track of a whack of PDF’s, web clippings and notes for a thesis literature review. Now imagine those same documents neatly filed and grouped, with searchable titles and tags. And now imagine all of this organisation being available to you on any device and on the web. Who needs a personal assistant when you have an elephant?&lt;/p&gt;
@@ -304,20 +382,20 @@ recommended too. As with the other services, Evernote provides free access in ex
 (Image by&amp;nbsp;&lt;a href=&quot;http://www.google.com/about/datacenters/gallery/#/tech/2&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/so-your-hard-drive-crashed&quot;&gt;So your hard drive crashed...&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/so-your-hard-drive-crashed&quot;&gt;So your hard drive crashed...&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Remembering how to run]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/remembering-how-to-run</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/remembering-how-to-run</id>
+  <link>/articles/remembering-how-to-run</link>
+  <id>/articles/remembering-how-to-run</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-04-10T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;My original intention for resurrecting my blog was to write about tech-ified things. But, life is far more interesting and varied than that, so here’s a story about how I recently started remembering how to run.&lt;/p&gt;
@@ -331,7 +409,7 @@ recommended too. As with the other services, Evernote provides free access in ex
 &lt;p&gt;I have never been a fan of exercise. In high school I traded in Physical Education for music lessons at the first possible opportunity.  I’ve always judged people who run marathons, swim kilometres, cycle races (OK, I still judge cyclists but that’s Lance Armstrong’s fault). I was convinced they were all obsessed, insane motherfuckers. Why the hell would you go running at the end of a tough day, when you could have a glass of wine and watch the sunset like a reasonable person?&lt;/p&gt;
 
 &lt;figure class=&quot;left vertical&quot;&gt;
-	&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/dogs.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/dogs.jpg&quot; /&gt;
 &lt;figcaption&gt;These aren't high maintenance dogs at all.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -379,7 +457,7 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 &lt;p&gt;The running is part of a bigger process though, that’s turning out to be a new journey with myself. I realised today that I am much, much tougher than I thought. I can push myself harder than I’d ever expected. My comfort zone is expanding by the day. I’m no longer scared of falling on my face, or losing control of my legs, or slipping and landing on my arse. In fact, I &lt;i&gt;love&lt;/i&gt; the feeling of free-wheeling on my own two feet. I’m not afraid of the discomfort of burning lungs and aching muscles. Running up that damn hill today, it felt like a whole world of possibilities was literally unfurling before me with each step. And it felt like I was returning to that gleeful comfortable-in-my-body, fierce fearlessness that I knew and loved as a kid.&lt;/p&gt;
 
 &lt;figure class=&quot;center vertical&quot;&gt;
-	&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/OubosRock.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/OubosRock.jpg&quot; /&gt;
 &lt;figcaption&gt;Fearless, fierce me (no really) embarking on my rock climbing career, aged 3.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -392,26 +470,26 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 &lt;p&gt;We all knew how to run when we were kids. Why do we apparently forget how to do it when we grow up? I don’t think our legs forget - we’re animals after all. I think at some point we stop running and then our minds become fearful. I think mostly, we fear failure, and we avoid trying the things that we fear. And then we forget that once upon a time, these were things we loved, relished and did with joy… Learning how to run is not something new, it’s something old (in the personal and evolutionary sense). It’s a return to something wonderful that I used to be able to do. It’s remembering what has happened before, and forgetting the fear about what is still to come.&lt;/p&gt;
 
 &lt;figure class=&quot;center vertical&quot;&gt;
-	&lt;img src=&quot;http://nicoladt.github.io/nicoladutoit/images/newlands.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/newlands.jpg&quot; /&gt;
 &lt;figcaption&gt;Boyfriend and dogs, in our really shitty gym.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Update (July 2013): Since writing this post, I have had an absolute blast running the &lt;a href=&quot;http://www.vws.org.za/?p=3234&quot; target=&quot;_blank&quot;&gt;Volunteer Wildfire Services 10km trail run&lt;/a&gt; on the slopes of Table Mountain and the 11 km &lt;a href=&quot;http://www.magneticsouth.net/events/salomon-featherbed-trail-run/&quot; target=&quot;_blank&quot;&gt;Salomon Featherbed Seahorse trail run&lt;/a&gt; in Knysna. Next up is the &lt;a href=&quot;http://trailrunning.co.za/events_detail.php?id=710&amp;amp;type=current&quot; target=&quot;_blank&quot;&gt;Salomon Bastille Day trail run&lt;/a&gt; this weekend! Bring on them mountains! I’ve also had this blog post published in the &lt;a href=&quot;http://www.gomulti.co.za/2013/06/18/issue-7-trail-magazine-released/&quot; target=&quot;_blank&quot;&gt;July edition of Trail&lt;/a&gt; magazine. Yay!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/remembering-how-to-run&quot;&gt;Remembering how to run&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on April 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/remembering-how-to-run&quot;&gt;Remembering how to run&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on April 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why CC-BY-SA should die]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/why-cc-by-sa-should-die</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/why-cc-by-sa-should-die</id>
+  <link>/articles/why-cc-by-sa-should-die</link>
+  <id>/articles/why-cc-by-sa-should-die</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-03-28T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Creative commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, &lt;b&gt;open&lt;/b&gt;, alternatives to the miserable “ © All Rights Reserved” that is so prevalent in the world today. I’m not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.&lt;/p&gt;
@@ -437,20 +515,20 @@ free and open source software licenses. All new works based on yours will carry 
 
 &lt;p&gt;We no longer live in a black and white world of closed vs. open. Open licensing has expanded to include many different flavours of openness. It’s just a pity that some of those flavours act on others in a ‘closed’ way.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/why-cc-by-sa-should-die&quot;&gt;Why CC-BY-SA should die&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on March 28, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/why-cc-by-sa-should-die&quot;&gt;Why CC-BY-SA should die&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on March 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[To blog or to press]]></title>
-  <link>http://nicoladt.github.io/nicoladutoit/articles/to-blog-or-to-press</link>
-  <id>http://nicoladt.github.io/nicoladutoit/articles/to-blog-or-to-press</id>
+  <link>/articles/to-blog-or-to-press</link>
+  <id>/articles/to-blog-or-to-press</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-02-06T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri>http://nicoladt.github.io/nicoladutoit</uri>
+    <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve had a number of cool ideas for blog posts recently, and so decided to log in to my very rusty Wordpress and Blogger accounts and see if I could resurrect an old blog to start writing again.
@@ -468,7 +546,7 @@ free and open source software licenses. All new works based on yours will carry 
 
 &lt;p&gt;&lt;b&gt;Edit&lt;/b&gt;: Blogger even comes with baby Google Analytics bolted into the background. So far I’m impressed!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://nicoladt.github.io/nicoladutoit/articles/to-blog-or-to-press&quot;&gt;To blog or to press&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladt.github.io/nicoladutoit&quot;&gt;Nicola du Toit&lt;/a&gt; on February 06, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/to-blog-or-to-press&quot;&gt;To blog or to press&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on February 06, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

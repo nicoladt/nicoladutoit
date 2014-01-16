@@ -5,30 +5,30 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>To blog or to press &#8211; Nicola du Toit</title>
-<meta name="description" content="How (the new) Blogger beats Wordpress in my books...">
-<meta name="keywords" content="blogging, wordpress, blogger. user interfaces">
+<title>Tips for installing Jekyll with So Simple and Jekyll Slideshow &#8211; Nicola du Toit</title>
+<meta name="description" content="A fix for some difficulties I had setting up my So Simple theme installation">
+<meta name="keywords" content="jekyll, github, ruby, so simple theme">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="/images/">
-<meta name="twitter:title" content="To blog or to press">
-<meta name="twitter:description" content="How (the new) Blogger beats Wordpress in my books...">
+<meta name="twitter:title" content="Tips for installing Jekyll with So Simple and Jekyll Slideshow">
+<meta name="twitter:description" content="A fix for some difficulties I had setting up my So Simple theme installation">
 <meta name="twitter:creator" content="@http://twitter.com/sophdex">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="To blog or to press">
-<meta property="og:description" content="How (the new) Blogger beats Wordpress in my books...">
-<meta property="og:url" content="/articles/to-blog-or-to-press">
+<meta property="og:title" content="Tips for installing Jekyll with So Simple and Jekyll Slideshow">
+<meta property="og:description" content="A fix for some difficulties I had setting up my So Simple theme installation">
+<meta property="og:url" content="/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow">
 <meta property="og:site_name" content="Nicola du Toit">
 
 
 
 
 
-<link rel="canonical" href="/articles/to-blog-or-to-press">
+<link rel="canonical" href="/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Nicola du Toit Feed">
 
 
@@ -136,42 +136,89 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags"><a href="/tags.html#blogging" title="Pages tagged blogging" rel="tag">blogging</a>&nbsp;&bull;&nbsp;<a href="/tags.html#wordpress" title="Pages tagged wordpress" rel="tag">wordpress</a>&nbsp;&bull;&nbsp;<a href="/tags.html#blogger. user interfaces" title="Pages tagged blogger. user interfaces" rel="tag">blogger. user interfaces</a></span>
+        <span class="entry-tags"><a href="/tags.html#jekyll" title="Pages tagged jekyll" rel="tag">jekyll</a>&nbsp;&bull;&nbsp;<a href="/tags.html#github" title="Pages tagged github" rel="tag">github</a>&nbsp;&bull;&nbsp;<a href="/tags.html#ruby" title="Pages tagged ruby" rel="tag">ruby</a>&nbsp;&bull;&nbsp;<a href="/tags.html#so simple theme" title="Pages tagged so simple theme" rel="tag">so simple theme</a></span>
         
-          <h1 class="entry-title" itemprop="headline">To blog or to press</h1>
+          <h1 class="entry-title" itemprop="headline">Tips for installing Jekyll with So Simple and Jekyll Slideshow</h1>
         
       </header>
       <footer class="entry-meta">
         <img src="/images/avatar.jpg" alt="Nicola du Toit photo" class="author-photo">
         <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="/about" title="About Nicola du Toit" itemprop="url">Nicola du Toit</a></span></span>
-        <span class="entry-date date published"><time datetime="2013-02-06T00:00:00+02:00" itemprop="datePublished"><i class="icon-calendar-empty"></i> February 06, 2013</time></span>
-        <span class="entry-date date modified"><time datetime="2013-02-06" itemprop="dateModified"><i class="icon-pencil"></i> February 06, 2013</time></span>
+        <span class="entry-date date published"><time datetime="2014-01-16T00:00:00+02:00" itemprop="datePublished"><i class="icon-calendar-empty"></i> January 16, 2014</time></span>
+        <span class="entry-date date modified"><time datetime="2014-01-16" itemprop="dateModified"><i class="icon-pencil"></i> January 16, 2014</time></span>
         
-        <span><a href="/articles/to-blog-or-to-press" rel="bookmark" title="To blog or to press" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
+        <span><a href="/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow" rel="bookmark" title="Tips for installing Jekyll with So Simple and Jekyll Slideshow" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
       </footer>
       <div class="entry-content" itemprop="description">
-        <p>I’ve had a number of cool ideas for blog posts recently, and so decided to log in to my very rusty Wordpress and Blogger accounts and see if I could resurrect an old blog to start writing again.
- (This was long before my eyes had been opened to human-computer interaction and user-centered design). Needless to say, I am now absolutely stunned to see how far Blogger has come in the 3-or-so years since I last used it.</p>
+        <p><a href="http://jekyllrb.com/">Jekyll</a> is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with <a href="http://github.com">GitHub</a>. There are a number of shiny themes available for Jekyll. This site uses the <a href="http://mademistakes.com/articles/so-simple-jekyll-theme/">So Simple Theme</a>.</p>
 
-<p>For one, Blogger has a much more “Googley” feel than it used to - for someone who uses GDocs a lot, even the fonts and menus look familiar, so I immediately had some idea of what to expect. Predictability and familiarity - tick. It’s curious that it took Google so long to update Blogger. They bought the company in 2002, but in 2008 Blogger was still very tedious to use.</p>
+<p>The processes for <a href="http://jekyllrb.com/docs/installation/">installing Jekyll</a>, <a href="https://github.com/mmistakes/so-simple-theme/">installing this theme</a> and <a href="https://help.github.com/articles/using-jekyll-with-pages">using Jekyll with GitHub Pages</a> are well documented and mostly simple, but I did run into a few weird errors when I added the <a href="https://github.com/matthewowen/jekyll-slideshow">Jekyll Slideshow</a> gallery plugin to my installation - I think due to version conflicts between all the different bits of software.</p>
 
-<p>Moving on, customising the theme for my new blog was a doddle, with lots of advanced options (including an option to edit the HTML direct). Deleting and editing my decayed old blogs was really easy to do, and generally the whole website seemed much simpler to use than Wordpress. (The devil is in the detail, for example: Wordpress uses “tags”. Blogger uses “labels”, which I know and love from my daily use of Gmail).</p>
+<p>I managed to debug the process on my home laptop, then tried running Jekyll on my work machine and ran into the same problem. Stupidly, I couldn’t remember what the hell I’d done to fix it in the first place. For my own future reference and for your edification and delight, here is a list of commands that should install Jekyll, (Ruby and RubyGems), the So Simple theme and the Jekyll Slideshow plugin. These instructions should work for Ubuntu 12.04 and 13.10.</p>
 
-<p>I also love the Google+ integration. I’m not a huge Google+ user but given <a href="http://www.searchenginejournal.com/google-plus-surpasses-twitter-to-become-second-largest-social-network/57740/">it’s now the second most popular social network</a>, this kind of seamless integration is probably going to be really useful in the near future. And I don’t even have to think about installing silly plugins that will allow people to tweet, Facebook or RSS my posts.</p>
+<p>To install Jekyll you’ll first need to install Ruby and RubyGems:</p>
 
-<p>And then of course there’s Blogger’s cute little WYSIWYG blog post editor… I doubt it does fancy stuff like maths equations at this point, but it sure beats Wordpress’ TinyMCE, which has been the bane of my existence for many years. (As far as I’m concerned, the only useful button TinyMCE provides is the “HTML” button, for raw editing). and again, as a GDocs user, it’s really familiar and easy to use.</p>
+<pre><code>sudo apt-get install ruby1.9.3
+sudo apt-get install gem
+</code></pre>
 
-<p>This post has been a bit of an experiment - so far I’ve been far more impressed by Blogger’s new look and feel than by my clunky old Wordpress account. I’m going to continue my little impromptu user test and publish this quickly…</p>
+<p>For good measure install the following Ruby extensions too:</p>
 
-<p><b>Edit</b>: Blogger even comes with baby Google Analytics bolted into the background. So far I’m impressed!</p>
+<pre><code>sudo apt-get install libreadline-ruby1.9 libruby1.9 libopenssl-ruby
+</code></pre>
+
+<p>Then use RubyGems to install Jekyll:</p>
+
+<pre><code>sudo gem install jekyll
+</code></pre>
+
+<p>Once this is done, <a href="https://github.com/mmistakes/so-simple-theme/fork">fork</a> and clone the So Simple theme repo and follow the instructions <a href="https://github.com/mmistakes/so-simple-theme/">here</a> to customise and set up your new site.</p>
+
+<p>Instructions for getting the Jekyll Slideshow plugin into your own repo are available <a href="https://github.com/matthewowen/jekyll-slideshow">here</a>. (Assuming you’re already using plugins, you’ll just need to copy across the <code>_plugins</code> and <code>jesl</code> folders into your projects, and call some additional CSS.)</p>
+
+<p>Jekyll Slideshow uses ImageMagick as well as the RMagick and nokogiri gems however, and this is where things started getting hairy for me but theoretically it should work if you’ve got the latest versions of everything on your machine. </p>
+
+<p>ImageMagick is probably already installed if you’re in Ubuntu. To check:
+    convert -version</p>
+
+<p>If it isn’t installed:
+    sudo apt-get install imagemagick</p>
+
+<p>While you’re at it, also install the following library:
+    sudo apt-get install libmagickwand-dev </p>
+
+<p>Assuming you’ve already copied the necessary bits of Jekyll Slideshow into your repo, you’ll need to install this plugins required gems:</p>
+
+<pre><code>sudo gem install rmagick
+sudo gem install nokogiri
+</code></pre>
+
+<p>Theoretically this should work. If it doesn’t, you might also want to try:</p>
+
+<pre><code>sudo apt-get install libxslt-dev libxml2-dev
+</code></pre>
+
+<p>You should now be able to build and serve up your Jekyll site (with a functional theme and plugin) using the <a href="http://jekyllrb.com/docs/usage/">standard Jekyll commands</a>.</p>
+
+<p>To integrate your new Jekyll repo with GitHub, you’ll also need to install Bundler:</p>
+
+<pre><code>sudo gem install bundler
+</code></pre>
+
+<p>After this, create a file in your repo called <code>Gemfile</code> and add the line <code>gem 'github-pages'</code>. Then run the command:</p>
+
+<pre><code>bundle install.
+</code></pre>
+
+<p>I suspect there may be an overlap between Bundler and the other gems I’ve installed, but following this process was the only way I could get everything to work, error free. </p>
 
         
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       
+        <a href="/articles/why-i-love-the-gautrain" class="btn" title="Why I love the Gautrain">Previous article</a>
       
-        <a href="/articles/why-cc-by-sa-should-die" class="btn" title="Why CC-BY-SA should die">Next article</a>
       
     </nav><!-- /.pagination -->
   </article>
