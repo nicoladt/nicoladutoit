@@ -9,10 +9,16 @@ modified: 2013-09-13
 #Thunderbolt Kids
 
 <div class="row">
-<div class="span12 gallery">
+<div class="col-md-3">
 <a href="{{ site.url }}/images/thunderbolt/homefinal.png" data-lightbox="image-1" title="Caption 1"><img class="gallery" src="{{ site.url }}/images/thunderbolt/homefinal.png" width ="200" alt=""></a>
+</div>
+<div class="col-md-3">
 <a href="{{ site.url }}/images/thunderbolt/bookfinal.png" data-lightbox="image-1" title="Caption 2"><img src="{{ site.url }}/images/thunderbolt/homefinal.png" width ="200" alt=""></a>
+</div>
+<div class="col-md-3">
 <a href="{{ site.url }}/images/thunderbolt/homefinal.png" data-lightbox="image-1" title="Caption 3"><img src="{{ site.url }}/images/thunderbolt/homefinal.png" width ="200" alt=""></a>
+</div>
+<div class="col-md-3">
 <a href="{{ site.url }}/images/thunderbolt/homefinal.png" data-lightbox="image-1" title="Caption 3"><img src="{{ site.url }}/images/thunderbolt/homefinal.png" width ="200" alt=""></a>
 </div>
 </div>

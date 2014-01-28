@@ -1,6 +1,13 @@
+
+/*To centre float figures and captions inside spans*/
 div.image > figure{
 	float:center;
 	text-align: center;
+}
+
+/*To darken line between blog entries on Words page*/
+ul.post-list > li{
+	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 /*Styles for left/right images in blog posts*/
@@ -65,8 +72,5 @@ figcaption a:hover{
 }
 
 
-div.row{
-	clear:both;	
-}
 
 
