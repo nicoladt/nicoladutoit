@@ -40,8 +40,8 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.min.css">
 <link rel="stylesheet" href="/assets/css/custom.css">
+<link href="/assets/css/lightbox.css" rel="stylesheet" />
 
-<link href="/jesl/jesl.min.css" rel="stylesheet" media="screen" type="text/css">
 <!-- Webfonts -->
 <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
@@ -51,9 +51,10 @@
 <script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 <!-- Load Bootstrap -->
-<script src="/assets/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="/assets/js/vendor/jquery-1.10.2.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 
+<script src="/assets/js/lightbox-2.6.min.js"></script>
 <!-- Icons -->
 <!-- 16x16 -->
 <link rel="shortcut icon" href="/favicon.ico">
@@ -141,7 +142,8 @@
       <div class="entry-content" itemprop="description">
 	<h1>Recent signs of life</h1>
 <ul class="post-list">
-<li><article><a href="/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow">Tips for installing Jekyll with So Simple and Jekyll Slideshow <span class="entry-date"><time datetime="2014-01-16T00:00:00+02:00">January 16, 2014</time></span></a></article></li>
+ 
+  <li><article><a href="/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow">Tips for installing Jekyll with So Simple and Jekyll Slideshow <span class="entry-date"><time datetime="2014-01-16T00:00:00+02:00">January 16, 2014</time></span></a></article></li>
  
   <li><article><a href="/articles/why-i-love-the-gautrain">Why I love the Gautrain <span class="entry-date"><time datetime="2013-11-14T00:00:00+02:00">November 14, 2013</time></span></a></article></li>
  
@@ -151,14 +153,18 @@
  
   <li><article><a href="/articles/zonealarm-youre-dead-to-me-now">ZoneAlarm you're dead to me now. <span class="entry-date"><time datetime="2013-08-14T00:00:00+02:00">August 14, 2013</time></span></a></article></li>
 
-</ul><h1>What I'm currently working on</h1>
+</ul>
+
+<h1>What I'm currently working on</h1>
 <ul>
 <li>First and foremost, finishing my dissertation for an M.Phil. in IT, through the University of Cape Town</li>
 <li>Polishing my CSS skills by converting appalling and very old inline style (made a decade ago using FrontPage) into one slick CSS file, and cleaning up the remaining HTML</li>
-<li>Learning Javascript via (the truly awesome) <a href="http://www.codecademy.com/">Codecademy</a>
-</li>
+<li>Learning Javascript via (the truly awesome) <a href="http://www.codecademy.com/">Codecademy</a></li>
 <li>My <a href="http://en.wikipedia.org/wiki/Half-Life_2">Half-Life 2</a>  score</li>
 </ul>
+
+
+
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
@@ -181,9 +187,9 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="/assets/js/scripts.min.js"></script>
-<script src="/jesl/jesl.min.js"> </script>
+
 
 <!-- Jekyll Simple Search option -->
 <script>
