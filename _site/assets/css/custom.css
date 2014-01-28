@@ -1,26 +1,21 @@
 /*Remove double underline effect for links, add dotted underline to non-para links*/
-a{
-	border-bottom: 1px dotted #a2a2a2;
-}
 
-h1.site-title > a{
-	border-bottom: none;
-}
 
 a:hover{
 	text-decoration:none;
 	border-bottom: 1px solid #a2a2a2;
 }
 
-
+/*to make hr thicker and darker*/
 hr{
-	border-top: 2px solid #ccc;
+	border-top: 2px solid #aaa;
 }
 
 div.row{
 clear:both;
 }
 
+/*pushes down bradcrumbs on ux page*/
 div.breadcrumbs{
 	margin-top: 40px;
 }

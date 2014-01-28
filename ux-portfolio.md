@@ -96,18 +96,22 @@ To improve the overall user experience and workflow on the homepage of Everythin
 This project was challenging because its scope was limited - improvements could not involve any major overhauling of the site. Rather, new and simplified functionality had to be carefully slotted into an existing website and framework. Also the two sites already had a well-established user base. While it was important to make the new interface components as usable as possible and surface previously hidden parts of the site, we had to do so without alienating existing users. 
 
 <div class="row">
-	<div class="col-md-4 image">
+	<div class="col-md-4">
+		<figure><a href="{{ site.url }}/images/emas/emaslegacy.png" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emaslegacy.png" alt=""></a></figure>
+	</div>
+	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emasusecase.jpg" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emasusecase.jpg" alt=""></a></figure>
 	</div>
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emashomesketch.jpg" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emashomesketch.jpg"  alt=""></a></figure>
 	</div>
 
+	
+</div>
+<div class="row">
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emascollage.png" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emascollage.png"  alt=""></a></figure>
 	</div>
-</div>
-<div class="row">
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emasmockup.png" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emasmockup.png"  alt=""></a></figure>
 	</div>
@@ -115,18 +119,18 @@ This project was challenging because its scope was limited - improvements could 
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emashifimockup.jpg" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emashifimockup.jpg" alt=""></a></figure>
 	</div>
-<div class="col-md-4">
+	
+</div>
+<div class="row">
+	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/emas/emashomefinal.png" data-lightbox="EMAS"><img src="{{ site.url }}/images/emas/emashomefinal.png" alt=""></a></figure>
 	</div>
 </div>
-
 <hr/>
 
 <h1 id="Siyavula">Siyavula.com</h1>
 
 [www.siyavula.com](http://www.siyavula.com)
-
-The development of Everything Maths and Science is an ongoing process. I have worked on numerous aspects of these sites but will focus only on one particular project (homepage overhaul) here.
 
 ##Credits
 Project management, UX (structure, layout, sketches, wireframes, mockups), some (collaborative) graphic design, copywriting, testing
@@ -146,17 +150,21 @@ Because the development and graphic design work for this project was outsourced,
 
 <div class="row">
 	<div class="col-md-4 image">
+		<figure><a href="{{ site.url }}/images/siyavula/homelegacy.png" data-lightbox="siyavula"><img src="{{ site.url }}/images/siyavula/homelegacy.png" alt=""></a></figure>
+	</div>	
+	<div class="col-md-4 image">
 		<figure><a href="{{ site.url }}/images/siyavula/homesketch.jpg" data-lightbox="siyavula"><img src="{{ site.url }}/images/siyavula/homesketch.jpg" alt=""></a></figure>
 	</div>
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/siyavula/homemockup.png" data-lightbox="siyavula"><img src="{{ site.url }}/images/siyavula/homemockup.png"  alt=""></a></figure>
 	</div>
 
+	
+</div>
+<div class="row">
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/siyavula/Sitemap.png" data-lightbox="siyavula"><img src="{{ site.url }}/images/siyavula/Sitemap.png"  alt=""></a></figure>
 	</div>
-</div>
-<div class="row">
 	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/siyavula/moodboards.png" data-lightbox="siyavula"><img src="{{ site.url }}/images/siyavula/moodboards.png"  alt=""></a></figure>
 	</div>
