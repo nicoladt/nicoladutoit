@@ -1,20 +1,46 @@
+/*Remove double underline effect for links, add dotted underline to non-para links*/
+a{
+	border-bottom: 1px dotted #a2a2a2;
+}
+
+h1.site-title > a{
+	border-bottom: none;
+}
+
 a:hover{
 	text-decoration:none;
+	border-bottom: 1px solid #a2a2a2;
+}
+
+
+hr{
+	border-top: 2px solid #ccc;
 }
 
 div.row{
 clear:both;
 }
+
+div.breadcrumbs{
+	margin-top: 40px;
+}
+
 /*To centre float figures and captions inside spans*/
 div.image > figure{
 	float:center;
 	text-align: center;
 }
 
+div.image{
+	text-align: center;
+}
+
+
 /*To darken line between blog entries on Words page*/
 ul.post-list > li{
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
+
 
 /*Styles for left/right images in blog posts*/
 figure.right{
