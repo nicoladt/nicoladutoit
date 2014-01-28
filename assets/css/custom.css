@@ -1,4 +1,10 @@
+a:hover{
+	text-decoration:none;
+}
 
+div.row{
+clear:both;
+}
 /*To centre float figures and captions inside spans*/
 div.image > figure{
 	float:center;
