@@ -1,46 +1,86 @@
+/*Remove double underline effect for links, add dotted underline to non-para links*/
+
+
+a:hover{
+	text-decoration:none;
+	border-bottom: 1px solid #a2a2a2;
+}
+
+/*to make hr thicker and darker*/
+hr{
+	border-top: 2px solid #aaa;
+}
+
+div.row{
+clear:both;
+}
+
+/*pushes down bradcrumbs on ux page*/
+div.breadcrumbs{
+	margin-top: 40px;
+}
+
+/*To centre float figures and captions inside spans*/
+div.image > figure{
+	float:center;
+	text-align: center;
+}
+
+div.image{
+	text-align: center;
+}
+
+
+/*To darken line between blog entries on Words page*/
+ul.post-list > li{
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+/*Styles for left/right images in blog posts*/
 figure.right{
-	float:right;
-	padding-left: 15px;
-	padding-top: 10px;
-	padding-bottom: none;
+        float:right;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: none;
 }
 
 figure.left{
-	float:left;
-	padding-right:15px;
-	padding-top: 10px;
+        float:left;
+        padding-right:15px;
+        padding-top: 10px;
 }
 
 figure.center{
-	text-align:center;
+        text-align:center;
 }
 
 figure.center figcaption{
 margin-left: auto;
-margin-right: auto;	
+margin-right: auto;        
 
 }
 figure figcaption{
-	text-align: center;
-	padding-top: 0px;
+        text-align: center;
+        padding-top: 0px;
 }
 
 figure.vertical img{
-	max-width: 150px;
+        max-width: 150px;
 }
 
 figure.horizontal img{
-	max-width: 250px;
+        max-width: 250px;
 }
 
 figure.vertical figcaption{
-	max-width: 150px;
-	word-wrap: normal;
+        max-width: 150px;
+        word-wrap: normal;
 }
 
 figure.horizontal figcaption{
-	max-width:250px;	
-	word-wrap: normal;
+        max-width:250px;        
+        word-wrap: normal;
 }
 
 figure a img{
@@ -57,25 +97,20 @@ figcaption a:hover{
 	border-bottom: 1px solid #a2a2a2;
 
 }
-
-div.span6{
-	padding:10px;
+/*To refloat pagination buttons to centre*/
+nav.pagination{
+	display:block;
 }
 
-div.left{
-	float:left;
+h1, h2, h3{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
 }
 
-div.right{
-	float:right;
+h1.entry-title{
+	margin-top:0.5em;
+	margin-bottom:1em;
 }
 
-div.right > figure > figcaption{
-	max-width: 235px;
-	word-wrap: normal;
-}
 
-div.row{
-	clear:both;	
-}
 

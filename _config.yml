@@ -4,7 +4,7 @@ logo:
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:             http://nicoladutoit.com
+url:       http://nicoladutoit.com      
 baseurl:	 
 
 #
@@ -15,11 +15,11 @@ owner:
   avatar:         avatar.jpg
   email:          nicoladutoit@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: http://twitter.com/sophdex      
+  twitter: sophdex      
   facebook:       
-  github: https://github.com/nicoladt    
+  github: nicoladt    
   stackexchange:  
-  linkedin: za.linkedin.com/in/nicoladutoit/
+  linkedin: nicoladutoit
   instagram:      
   flickr:         
   tumblr:         
@@ -56,8 +56,6 @@ markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
-
-
 
 kramdown:
   auto_ids: true
