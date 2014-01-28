@@ -5,7 +5,7 @@ title: Graphic design
 description: "A portfolio of graphic design work."
 ---
 
-I have a concert pianist mother and a photographer father. I also love playing around with visual design. Sometimes family favours and having fun in Photoshop converge:
+I have a concert pianist mother and a photographer father. I also love playing around with graphic design. Sometimes family favours and visual experimentation converge.
 
 <div class="row">
 <div class="col-md-6 image">

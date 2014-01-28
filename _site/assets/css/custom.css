@@ -97,7 +97,20 @@ figcaption a:hover{
 	border-bottom: 1px solid #a2a2a2;
 
 }
+/*To refloat pagination buttons to centre*/
+nav.pagination{
+	display:block;
+}
 
+h1, h2, h3{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+
+h1.entry-title{
+	margin-top:0.5em;
+	margin-bottom:1em;
+}
 
 
 
