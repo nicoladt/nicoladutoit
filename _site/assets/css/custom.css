@@ -1,46 +1,52 @@
+div.image > figure{
+	float:center;
+	text-align: center;
+}
+
+/*Styles for left/right images in blog posts*/
 figure.right{
-	float:right;
-	padding-left: 15px;
-	padding-top: 10px;
-	padding-bottom: none;
+        float:right;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: none;
 }
 
 figure.left{
-	float:left;
-	padding-right:15px;
-	padding-top: 10px;
+        float:left;
+        padding-right:15px;
+        padding-top: 10px;
 }
 
 figure.center{
-	text-align:center;
+        text-align:center;
 }
 
 figure.center figcaption{
 margin-left: auto;
-margin-right: auto;	
+margin-right: auto;        
 
 }
 figure figcaption{
-	text-align: center;
-	padding-top: 0px;
+        text-align: center;
+        padding-top: 0px;
 }
 
 figure.vertical img{
-	max-width: 150px;
+        max-width: 150px;
 }
 
 figure.horizontal img{
-	max-width: 250px;
+        max-width: 250px;
 }
 
 figure.vertical figcaption{
-	max-width: 150px;
-	word-wrap: normal;
+        max-width: 150px;
+        word-wrap: normal;
 }
 
 figure.horizontal figcaption{
-	max-width:250px;	
-	word-wrap: normal;
+        max-width:250px;        
+        word-wrap: normal;
 }
 
 figure a img{
@@ -58,94 +64,9 @@ figcaption a:hover{
 
 }
 
-div.span6{
-	padding:10px;
-}
-
-div.left{
-	float:left;
-}
-
-div.right{
-	float:right;
-}
-
-div.right > figure > figcaption{
-	max-width: 235px;
-	word-wrap: normal;
-}
 
 div.row{
 	clear:both;	
 }
 
 
-
-.gallery
-
-{
-        width: 700px;
-
-	cursor: default;
-
-	list-style: none;
-
-}
-
-
-#images {
-  float: left;
-  width: 600px;
-}
-
-.gallery img
-
-{
-
-	background: #fff;
-
-	border-color: #aaa #ccc #ddd #bbb;
-
-	border-style: solid;
-
-	border-width: 1px;
-
-	color: inherit;
-
-	padding: 2px;
-
-	vertical-align: top;
-
-	width: 100px;
-
-	height: 75px;
-
-}
-
-
-
-.gallery li
-
-{
-
-	background: #eee;
-
-	border-color: #ddd #bbb #aaa #ccc;
-
-	border-style: solid;
-
-	border-width: 1px;
-
-	color: inherit;
-
-	display: inline;
-
-	float: left;
-
-	margin: 3px;
-
-	padding: 5px;
-
-	position: relative;
-
-}
