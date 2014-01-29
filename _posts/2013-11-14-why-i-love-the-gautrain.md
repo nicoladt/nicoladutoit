@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I love the Gautrain
-description: "Why believe in fairy tales when you have real life? Atheists have souls too..."
+description: "On Johannesburg's Gautrain and why it's an extraordinary thing."
 modified: 2013-09-17
 category: articles
 tags: [transport, South Africa, optimism]
