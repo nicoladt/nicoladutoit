@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-01-28T23:46:32+02:00</updated>
+<updated>2014-01-29T11:48:09+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
@@ -296,7 +296,7 @@ Because: fuck English!&lt;/figcaption&gt;
 
 
 <entry>
-  <title type="html"><![CDATA[ZoneAlarm you're dead to me now.]]></title>
+  <title type="html"><![CDATA[ZoneAlarm you're dead to me now]]></title>
   <link>/articles/zonealarm-youre-dead-to-me-now</link>
   <id>/articles/zonealarm-youre-dead-to-me-now</id>
   <updated>2013-08-14T00:00:00-00:00</updated>
@@ -325,7 +325,7 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;p&gt;Update: on uninstalling the damn thing, I was asked to provide customer feedback, so I did: “Remove the checkboxes, and I’ll reinstall your product.”&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now.&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -434,47 +434,57 @@ recommended too. As with the other services, Evernote provides free access in ex
   </author>
   <content type="html">&lt;p&gt;My original intention for resurrecting my blog was to write about tech-ified things. But, life is far more interesting and varied than that, so here’s a story about how I recently started remembering how to run.&lt;/p&gt;
 
-&lt;figure class=&quot;right horizontal&quot;&gt;
-	&lt;img src=&quot;http://farm8.staticflickr.com/7035/6808990081_2d728abc1c_m.jpg&quot; /&gt;
+&lt;div class=&quot;col-md-5 col-xs-12 image right&quot;&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://farm8.staticflickr.com/7035/6808990081_2d728abc1c_m.jpg&quot; /&gt;
 &lt;figcaption&gt;This man is probably on drugs. &lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/mdpettitt/6808990081/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: Martin Pettitt on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I have never been a fan of exercise. In high school I traded in Physical Education for music lessons at the first possible opportunity.  I’ve always judged people who run marathons, swim kilometres, cycle races (OK, I still judge cyclists but that’s Lance Armstrong’s fault). I was convinced they were all obsessed, insane motherfuckers. Why the hell would you go running at the end of a tough day, when you could have a glass of wine and watch the sunset like a reasonable person?&lt;/p&gt;
 
-&lt;figure class=&quot;left vertical&quot;&gt;
+&lt;div class=&quot;col-md-4 image&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;/images/dogs.jpg&quot; /&gt;
 &lt;figcaption&gt;These aren't high maintenance dogs at all.&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;My disdain for exercise (with the exception of dog walking, which is a necessity with two hyper Rough Collies) and very sloppy eating habits inevitably resulted in the gradual expansion of my (and the Boyfriend’s) waistline. At the end of 2011, we both decided something had to be done, and so we started &lt;a href=&quot;http://www.mujaji.org.za/&quot; target=&quot;_blank&quot;&gt;dragonboating&lt;/a&gt; (an awesome story for another day). At the beginning of 2012 after some alarming blood tests, we also overhauled our diet, and we both started fittening up and slimming down. Things stalled in the middle of the year though (winter, work, stress) and although we didn’t regain weight, the weight loss process stagnated.&lt;/p&gt;
 
 &lt;p&gt;And so, at the beginning of this year, we decided to try again - we knew that a combination of intense exercise and healthy eating had worked for us before. We already had a mountainous dog-walking loop on the slopes of Table Mountain. We just had to make a concerted effort to get there several times a week.&lt;/p&gt;
 
-&lt;figure class=&quot;right vertical&quot;&gt;
+&lt;div class=&quot;col-md-4 image right&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg&quot; /&gt;
 &lt;figcaption&gt;That's me walking my dogs, up a vertical rock face. (Dogs not included)&lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/lynnmwillis/2462288281/sizes/n/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: lynnmwillis on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The first few weeks were terrible. To be sure, our usual route is no amble in the forest - it’s steep, rocky, hilly (it really is on the slopes of a substantial mountain). Nonetheless, I felt like Sir Edmund Hilary climbing bloody Everest. My legs ached with every step. My lungs raged against me. Tears welled up in my eyes at the sight of some of those uphill slopes. I trailed miserably behind Boyfriend, who is much better acclimatised to walking than me. I may have been paddling-fit from all the dragonboat training, but I sucked at walking.&lt;/p&gt;
 
 &lt;p&gt;Not long after we hit the forest again, we paddled in a big dragonboating regatta, and our club narrowly lost out on some gold medals, much to our disappointment. We realised that we needed to become all-round fit and lose some more kilos, in order to paddle harder. Shortly after, we also quit smoking (that’s another awesome story for another day - suffice to say that it’s been 5 weeks and I’m feeling totally fantastic!). I suspect I’ll look back and say that quitting smoking and losing those gold medals was the beginning of my running career.&lt;/p&gt;
 
-&lt;figure class=&quot;left horizontal&quot;&gt;
+&lt;div class=&quot;col-md-5 image&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;http://farm9.staticflickr.com/8330/8113284229_a8abdc5721_n.jpg&quot; /&gt;
 &lt;figcaption&gt;It turns out that shins are real pricks.
 Not as big pricks as cigarettes though.&lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/tabor-roeder/8113284229/sizes/n/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: Phil Roeder on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;We know many people who run (whom I used to think were clinically insane, but now have huge respect for), who all gave us the same advice: take it slowly. So, I started out only trying to run on the flat bits. And then my shins ached and I had to stop. I experimented with different gaits, cadences, speeds, breathing. It all felt horrible, awkward, even worse than the walking. But I persevered. Every time I could run a little bit further before it felt like my shins were going to implode, or before I started hyperventilating and seeing the forest in tunnel-shaped shades of grey. And every time the walking in between became noticeably easier (I can now comfortably power walk at boyfriend’s pace).&lt;/p&gt;
 
-&lt;figure class=&quot;right vertical&quot;&gt;
+&lt;div class=&quot;col-md-4 col-xs-12 image right&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;http://farm1.staticflickr.com/47/127206671_3cbfa594fc_n.jpg&quot; /&gt;
 &lt;figcaption&gt;Keith Richards is my running coach.&lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/julio_/127206671/sizes/n/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: Julius! on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;One day, whilst listening to The Rollin’ Stones “Jumpin’ Jack Flash” I found myself running down a very long hill, and nothing hurt. My heart rate was stable. I looked up at the clouds through the trees and felt like I was floating through the woods. I realised if I could find that sweet spot just once, briefly, I could find it again. And I have, almost every time we’ve been back (unless we’re just walking on a rest day).&lt;/p&gt;
 
@@ -482,18 +492,22 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 
 &lt;p&gt;I’m aiming to run our entire loop one of these days. And then I’m going to run it twice, and then I’m going to enter a 5km trail run. That’s my running saga to date. (Edit: See update below.)&lt;/p&gt;
 
-&lt;figure class=&quot;center horizontal&quot;&gt;
+&lt;div class=&quot;col-md-5 image center&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;http://farm9.staticflickr.com/8281/7734344062_abdbb67a6d_n.jpg&quot; /&gt;
 &lt;figcaption&gt;Future me is a speedy, black Jamaican man.&lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/nickwebb/7734344062/sizes/n/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: Nick J Webb on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The running is part of a bigger process though, that’s turning out to be a new journey with myself. I realised today that I am much, much tougher than I thought. I can push myself harder than I’d ever expected. My comfort zone is expanding by the day. I’m no longer scared of falling on my face, or losing control of my legs, or slipping and landing on my arse. In fact, I &lt;i&gt;love&lt;/i&gt; the feeling of free-wheeling on my own two feet. I’m not afraid of the discomfort of burning lungs and aching muscles. Running up that damn hill today, it felt like a whole world of possibilities was literally unfurling before me with each step. And it felt like I was returning to that gleeful comfortable-in-my-body, fierce fearlessness that I knew and loved as a kid.&lt;/p&gt;
 
-&lt;figure class=&quot;center vertical&quot;&gt;
+&lt;div class=&quot;col-md-5 image center&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;/images/OubosRock.jpg&quot; /&gt;
 &lt;figcaption&gt;Fearless, fierce me (no really) embarking on my rock climbing career, aged 3.&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;A colleague who recently ran the 56km &lt;a href=&quot;http://www.twooceansmarathon.org.za/&quot; target=&quot;_blank&quot;&gt;Two Oceans Ultra Marathon&lt;/a&gt; said to me today:&lt;/p&gt;
 
@@ -503,10 +517,12 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 
 &lt;p&gt;We all knew how to run when we were kids. Why do we apparently forget how to do it when we grow up? I don’t think our legs forget - we’re animals after all. I think at some point we stop running and then our minds become fearful. I think mostly, we fear failure, and we avoid trying the things that we fear. And then we forget that once upon a time, these were things we loved, relished and did with joy… Learning how to run is not something new, it’s something old (in the personal and evolutionary sense). It’s a return to something wonderful that I used to be able to do. It’s remembering what has happened before, and forgetting the fear about what is still to come.&lt;/p&gt;
 
-&lt;figure class=&quot;center vertical&quot;&gt;
+&lt;div class=&quot;col-md-5 image center&quot;&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;/images/newlands.jpg&quot; /&gt;
 &lt;figcaption&gt;Boyfriend and dogs, in our really shitty gym.&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Update (July 2013): Since writing this post, I have had an absolute blast running the &lt;a href=&quot;http://www.vws.org.za/?p=3234&quot; target=&quot;_blank&quot;&gt;Volunteer Wildfire Services 10km trail run&lt;/a&gt; on the slopes of Table Mountain and the 11 km &lt;a href=&quot;http://www.magneticsouth.net/events/salomon-featherbed-trail-run/&quot; target=&quot;_blank&quot;&gt;Salomon Featherbed Seahorse trail run&lt;/a&gt; in Knysna. Next up is the &lt;a href=&quot;http://trailrunning.co.za/events_detail.php?id=710&amp;amp;type=current&quot; target=&quot;_blank&quot;&gt;Salomon Bastille Day trail run&lt;/a&gt; this weekend! Bring on them mountains! I’ve also had this blog post published in the &lt;a href=&quot;http://www.gomulti.co.za/2013/06/18/issue-7-trail-magazine-released/&quot; target=&quot;_blank&quot;&gt;July edition of Trail&lt;/a&gt; magazine. Yay!&lt;/p&gt;
 
