@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZoneAlarm you're dead to me now.
+title: ZoneAlarm you're dead to me now
 description: "How ZoneAlarm lost a loyal client, with their crappy new scheme of entrapment-at-installation."
 modified: 2013-08-14
 category: articles

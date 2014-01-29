@@ -15,6 +15,16 @@ div.row{
 clear:both;
 }
 
+div.right{
+	float:right;
+}
+
+div.center{
+	float:center;
+	margin-left: auto;
+margin-right: auto;
+}
+
 /*pushes down bradcrumbs on ux page*/
 div.breadcrumbs{
 	margin-top: 40px;
@@ -31,14 +41,18 @@ div.image{
 }
 
 
+
+
+
+}
 /*To darken line between blog entries on Words page*/
 ul.post-list > li{
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 
-/*Styles for left/right images in blog posts*/
-figure.right{
+/*Styles for left/right images in blog posts - POSSIBLY UNNCESSESARY*/
+/*figure.right{
         float:right;
         padding-left: 15px;
         padding-top: 10px;
@@ -82,7 +96,7 @@ figure.horizontal figcaption{
         max-width:250px;        
         word-wrap: normal;
 }
-
+*/
 figure a img{
 	-webkit-opacity: 1;
 	opacity: 1;
