@@ -23,5 +23,6 @@ There are many ways in which one can do design work. The usual process I follow 
 
 <b>Development and testing</b>: whether development happens in-house or externally the implementation phase typically involves many iterations of development, further changes to design, and thorough testing. At all stages of the design process, progress is cyclical and work needs to be continually revisited and reassessed!
 
-<figure class="center horizontal"><a href="{{ site.url }}/images/post-it.jpg" data-lightbox="post-its" Title="Brainstorming use cases and functionality"><img src="{{ site.url }}/images/post-it.jpg" alt=""></a></figure>
-
+<div class="col-md-6 image center">
+<figure><a href="{{ site.url }}/images/post-it.jpg" data-lightbox="post-its" Title="Brainstorming use cases and functionality"><img src="{{ site.url }}/images/post-it.jpg" alt=""></a></figure>
+</div>

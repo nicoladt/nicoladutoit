@@ -15,9 +15,11 @@ Words are not merely strings of letters, thrown together in random sequences. Th
 
 Knowingly using bad grammar and willfully neglecting spellcheckers or dictionaries (particularly in this day and age!) is like stomping through a flowerbed of spring bulbs because you're too petulant and lazy to rather walk a bit further along a well-trodden path.
 
-<figure class="center vertical"><a href="{{ site.url }}/images/flowers.JPG"><img src="{{ site.url }}/images/flowers.JPG"/></a><figcaption>All these hateful flowerwords must die!<br />
+<div class="col-md-5 image center">
+<figure><a href="{{ site.url }}/images/flowers.JPG" data-lightbox="flowers"><img src="{{ site.url }}/images/flowers.JPG"/></a><figcaption>All these hateful flowerwords must die!<br />
 Because: fuck English!</figcaption>
 </figure>
+</div>
 
 Call me a Grammar Nazi if you will. I prefer to think of myself as a well-educated, well-read linguaphile. I love words. I love reading them, speaking them, writing them, playing with them. They create worlds of meaning in which I have danced joyfully and wallowed luxuriously for years.
 
@@ -34,8 +36,9 @@ In this day and age there is simply no excuse for not understanding the differen
 
 Stop trashing the linguistic flowerbeds like a grunting gorilla and start walking along a grammatically-correct path like an articulate, intelligent human being.
 
-<figure class="center vertical"><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg"></a><figcaption>(I suspect <a href="http://en.wikipedia.org/wiki/Charles_Dickens" target="_blank">this man</a> would agree.)</figcaption></figure>
-
+<div class="col-md-5 image center">
+<figure><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg" data-lightbox="Dickens" title="That's Mr Dickens to you"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg"></a><figcaption>(I suspect <a href="http://en.wikipedia.org/wiki/Charles_Dickens" target="_blank">this man</a> would agree.)</figcaption></figure>
+</div>
 (Disclaimer: this post is in no way aimed at second or third language speakers or writers, or at people with legitimate language woes like dyslexia. It's aimed at people who are supposedly fluent in their mother tongue, yet consistently (and knowingly) get their grammar and spelling wrong. We all make mistakes, but we can also learn from them. I'm not making any sweeping claims about my grammar being perfect, but I'd like to think I at least try to get it right...)
 
 (Note: if there are any typos of grammatical errors in this post, I shall run myself on a sword post-haste.)

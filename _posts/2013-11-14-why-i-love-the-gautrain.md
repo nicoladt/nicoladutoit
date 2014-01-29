@@ -15,7 +15,7 @@ To many people, this might sound like a strange fact, but white kids like me who
 Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.
 
 <div class="col-md-6 image center">
-<figure><a href="http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg" ><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg"/></a><figcaption>Trains under the ground: not a thing in 1890's Joburg.</figcaption></figure>
+<figure><a href="http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg" data-lightbox="underground"><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg"/></a><figcaption>Trains under the ground: not a thing in 1890's Joburg.</figcaption></figure>
 </div>
 
 And so, I grew up believing that trains were really a thing that only happened in England and Europe and the rest of the First World. I traveled on trains in London, Paris, Rome, Berlin, Singapore and California, before I stepped onto one in the city I have lived longest.
@@ -31,7 +31,7 @@ The train journey itself seemed like a dream - cutting over highways and interse
 The novelty of taking a high speed train in my own city, in my own country! The novelty of safe, efficient public transport not only replacing a road trip, but shortening the commute to the Airport to a fraction of the time, not to mention the stress! The novelty of taking just a few minutes to travel dozens of kilometres during peak rush hour traffic! All of this excitement I put down to Gautrain-virgin glee.
 
 <div class="col-md-6 image center">
-<figure><a href="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg"><img src="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg" ></a><figcaption>Joburg at rush hour: less appealing than triple bypass surgery.<br />
+<figure><a href="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg" data-lightbox="jozi"><img src="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg" ></a><figcaption>Joburg at rush hour: less appealing than triple bypass surgery.<br />
 Image by <a href="http://www.flickr.com/photos/francapicc/">jespahjoy</a> on Flickr</figcaption>
 </figure>
 </div>
@@ -41,7 +41,7 @@ Until yesterday, when (several months later) I caught the Gautrain to the airpor
 I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.
 
 <div class="col-md-6 image center">
-<figure><a href="{{ site.url }}/images/gautrain.jpg"><img src="{{ site.url }}/images/gautrain.jpg" /></a><figcaption>21st century Joburg is a pretty shiny sight. </figcaption></figure>
+<figure><a href="{{ site.url }}/images/gautrain.jpg" data-lightbox="gautrain"><img src="{{ site.url }}/images/gautrain.jpg" /></a><figcaption>21st century Joburg is a pretty shiny sight. </figcaption></figure>
 </div>
 
 In my lifetime I have often wondered what this magnificent country would be like today if we didn't have an appalling history of oppression and bigotry; if all South Africans had been permitted to realise their full potential for the last four centuries; and if democracy and capitalism had been the norm for hundreds of years.
@@ -51,5 +51,5 @@ Because we can't undo history, I have also often wondered what future South Afri
 Catching the Gautrain today, I realised that we are already watching the sun rise on those rolling green hills. Whilst the past and much of the present is still painful and complicated and difficult to fix, future South Africa is already here. It's happening now, one train trip at a time, literally in the rich red soil beneath our feet.
 
 <div class="col-md-6 image center">
-<figure><a href="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg"><img src="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg"/></a><figcaption>Image by  <a href="http://www.flickr.com/photos/wildlife_encounters/">Steve Slater (Wildlife Encounters)</a> on Flickr</figcaption></figure>
+<figure><a href="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg" data-lightbox="mountains"><img src="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg"/></a><figcaption>Image by  <a href="http://www.flickr.com/photos/wildlife_encounters/">Steve Slater (Wildlife Encounters)</a> on Flickr</figcaption></figure>
 </div>

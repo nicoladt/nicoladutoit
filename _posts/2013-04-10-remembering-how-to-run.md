@@ -12,7 +12,7 @@ My original intention for resurrecting my blog was to write about tech-ified thi
 
 <div class="col-md-5 col-xs-12 image right">
 <figure>
-<img src="http://farm8.staticflickr.com/7035/6808990081_2d728abc1c_m.jpg">
+<a href="http://farm8.staticflickr.com/7035/6808990081_2d728abc1c_m.jpg" data-lightbox="biker"><img src="http://farm8.staticflickr.com/7035/6808990081_2d728abc1c_m.jpg"></a>
 <figcaption>This man is probably on drugs. <br />
 <a href="http://www.flickr.com/photos/mdpettitt/6808990081/in/photostream/" target="_blank">(Image: Martin Pettitt on Flickr</a>)</figcaption>
 </figure>
@@ -24,7 +24,7 @@ I have never been a fan of exercise. In high school I traded in Physical Educati
 
 <div class="col-md-4 image">
 <figure>
-	<img src="{{ site.url }}/images/dogs.jpg">
+	<a href="{{ site.url }}/images/dogs.jpg" data-lightbox="dogs"><img src="{{ site.url }}/images/dogs.jpg"></a>
 <figcaption>These aren't high maintenance dogs at all.</figcaption>
 </figure>
 </div>
@@ -35,7 +35,7 @@ And so, at the beginning of this year, we decided to try again - we knew that a 
 
 <div class="col-md-4 image right">
 <figure>
-	<img src="http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg">
+	<a href="http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg" data-lightbox="climbing"><img src="http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg"></a>
 <figcaption>That's me walking my dogs, up a vertical rock face. (Dogs not included)<br />
 <a href="http://www.flickr.com/photos/lynnmwillis/2462288281/sizes/n/in/photostream/" target="_blank">(Image: lynnmwillis on Flickr</a>)</figcaption>
 </figure>
@@ -47,7 +47,7 @@ Not long after we hit the forest again, we paddled in a big dragonboating regatt
 
 <div class="col-md-5 image">
 <figure>
-	<img src="http://farm9.staticflickr.com/8330/8113284229_a8abdc5721_n.jpg">
+	<a href="http://farm9.staticflickr.com/8330/8113284229_a8abdc5721_n.jpg" data-lightbox="shins"><img src="http://farm9.staticflickr.com/8330/8113284229_a8abdc5721_n.jpg"></a>
 <figcaption>It turns out that shins are real pricks.
 Not as big pricks as cigarettes though.<br />
 <a href="http://www.flickr.com/photos/tabor-roeder/8113284229/sizes/n/in/photostream/" target="_blank">(Image: Phil Roeder on Flickr</a>)</figcaption>
@@ -58,7 +58,7 @@ We know many people who run (whom I used to think were clinically insane, but no
 
 <div class="col-md-4 col-xs-12 image right">
 <figure>
-	<img src="http://farm1.staticflickr.com/47/127206671_3cbfa594fc_n.jpg">
+	<a href="http://farm1.staticflickr.com/47/127206671_3cbfa594fc_n.jpg" data-lightbox="keef"><img src="http://farm1.staticflickr.com/47/127206671_3cbfa594fc_n.jpg"></a>
 <figcaption>Keith Richards is my running coach.<br />
 <a href="http://www.flickr.com/photos/julio_/127206671/sizes/n/in/photostream/" target="_blank">(Image: Julius! on Flickr</a>)</figcaption>
 </figure>
@@ -73,7 +73,7 @@ I'm aiming to run our entire loop one of these days. And then I'm going to run i
 
 <div class="col-md-5 image center">
 <figure>
-	<img src="http://farm9.staticflickr.com/8281/7734344062_abdbb67a6d_n.jpg">
+	<a href="http://farm9.staticflickr.com/8281/7734344062_abdbb67a6d_n.jpg" data-lightbox="bolt"><img src="http://farm9.staticflickr.com/8281/7734344062_abdbb67a6d_n.jpg"></a>
 <figcaption>Future me is a speedy, black Jamaican man.<br />
 <a href="http://www.flickr.com/photos/nickwebb/7734344062/sizes/n/in/photostream/" target="_blank">(Image: Nick J Webb on Flickr</a>)</figcaption>
 </figure>
@@ -82,9 +82,9 @@ I'm aiming to run our entire loop one of these days. And then I'm going to run i
 
 The running is part of a bigger process though, that's turning out to be a new journey with myself. I realised today that I am much, much tougher than I thought. I can push myself harder than I'd ever expected. My comfort zone is expanding by the day. I'm no longer scared of falling on my face, or losing control of my legs, or slipping and landing on my arse. In fact, I <i>love</i> the feeling of free-wheeling on my own two feet. I'm not afraid of the discomfort of burning lungs and aching muscles. Running up that damn hill today, it felt like a whole world of possibilities was literally unfurling before me with each step. And it felt like I was returning to that gleeful comfortable-in-my-body, fierce fearlessness that I knew and loved as a kid.
 
-<div class="col-md-5 image center">
+<div class="col-md-4 image center">
 <figure>
-	<img src="{{ site.url }}/images/OubosRock.jpg">
+	<a href ="{{ site.url }}/images/OubosRock.jpg" data-lightbox="oubos"> <img src="{{ site.url }}/images/OubosRock.jpg"></a>
 <figcaption>Fearless, fierce me (no really) embarking on my rock climbing career, aged 3.</figcaption>
 </figure>
 </div>
@@ -97,7 +97,7 @@ We all knew how to run when we were kids. Why do we apparently forget how to do 
 
 <div class="col-md-5 image center">
 <figure>
-	<img src="{{ site.url }}/images/newlands.jpg">
+	<a href="{{ site.url }}/images/newlands.jpg" data-lightbox="gym"> <img src="{{ site.url }}/images/newlands.jpg"></a>
 <figcaption>Boyfriend and dogs, in our really shitty gym.</figcaption>
 </figure>
 </div>
