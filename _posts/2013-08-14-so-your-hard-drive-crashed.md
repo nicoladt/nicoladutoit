@@ -74,7 +74,7 @@ Dropbox is ideal for lazy users, who, like me, want offsite syncing and backup t
 Evernote is a brilliant tool for people who want to be organised. Content (in all shapes and sizes) can be organised into notebooks and folders, and labelled with tags. Imagine keeping track of a whack of PDF's, web clippings and notes for a thesis literature review. Now imagine those same documents neatly filed and grouped, with searchable titles and tags. And now imagine all of this organisation being available to you on any device and on the web. Who needs a personal assistant when you have an elephant?
 
 <div class="col-md-3 image right">
-<figure"><img src="http://evernote.com/media/img/logos/evernote_logo_4c-sm.png" />
+<figure><img src="http://evernote.com/media/img/logos/evernote_logo_4c-sm.png" />
 <figcaption>The <a href="http://evernote.com/" target="_blank">Evernote elephant</a> has got you covered with his trunk.</figcaption></figure>
 </div>
 Evernote also comes with a large suite of helper tools. The <a href="http://evernote.com/webclipper/" target="_blank">Evernote web clipper</a> is my favourite (for seamlessly saving bits of websites into my Evernote notebooks) but <a href="http://evernote.com/skitch/" target="_blank">Skitch</a>&nbsp;and <a href="http://evernote.com/penultimate/" target="_blank">Penultimate</a>&nbsp;apparently come highly
