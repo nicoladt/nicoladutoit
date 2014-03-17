@@ -11,19 +11,8 @@ hr{
 	border-top: 2px solid #aaa;
 }
 
-/*Bootstrappy bits to float divs in blog posts*/
 div.row{
 clear:both;
-}
-
-div.right{
-	float:right;
-}
-
-div.center{
-	float:center;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 /*pushes down bradcrumbs on ux page*/
@@ -42,14 +31,58 @@ div.image{
 }
 
 
-}
 /*To darken line between blog entries on Words page*/
 ul.post-list > li{
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 
-/*styles for images inside figures*/
+/*Styles for left/right images in blog posts*/
+figure.right{
+        float:right;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: none;
+}
+
+figure.left{
+        float:left;
+        padding-right:15px;
+        padding-top: 10px;
+}
+
+figure.center{
+        text-align:center;
+}
+
+figure.center figcaption{
+margin-left: auto;
+margin-right: auto;        
+
+}
+figure figcaption{
+        text-align: center;
+        padding-top: 0px;
+}
+
+figure.vertical img{
+        max-width: 150px;
+}
+
+figure.horizontal img{
+        max-width: 250px;
+}
+
+figure.vertical figcaption{
+        max-width: 150px;
+        word-wrap: normal;
+}
+
+figure.horizontal figcaption{
+        max-width:250px;        
+        word-wrap: normal;
+}
+
 figure a img{
 	-webkit-opacity: 1;
 	opacity: 1;
@@ -75,7 +108,7 @@ h1, h2, h3{
 }
 
 h1.entry-title{
-	margin-top:0.5em;
+	margin-top:1em;
 	margin-bottom:1em;
 }
 
