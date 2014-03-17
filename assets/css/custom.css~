@@ -1,0 +1,116 @@
+/*Remove double underline effect for links, add dotted underline to non-para links*/
+
+
+a:hover{
+	text-decoration:none;
+	border-bottom: 1px solid #a2a2a2;
+}
+
+/*to make hr thicker and darker*/
+hr{
+	border-top: 2px solid #aaa;
+}
+
+div.row{
+clear:both;
+}
+
+/*pushes down bradcrumbs on ux page*/
+div.breadcrumbs{
+	margin-top: 40px;
+}
+
+/*To centre float figures and captions inside spans*/
+div.image > figure{
+	float:center;
+	text-align: center;
+}
+
+div.image{
+	text-align: center;
+}
+
+
+/*To darken line between blog entries on Words page*/
+ul.post-list > li{
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+/*Styles for left/right images in blog posts*/
+figure.right{
+        float:right;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: none;
+}
+
+figure.left{
+        float:left;
+        padding-right:15px;
+        padding-top: 10px;
+}
+
+figure.center{
+        text-align:center;
+}
+
+figure.center figcaption{
+margin-left: auto;
+margin-right: auto;        
+
+}
+figure figcaption{
+        text-align: center;
+        padding-top: 0px;
+}
+
+figure.vertical img{
+        max-width: 150px;
+}
+
+figure.horizontal img{
+        max-width: 250px;
+}
+
+figure.vertical figcaption{
+        max-width: 150px;
+        word-wrap: normal;
+}
+
+figure.horizontal figcaption{
+        max-width:250px;        
+        word-wrap: normal;
+}
+
+figure a img{
+	-webkit-opacity: 1;
+	opacity: 1;
+	-moz-opacity: 1;
+}
+
+figcaption a{
+	border-bottom: 1px dotted #a2a2a2;
+}
+
+figcaption a:hover{
+	border-bottom: 1px solid #a2a2a2;
+
+}
+/*To refloat pagination buttons to centre*/
+nav.pagination{
+	display:block;
+}
+
+h1, h2, h3{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+
+h1.entry-title{
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
+
+
