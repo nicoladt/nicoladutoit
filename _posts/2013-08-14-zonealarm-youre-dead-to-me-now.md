@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZoneAlarm you're dead to me now.
+title: ZoneAlarm you're dead to me now
 description: "How ZoneAlarm lost a loyal client, with their crappy new scheme of entrapment-at-installation."
 modified: 2013-08-14
 category: articles
@@ -10,7 +10,9 @@ tags: [entrapment, firewall, ux fail]
 
 Having used <a href="http://www.zonealarm.com/security/en-us/home.htm" target="_blank">ZoneAlarm</a>'s free firewall in Windows for years and years, I just tried to upgrade, and got this:
 
-<img src="{{ site.url }}/images/zonealarm.PNG">
+<div class="col-md-10 image center">
+<a href="{{ site.url }}/images/zonealarm.PNG" data-lightbox="zonealarm"><img src="{{ site.url }}/images/zonealarm.PNG"></a>
+</div>
 
 >"To enable "Agree" please check the two boxes below.
 ><ul>
