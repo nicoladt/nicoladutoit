@@ -8,7 +8,7 @@ tags: [cooking, food, fish]
  
 ---
 <p>I've never been a huge fan of seafood. When I was a wee lass my favourite thing in the world was fish paste on toast, but one bad experience with a tiny bone left me feeling forever mistrustful of supposedly deboned ocean-going creatures. 
-div class="col-md-6 image right">
+<div class="col-md-6 image right">
 <figure class="right horizontal"><img src="{{ site.url }}/images/Merluccius_capensis.jpg"><figcaption>Let's face it, this is not a particularly scrumptious sight.</figcaption></figure>
 </div></p>
 Nonetheless, a combination of post-thesis time and some dietary discipline (in order to become a lean, mean running machine) have meant that The Boyfriend and I have been trying to diversify our low carb diet. In order to do so though, I've had to become decidedly less picky about what I eat. Enter the <a href="http://en.wikipedia.org/wiki/Merluccius_capensis">hake</a>.
