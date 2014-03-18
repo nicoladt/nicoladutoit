@@ -17,14 +17,14 @@ That was the beginning of the end of my relationship with the word and concept o
 One day, whilst drinking wine and watching birds in one of the loveliest corners of the Earth, I realised that life itself is simply amazing. The tenacity of things to grow, and reproduce; of cells to divide; of organisms to evolve, is extraordinary. We have gardens and forests and deserts and oceans and skies teeming with life. And life has been teeming for billions of years, with organisms that all have their place in a very complicated natural system. The genes handed down to me by my ancestors are uniquely my own, and yet I share DNA with every other person on Earth. Everything is connected and yet it is all unique.
 
 <div class="col-md-5 image center">
-<figure><a href="{{ site.url }}/images/brenton.JPG" data-lightbox="brenton"><img src="{{ site.url }}/images/brenton.JPG" width="250"/></a><figcaption>Think of all the things living in this sea!</figcaption></figure></div>
+<figure><a href="{{ site.url }}/images/brenton.JPG" data-lightbox="brenton"><img src="{{ site.url }}/images/brenton.JPG" width="250" alt="Brenton on Sea, Knysna"/></a><figcaption>Think of all the things living in this sea!</figcaption></figure></div>
 
 Science, and human intellect and perseverance have enabled us to understand how much of this complicated system works, and that is amazing too. What clever organisms we've become! And on top of science, us humans have art, music, love, words, feats of profound endurance, loyalty, courage and compassion.
 
 And it doesn't end on Earth. I once met a person who declared that they simply couldn't bear to look up at the night sky: they felt totally insignificant and overwhelmed. I look up at the stars and I feel elated. My soul soars at the knowledge that, as Carl Sagan so famously said, "we are all made of starstuff". To look at a thousand tiny points of light, millions of years away, and know that we are part of all this and it is a part of us too...
 
 <div class="col-md-5 image center">
-<figure><a href="http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg" data-lightbox="helix"><img  src="http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg" width="300"/> </a><figcaption>What's more incredible: that the <a href="http://en.wikipedia.org/wiki/Helix_Nebula">Helix Nebula</a> exists, or that we've been able to photograph it using a telescope in space?<br />
+<figure><a href="http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg" data-lightbox="helix"><img  src="http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg" width="300" alt="The Helix Nebula, Hubble Telescope"/> </a><figcaption>What's more incredible: that the <a href="http://en.wikipedia.org/wiki/Helix_Nebula">Helix Nebula</a> exists, or that we've been able to photograph it using a telescope in space?<br />
 Image: <a href="http://hubblesite.org/">Hubble Telescope</a></figcaption>
 </figure>
 </div>

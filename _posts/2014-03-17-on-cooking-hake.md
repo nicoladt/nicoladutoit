@@ -9,7 +9,7 @@ tags: [cooking, food, fish]
 ---
 <p>I've never been a huge fan of seafood. When I was a wee lass my favourite thing in the world was fish paste on toast, but one bad experience with a tiny bone left me feeling forever mistrustful of supposedly deboned ocean-going creatures. 
 <div class="col-md-6 image right">
-<figure class="right horizontal"><img src="{{ site.url }}/images/Merluccius_capensis.jpg"><figcaption>Let's face it, this is not a particularly scrumptious sight.</figcaption></figure>
+<figure class="right horizontal"><img src="{{ site.url }}/images/Merluccius_capensis.jpg" alt="uncooked hake"><figcaption>Let's face it, this is not a particularly scrumptious sight.</figcaption></figure>
 </div></p>
 Nonetheless, a combination of post-thesis time and some dietary discipline (in order to become a lean, mean running machine) have meant that The Boyfriend and I have been trying to diversify our low carb diet. In order to do so though, I've had to become decidedly less picky about what I eat. Enter the <a href="http://en.wikipedia.org/wiki/Merluccius_capensis">hake</a>.
 
@@ -38,7 +38,7 @@ A few weeks ago we bought some <a href="http://www.woolworths.co.za/store/fragme
 <li>coat the basted fish pieces in flour.</li>
 <li>fry the fish in some sunflower oil until the outsides are brown and crispy.</li>
 </ol>
-<div class="col-md-6 image center"><figure class="center horizontal"><img src="{{ site.url }}/images/hake.jpg"/>
+<div class="col-md-6 image center"><figure class="center horizontal"><img src="{{ site.url }}/images/hake.jpg" alt="battered, cooked hake"/>
 <figcaption>I suck at taking food photos but it looked pretty much like this. (Image by <a href="http://www.flickr.com/photos/chodhound/4549921273/sizes/l/" target="_blank">ChodHound</a> on Flickr)</figcaption></figure></div>
 All the quantites are relative to how much fish you want to make (I had to melt a bit of extra butter to baste all the fish) but I don't think they need to be precisely measured out - just use common sense. I think it would go well with steamed veg, or just about any greens or salad. A nice, light, tasty meal!
 

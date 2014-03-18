@@ -11,7 +11,7 @@ tags: [entrapment, firewall, ux fail]
 Having used <a href="http://www.zonealarm.com/security/en-us/home.htm" target="_blank">ZoneAlarm</a>'s free firewall in Windows for years and years, I just tried to upgrade, and got this:
 
 <div class="col-md-10 image center">
-<a href="{{ site.url }}/images/zonealarm.PNG" data-lightbox="zonealarm"><img src="{{ site.url }}/images/zonealarm.PNG"></a>
+<a href="{{ site.url }}/images/zonealarm.PNG" data-lightbox="zonealarm"><img src="{{ site.url }}/images/zonealarm.PNG" alt="ZoneAlarm dark patterns"></a>
 </div>
 
 >"To enable "Agree" please check the two boxes below.
