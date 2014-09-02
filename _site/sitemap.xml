@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://nicoladutoit.com</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://nicoladutoit.com/articles/on-cooking-hake</loc>
+        <loc>/articles/on-cooking-hake</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/the-ux-design-process</loc>
+        <loc>/articles/the-ux-design-process</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</loc>
+        <loc>/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/why-i-love-the-gautrain</loc>
+        <loc>/articles/why-i-love-the-gautrain</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/confessions-of-an-atheist</loc>
+        <loc>/articles/confessions-of-an-atheist</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/why-i-hate-your-bad-grammar</loc>
+        <loc>/articles/why-i-hate-your-bad-grammar</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/zonealarm-youre-dead-to-me-now</loc>
+        <loc>/articles/zonealarm-youre-dead-to-me-now</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/so-your-hard-drive-crashed</loc>
+        <loc>/articles/so-your-hard-drive-crashed</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/remembering-how-to-run</loc>
+        <loc>/articles/remembering-how-to-run</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/why-cc-by-sa-should-die</loc>
+        <loc>/articles/why-cc-by-sa-should-die</loc>
     </url>
     
     <url>
-        <loc>http://nicoladutoit.com/articles/to-blog-or-to-press</loc>
+        <loc>/articles/to-blog-or-to-press</loc>
     </url>
     
 </urlset>
