@@ -25,7 +25,9 @@ When I'm not drawing paper prototypes and thinking about the optimal opacity of 
 * <b>Most curious hobby</b>: avid bird-watching in South Africa's multitude of National Parks
 
 ##Contact 
-I'm a hermit who doesn't like sharing my personal e-mail address with the intertubes but you can find me on [twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
+I'm in the process of setting up a secure contact form (Sept 2014) and am loathe to share unsecure details with the intertubes. In the meantime my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
+
+
 
 
 
