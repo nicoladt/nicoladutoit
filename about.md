@@ -10,7 +10,9 @@ I am a user experience (UX) designer, musician and lover of words.
 
 I believe that all users are experts in their personal domains and that we need to spend more time asking people what they want and need from technology and less time designing to satisfy other agendas. User-centred design can and does make the Internet (my particular interest) a beautiful thing. 
 
-I currently work for a startup based in Cape Town, doing everything from UX design and copywriting to QA testing and high school textbook authoring. I've studied a variety of things, including psychology, law, international relations, classical music, computer science and astronomy. UX turned out to be a serendipitious combination of a number of things that I love including people, psychology, creative design and careful, logical problem-solving.
+I've studied a variety of things, including psychology, law, international relations, classical music, computer science and astronomy. UX turned out to be a serendipitious combination of a number of things that I love including people, psychology, creative design and careful, logical problem-solving. 
+
+My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. I'm currently in the process of setting up my own UX consultancy, whilst working part-time as a UX developer. 
 
 When I'm not drawing paper prototypes and thinking about the optimal opacity of checkboxes, I run in the mountains with my dogs, drink wine, watch too much British television and attempt to learn every Led Zeppelin bassline ever recorded.
 
