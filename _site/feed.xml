@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-09-02T20:33:07+02:00</updated>
+<updated>2015-02-02T16:11:28+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
@@ -25,9 +25,9 @@
     <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;I've never been a huge fan of seafood. When I was a wee lass my favourite thing in the world was fish paste on toast, but one bad experience with a tiny bone left me feeling forever mistrustful of supposedly deboned ocean-going creatures. 
+  <content type="html">&lt;p&gt;I&#39;ve never been a huge fan of seafood. When I was a wee lass my favourite thing in the world was fish paste on toast, but one bad experience with a tiny bone left me feeling forever mistrustful of supposedly deboned ocean-going creatures. 
 &lt;div class=&quot;col-md-6 image right&quot;&gt;
-&lt;figure class=&quot;right horizontal&quot;&gt;&lt;img src=&quot;/images/Merluccius_capensis.jpg&quot; alt=&quot;uncooked hake&quot; /&gt;&lt;figcaption&gt;Let's face it, this is not a particularly scrumptious sight.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;right horizontal&quot;&gt;&lt;img src=&quot;/images/Merluccius_capensis.jpg&quot; alt=&quot;uncooked hake&quot; /&gt;&lt;figcaption&gt;Let&#39;s face it, this is not a particularly scrumptious sight.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Nonetheless, a combination of post-thesis time and some dietary discipline (in order to become a lean, mean running machine) have meant that The Boyfriend and I have been trying to diversify our low carb diet. In order to do so though, I’ve had to become decidedly less picky about what I eat. Enter the &lt;a href=&quot;http://en.wikipedia.org/wiki/Merluccius_capensis&quot;&gt;hake&lt;/a&gt;.&lt;/p&gt;
 
@@ -41,7 +41,7 @@
 &lt;li&gt;4 frozen hake pieces&lt;/li&gt;
 &lt;li&gt;a bit of oil, for frying&lt;/li&gt;
 &lt;li&gt;a clove of garlic&lt;/li&gt;
-&lt;li&gt;salt, pepper, ground paprika (or pretty much anything else you'd like to use for flavour)&lt;/li&gt;
+&lt;li&gt;salt, pepper, ground paprika (or pretty much anything else you&#39;d like to use for flavour)&lt;/li&gt;
 &lt;li&gt;butter&lt;/li&gt;
 &lt;li&gt;a bit of plain flour&lt;/li&gt;
 &lt;li&gt;a dash of lemon juice&lt;/li&gt;
@@ -49,7 +49,7 @@
 
 &lt;h3&gt;Instructions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;rinse the frozen fish and pat try with some kitchen towel (NB: don't defrost it!).&lt;/li&gt;	
+&lt;li&gt;rinse the frozen fish and pat try with some kitchen towel (NB: don&#39;t defrost it!).&lt;/li&gt;	
 &lt;li&gt;fry the garlic in some oil, and remove from the heat.&lt;/li&gt;
 &lt;li&gt;melt a bit of butter in the microwave, and add the garlic, salt, pepper, paprika and lemon juice to the butter.&lt;/li&gt;
 &lt;li&gt;baste the frozen fish pieces in the garlic butter mix.&lt;/li&gt;
@@ -58,7 +58,7 @@
 &lt;/ol&gt;
 &lt;div class=&quot;col-md-6 image center&quot;&gt;&lt;figure class=&quot;center horizontal&quot;&gt;&lt;img src=&quot;/images/hake.jpg&quot; alt=&quot;battered, cooked hake&quot; /&gt;
 &lt;figcaption&gt;I suck at taking food photos but it looked pretty much like this. (Image by &lt;a href=&quot;http://www.flickr.com/photos/chodhound/4549921273/sizes/l/&quot; target=&quot;_blank&quot;&gt;ChodHound&lt;/a&gt; on Flickr)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
-All the quantites are relative to how much fish you want to make (I had to melt a bit of extra butter to baste all the fish) but I don't think they need to be precisely measured out - just use common sense. I think it would go well with steamed veg, or just about any greens or salad. A nice, light, tasty meal!
+All the quantites are relative to how much fish you want to make (I had to melt a bit of extra butter to baste all the fish) but I don&#39;t think they need to be precisely measured out - just use common sense. I think it would go well with steamed veg, or just about any greens or salad. A nice, light, tasty meal!
 
 (As an aside, I am quite appalled that I just blogged about food. This must be yet another symptom of my impending 30th birthday).
 
@@ -174,7 +174,7 @@ sudo gem install nokogiri
 &lt;pre&gt;&lt;code&gt;sudo gem install bundler
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;After this, create a file in your repo called &lt;code&gt;Gemfile&lt;/code&gt; and add the line &lt;code&gt;gem 'github-pages'&lt;/code&gt;. Then run the command:&lt;/p&gt;
+&lt;p&gt;After this, create a file in your repo called &lt;code&gt;Gemfile&lt;/code&gt; and add the line &lt;code&gt;gem &#39;github-pages&#39;&lt;/code&gt;. Then run the command:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;bundle install.
 &lt;/code&gt;&lt;/pre&gt;
@@ -204,7 +204,7 @@ sudo gem install nokogiri
 &lt;p&gt;Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-6 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; data-lightbox=&quot;underground&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; alt=&quot;The London Underground in 1890&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Trains under the ground: not a thing in 1890's Joburg.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; data-lightbox=&quot;underground&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; alt=&quot;The London Underground in 1890&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Trains under the ground: not a thing in 1890&#39;s Joburg.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;And so, I grew up believing that trains were really a thing that only happened in England and Europe and the rest of the First World. I traveled on trains in London, Paris, Rome, Berlin, Singapore and California, before I stepped onto one in the city I have lived longest.&lt;/p&gt;
@@ -275,7 +275,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 &lt;p&gt;And it doesn’t end on Earth. I once met a person who declared that they simply couldn’t bear to look up at the night sky: they felt totally insignificant and overwhelmed. I look up at the stars and I feel elated. My soul soars at the knowledge that, as Carl Sagan so famously said, “we are all made of starstuff”. To look at a thousand tiny points of light, millions of years away, and know that we are part of all this and it is a part of us too…&lt;/p&gt;
 
 &lt;div class=&quot;col-md-5 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg&quot; data-lightbox=&quot;helix&quot;&gt;&lt;img src=&quot;http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg&quot; width=&quot;300&quot; alt=&quot;The Helix Nebula, Hubble Telescope&quot; /&gt; &lt;/a&gt;&lt;figcaption&gt;What's more incredible: that the &lt;a href=&quot;http://en.wikipedia.org/wiki/Helix_Nebula&quot;&gt;Helix Nebula&lt;/a&gt; exists, or that we've been able to photograph it using a telescope in space?&lt;br /&gt;
+&lt;figure&gt;&lt;a href=&quot;http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg&quot; data-lightbox=&quot;helix&quot;&gt;&lt;img src=&quot;http://imgsrc.hubblesite.org/hu/db/images/hs-2003-11-a-large_web.jpg&quot; width=&quot;300&quot; alt=&quot;The Helix Nebula, Hubble Telescope&quot; /&gt; &lt;/a&gt;&lt;figcaption&gt;What&#39;s more incredible: that the &lt;a href=&quot;http://en.wikipedia.org/wiki/Helix_Nebula&quot;&gt;Helix Nebula&lt;/a&gt; exists, or that we&#39;ve been able to photograph it using a telescope in space?&lt;br /&gt;
 Image: &lt;a href=&quot;http://hubblesite.org/&quot;&gt;Hubble Telescope&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -354,7 +354,7 @@ Because: fuck English!&lt;/figcaption&gt;
 &lt;p&gt;Stop trashing the linguistic flowerbeds like a grunting gorilla and start walking along a grammatically-correct path like an articulate, intelligent human being.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-5 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg&quot; data-lightbox=&quot;Dickens&quot; title=&quot;That's Mr Dickens to you&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg&quot; alt=&quot;Charles Dickens&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;(I suspect &lt;a href=&quot;http://en.wikipedia.org/wiki/Charles_Dickens&quot; target=&quot;_blank&quot;&gt;this man&lt;/a&gt; would agree.)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg&quot; data-lightbox=&quot;Dickens&quot; title=&quot;That&#39;s Mr Dickens to you&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/410px-Dickens_Gurney_head.jpg&quot; alt=&quot;Charles Dickens&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;(I suspect &lt;a href=&quot;http://en.wikipedia.org/wiki/Charles_Dickens&quot; target=&quot;_blank&quot;&gt;this man&lt;/a&gt; would agree.)&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;p&gt;(Disclaimer: this post is in no way aimed at second or third language speakers or writers, or at people with legitimate language woes like dyslexia. It’s aimed at people who are supposedly fluent in their mother tongue, yet consistently (and knowingly) get their grammar and spelling wrong. We all make mistakes, but we can also learn from them. I’m not making any sweeping claims about my grammar being perfect, but I’d like to think I at least try to get it right…)&lt;/p&gt;
 
@@ -422,7 +422,7 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;div class=&quot;col-md-4 col-xs-6 image right&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;http://farm6.staticflickr.com/5094/5472536812_c2dd4e93f6.jpg&quot; data-lightbox=&quot;drive&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5094/5472536812_c2dd4e93f6.jpg&quot; alt=&quot;A hard drive&quot; /&gt;&lt;/a&gt;
-&lt;figcaption&gt;&quot;I'm in your laptop. Flipping all your bits.&quot;&lt;br /&gt;
+&lt;figcaption&gt;&quot;I&#39;m in your laptop. Flipping all your bits.&quot;&lt;br /&gt;
 (Image by &lt;a href=&quot;http://www.flickr.com/photos/walkn/&quot; target=&quot;_blank&quot;&gt;walknboston&lt;/a&gt;&amp;nbsp;on Flickr)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -536,7 +536,7 @@ recommended too. As with the other services, Evernote provides free access in ex
 &lt;div class=&quot;col-md-4 image&quot;&gt;
 &lt;figure&gt;
 	&lt;a href=&quot;/images/dogs.jpg&quot; data-lightbox=&quot;dogs&quot;&gt;&lt;img src=&quot;/images/dogs.jpg&quot; /&gt;&lt;/a&gt;
-&lt;figcaption&gt;These aren't high maintenance dogs at all.&lt;/figcaption&gt;
+&lt;figcaption&gt;These aren&#39;t high maintenance dogs at all.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -547,7 +547,7 @@ recommended too. As with the other services, Evernote provides free access in ex
 &lt;div class=&quot;col-md-4 image right&quot;&gt;
 &lt;figure&gt;
 	&lt;a href=&quot;http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg&quot; data-lightbox=&quot;climbing&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3080/2462288281_2b18b17296_n.jpg&quot; /&gt;&lt;/a&gt;
-&lt;figcaption&gt;That's me walking my dogs, up a vertical rock face. (Dogs not included)&lt;br /&gt;
+&lt;figcaption&gt;That&#39;s me walking my dogs, up a vertical rock face. (Dogs not included)&lt;br /&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/lynnmwillis/2462288281/sizes/n/in/photostream/&quot; target=&quot;_blank&quot;&gt;(Image: lynnmwillis on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
