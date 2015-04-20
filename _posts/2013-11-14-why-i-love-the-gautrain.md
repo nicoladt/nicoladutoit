@@ -16,7 +16,7 @@ To many people, this might sound like a strange fact, but white kids like me who
 Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.
 
 <div class="col-md-6 image center">
-<figure><a href= "{{ site.url }}/images/London_Underground_circa_1900.jpg" data-lightbox="underground"><img border="0" src="http://en.wikipedia.org/wiki/History_of_the_London_Underground#/media/File:London_Underground_circa_1900.jpg" alt="The London Underground in 1890"/></a><figcaption>Trains under the ground: not a thing in 1890's Joburg.</figcaption></figure>
+<figure><a href= "{{ site.url }}/images/London_Underground_circa_1900.jpg" data-lightbox="underground"><img border="0" src="{{ site.url }}/images/London_Underground_circa_1900.jpg" alt="The London Underground in 1890"/></a><figcaption>Trains under the ground: not a thing in 1890's Joburg.</figcaption></figure>
 </div>
 
 And so, I grew up believing that trains were really a thing that only happened in England and Europe and the rest of the First World. I traveled on trains in London, Paris, Rome, Berlin, Singapore and California, before I stepped onto one in the city I have lived longest.
