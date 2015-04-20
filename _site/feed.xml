@@ -2,32 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Nicola du Toit</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-02-02T16:11:28+02:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://nicoladutoit.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://nicoladutoit.com" />
+<updated>2015-02-04T14:57:20+02:00</updated>
+<id>http://nicoladutoit.com/</id>
 <author>
   <name>Nicola du Toit</name>
-  <uri>/</uri>
+  <uri>http://nicoladutoit.com/</uri>
   <email>nicoladutoit@gmail.com</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[So you need a website...]]></title>
+  <link>http://nicoladutoit.com/articles/so-you-need-a-website</link>
+  <id>http://nicoladutoit.com/articles/so-you-need-a-website</id>
+  <updated>2015-02-04T00:00:00-00:00</updated>
+  <published>2015-02-04T00:00:00+02:00</published>
+  
+  <author>
+    <name>Nicola du Toit</name>
+    <uri>http://nicoladutoit.com</uri>
+    <email>nicoladutoit@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;It&#39;s been an appallingly long time since I blogged. Almost a year. 2014 included finishing a Masters degree in IT and changing jobs amongst other things. Writing fell by the wayside. So there. Life happens. &lt;/p&gt;
+
+&lt;p&gt;Moving swiftly onwards into the new year - I&#39;ve recently been asked by several friends for advice on setting up a website. Their needs range from simple blogs to professional sites for work. What surprised me was how much they seemed to think I may know about the weird and wonderful realm of the Internet. And then I remembered that building websites has become one of those things that feels really normal to me but is closer to black magic for most folks. What follows is a quick and (hopefully) handy guide on how to get started with a website.&lt;/p&gt;
+
+&lt;h3&gt;1. Decide on your budget&lt;/h3&gt;
+&lt;p&gt;Knowing how much money you&#39;re willing to fork out for your new site is important. Would you gladly spend ZAR50 000 getting a fancy, customised site built? In this case proceed straight to a serious design agency or web developer and get the job done by a pro. If your budget is more like R200 then the best option is probably to rent your own domain and go with free hosting (more about this later).&lt;/p&gt;
+
+&lt;h3&gt;2. Choosing a domain&lt;/h3&gt;
+&lt;p&gt;
+What is a domain name? http://en.wikipedia.org/wiki/Domain_name
+
+One does not simply choose a domain name. Your domain name can say a lot about your website and your brand. Firstly, it must be easy to remember. www.thisismyawesomewebsiteitssocool.org.za is great example of what not to call your site. Secondly, it must be unambiguous to read, unlike expertsexchange.net or masterbaitonline.com. (For more entertaining fails have a &lt;a href=&quot;http://www.boredpanda.com/worst-domain-names/&quot;&gt;&lt;/a&gt;read here). Thirdly, believe it or not, domain suffixes actually have &lt;i&gt;meaning&lt;/i&gt;. Don&#39;t call your site projectmanager.xxx unless your really &lt;i&gt;really&lt;/i&gt; mean it. &lt;a href=&quot;http://www.computerhope.com/jargon/num/domains.htm&quot;&gt;Here&#39;s a helpful list&lt;/a&gt; of domain suffixes and their meanings. If you&#39;re happy with a generic domain name like mysite.blogspot.com....&lt;/p&gt;
+
+&lt;h3&gt;To host or not to host&lt;/h3&gt;
+&lt;p&gt;hosting. - what is it, options. &lt;/p&gt;
+
+&lt;p&gt;Easy
+Blogger - Google. Free. No hosting. 
+Wordpress.com for free. can register domain through them or customise with your own. http://en.support.wordpress.com/domains/. Free themes.
+No hosting
+Wix.com&lt;/p&gt;
+
+&lt;p&gt;Medium
+Wordpress.org - more advanced. FTP access. Free themes. NEed hosting&lt;/p&gt;
+
+&lt;p&gt;Hard
+Jekyll. Free themes. Need to know Github. Need hosting. (can use git domain)&lt;/p&gt;
+
+&lt;p&gt;L33t
+HTML + CSS, boostrap or similar. Need domain and hosting.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/so-you-need-a-website&quot;&gt;So you need a website...&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on February 04, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[On cooking hake]]></title>
-  <link>/articles/on-cooking-hake</link>
-  <id>/articles/on-cooking-hake</id>
+  <link>http://nicoladutoit.com/articles/on-cooking-hake</link>
+  <id>http://nicoladutoit.com/articles/on-cooking-hake</id>
   <updated>2014-03-17T00:00:00-00:00</updated>
   <published>2014-03-17T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I&#39;ve never been a huge fan of seafood. When I was a wee lass my favourite thing in the world was fish paste on toast, but one bad experience with a tiny bone left me feeling forever mistrustful of supposedly deboned ocean-going creatures. 
 &lt;div class=&quot;col-md-6 image right&quot;&gt;
-&lt;figure class=&quot;right horizontal&quot;&gt;&lt;img src=&quot;/images/Merluccius_capensis.jpg&quot; alt=&quot;uncooked hake&quot; /&gt;&lt;figcaption&gt;Let&#39;s face it, this is not a particularly scrumptious sight.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;right horizontal&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/Merluccius_capensis.jpg&quot; alt=&quot;uncooked hake&quot; /&gt;&lt;figcaption&gt;Let&#39;s face it, this is not a particularly scrumptious sight.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Nonetheless, a combination of post-thesis time and some dietary discipline (in order to become a lean, mean running machine) have meant that The Boyfriend and I have been trying to diversify our low carb diet. In order to do so though, I’ve had to become decidedly less picky about what I eat. Enter the &lt;a href=&quot;http://en.wikipedia.org/wiki/Merluccius_capensis&quot;&gt;hake&lt;/a&gt;.&lt;/p&gt;
 
@@ -56,7 +104,7 @@
 &lt;li&gt;coat the basted fish pieces in flour.&lt;/li&gt;
 &lt;li&gt;fry the fish in some sunflower oil until the outsides are brown and crispy.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;col-md-6 image center&quot;&gt;&lt;figure class=&quot;center horizontal&quot;&gt;&lt;img src=&quot;/images/hake.jpg&quot; alt=&quot;battered, cooked hake&quot; /&gt;
+&lt;div class=&quot;col-md-6 image center&quot;&gt;&lt;figure class=&quot;center horizontal&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/hake.jpg&quot; alt=&quot;battered, cooked hake&quot; /&gt;
 &lt;figcaption&gt;I suck at taking food photos but it looked pretty much like this. (Image by &lt;a href=&quot;http://www.flickr.com/photos/chodhound/4549921273/sizes/l/&quot; target=&quot;_blank&quot;&gt;ChodHound&lt;/a&gt; on Flickr)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
 All the quantites are relative to how much fish you want to make (I had to melt a bit of extra butter to baste all the fish) but I don&#39;t think they need to be precisely measured out - just use common sense. I think it would go well with steamed veg, or just about any greens or salad. A nice, light, tasty meal!
 
@@ -67,20 +115,20 @@ All the quantites are relative to how much fish you want to make (I had to melt 
 
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/on-cooking-hake&quot;&gt;On cooking hake&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on March 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/on-cooking-hake&quot;&gt;On cooking hake&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on March 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The UX design process]]></title>
-  <link>/articles/the-ux-design-process</link>
-  <id>/articles/the-ux-design-process</id>
+  <link>http://nicoladutoit.com/articles/the-ux-design-process</link>
+  <id>http://nicoladutoit.com/articles/the-ux-design-process</id>
   <updated>2014-01-28T00:00:00-00:00</updated>
   <published>2014-01-28T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;There are many ways in which one can do design work. The usual process I follow in my current workplace is outlined here. Although I am a firm believer in a user-centred process, due to external time and financial constraints, some recent projects have included far less usability testing and market research than I would have liked. Different projects for different clients and teams require different approaches, but user requirements should always come first.&lt;/p&gt;
@@ -100,23 +148,23 @@ All the quantites are relative to how much fish you want to make (I had to melt 
 &lt;p&gt;&lt;b&gt;Development and testing&lt;/b&gt;: whether development happens in-house or externally the implementation phase typically involves many iterations of development, further changes to design, and thorough testing. At all stages of the design process, progress is cyclical and work needs to be continually revisited and reassessed!&lt;/p&gt;
 
 &lt;div class=&quot;col-md-6 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;/images/post-it.jpg&quot; data-lightbox=&quot;post-its&quot; title=&quot;Brainstorming use cases and functionality&quot;&gt;&lt;img src=&quot;/images/post-it.jpg&quot; alt=&quot;mapping site functionality with post-it notes&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;a href=&quot;http://nicoladutoit.com/images/post-it.jpg&quot; data-lightbox=&quot;post-its&quot; title=&quot;Brainstorming use cases and functionality&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/post-it.jpg&quot; alt=&quot;mapping site functionality with post-it notes&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/the-ux-design-process&quot;&gt;The UX design process&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on January 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/the-ux-design-process&quot;&gt;The UX design process&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on January 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tips for installing Jekyll with So Simple and Jekyll Slideshow]]></title>
-  <link>/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</link>
-  <id>/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</id>
+  <link>http://nicoladutoit.com/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</link>
+  <id>http://nicoladutoit.com/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow</id>
   <updated>2014-01-16T00:00:00-00:00</updated>
   <published>2014-01-16T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;. There are a number of shiny themes available for Jekyll. This site uses the &lt;a href=&quot;http://mademistakes.com/articles/so-simple-jekyll-theme/&quot;&gt;So Simple Theme&lt;/a&gt;.&lt;/p&gt;
@@ -181,20 +229,20 @@ sudo gem install nokogiri
 
 &lt;p&gt;I suspect there may be an overlap between Bundler and the other gems I’ve installed, but following this process was the only way I could get everything to work, error free. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow&quot;&gt;Tips for installing Jekyll with So Simple and Jekyll Slideshow&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/tips-for-installing-jekyll-with-so-simple-and-jekyll-slideshow&quot;&gt;Tips for installing Jekyll with So Simple and Jekyll Slideshow&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on January 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why I love the Gautrain]]></title>
-  <link>/articles/why-i-love-the-gautrain</link>
-  <id>/articles/why-i-love-the-gautrain</id>
+  <link>http://nicoladutoit.com/articles/why-i-love-the-gautrain</link>
+  <id>http://nicoladutoit.com/articles/why-i-love-the-gautrain</id>
   <updated>2013-09-17T00:00:00-00:00</updated>
   <published>2013-11-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I was 29 years old the first time I rode on a train in my hometown, &lt;a href=&quot;http://en.wikipedia.org/wiki/Johannesburg&quot;&gt;Johannesburg&lt;/a&gt;.&lt;/p&gt;
@@ -230,7 +278,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 &lt;p&gt;I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-6 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;/images/gautrain.jpg&quot; data-lightbox=&quot;gautrain&quot;&gt;&lt;img src=&quot;/images/gautrain.jpg&quot; alt=&quot;The Gautrain, Ortia Station&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;21st century Joburg is a pretty shiny sight. &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;a href=&quot;http://nicoladutoit.com/images/gautrain.jpg&quot; data-lightbox=&quot;gautrain&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/gautrain.jpg&quot; alt=&quot;The Gautrain, Ortia Station&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;21st century Joburg is a pretty shiny sight. &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;In my lifetime I have often wondered what this magnificent country would be like today if we didn’t have an appalling history of oppression and bigotry; if all South Africans had been permitted to realise their full potential for the last four centuries; and if democracy and capitalism had been the norm for hundreds of years.&lt;/p&gt;
@@ -243,20 +291,20 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 &lt;figure&gt;&lt;a href=&quot;http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg&quot; data-lightbox=&quot;mountains&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Image by  &lt;a href=&quot;http://www.flickr.com/photos/wildlife_encounters/&quot; alt=&quot;Rolling green hills&quot;&gt;Steve Slater (Wildlife Encounters)&lt;/a&gt; on Flickr&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/why-i-love-the-gautrain&quot;&gt;Why I love the Gautrain&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/why-i-love-the-gautrain&quot;&gt;Why I love the Gautrain&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Confessions of an atheist]]></title>
-  <link>/articles/confessions-of-an-atheist</link>
-  <id>/articles/confessions-of-an-atheist</id>
+  <link>http://nicoladutoit.com/articles/confessions-of-an-atheist</link>
+  <id>http://nicoladutoit.com/articles/confessions-of-an-atheist</id>
   <updated>2013-09-17T00:00:00-00:00</updated>
   <published>2013-09-17T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I am an atheist. I went to an Anglican primary school, where we dutifully said our prayers and sang hymns every day, and believed our teachers when they told us we’d go to hell if we didn’t do our homework.&lt;/p&gt;
@@ -268,7 +316,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 &lt;p&gt;One day, whilst drinking wine and watching birds in one of the loveliest corners of the Earth, I realised that life itself is simply amazing. The tenacity of things to grow, and reproduce; of cells to divide; of organisms to evolve, is extraordinary. We have gardens and forests and deserts and oceans and skies teeming with life. And life has been teeming for billions of years, with organisms that all have their place in a very complicated natural system. The genes handed down to me by my ancestors are uniquely my own, and yet I share DNA with every other person on Earth. Everything is connected and yet it is all unique.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-5 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;/images/brenton.JPG&quot; data-lightbox=&quot;brenton&quot;&gt;&lt;img src=&quot;/images/brenton.JPG&quot; width=&quot;250&quot; alt=&quot;Brenton on Sea, Knysna&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Think of all the things living in this sea!&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
+&lt;figure&gt;&lt;a href=&quot;http://nicoladutoit.com/images/brenton.JPG&quot; data-lightbox=&quot;brenton&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/brenton.JPG&quot; width=&quot;250&quot; alt=&quot;Brenton on Sea, Knysna&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Think of all the things living in this sea!&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
 
 &lt;p&gt;Science, and human intellect and perseverance have enabled us to understand how much of this complicated system works, and that is amazing too. What clever organisms we’ve become! And on top of science, us humans have art, music, love, words, feats of profound endurance, loyalty, courage and compassion.&lt;/p&gt;
 
@@ -308,20 +356,20 @@ Image: &lt;a href=&quot;http://hubblesite.org/&quot;&gt;Hubble Telescope&lt;/a&g
 &lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/9D05ej8u-gU&quot; width=&quot;560&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/articles/confessions-of-an-atheist&quot;&gt;Confessions of an atheist&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on September 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/confessions-of-an-atheist&quot;&gt;Confessions of an atheist&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on September 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why I hate your bad grammar]]></title>
-  <link>/articles/why-i-hate-your-bad-grammar</link>
-  <id>/articles/why-i-hate-your-bad-grammar</id>
+  <link>http://nicoladutoit.com/articles/why-i-hate-your-bad-grammar</link>
+  <id>http://nicoladutoit.com/articles/why-i-hate-your-bad-grammar</id>
   <updated>2013-08-18T00:00:00-00:00</updated>
   <published>2013-08-18T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I judge people based on their grammar, and here’s why: 
@@ -332,7 +380,7 @@ Language is arguably the most profound communication tool we &lt;i&gt;Homo sapie
 &lt;p&gt;Knowingly using bad grammar and willfully neglecting spellcheckers or dictionaries (particularly in this day and age!) is like stomping through a flowerbed of spring bulbs because you’re too petulant and lazy to rather walk a bit further along a well-trodden path.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-5 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;/images/flowers.JPG&quot; data-lightbox=&quot;flowers&quot;&gt;&lt;img src=&quot;/images/flowers.JPG&quot; alt=&quot;West coast National Park daisies in Spring&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;All these hateful flowerwords must die!&lt;br /&gt;
+&lt;figure&gt;&lt;a href=&quot;http://nicoladutoit.com/images/flowers.JPG&quot; data-lightbox=&quot;flowers&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/flowers.JPG&quot; alt=&quot;West coast National Park daisies in Spring&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;All these hateful flowerwords must die!&lt;br /&gt;
 Because: fuck English!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -364,26 +412,26 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;p&gt;(Other note: bad grammar online reminds me very much of this gem: &lt;a href=&quot;http://xkcd.com/386/&quot;&gt;http://xkcd.com/386/&lt;/a&gt;)&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/why-i-hate-your-bad-grammar&quot;&gt;Why I hate your bad grammar&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/why-i-hate-your-bad-grammar&quot;&gt;Why I hate your bad grammar&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ZoneAlarm you're dead to me now]]></title>
-  <link>/articles/zonealarm-youre-dead-to-me-now</link>
-  <id>/articles/zonealarm-youre-dead-to-me-now</id>
+  <link>http://nicoladutoit.com/articles/zonealarm-youre-dead-to-me-now</link>
+  <id>http://nicoladutoit.com/articles/zonealarm-youre-dead-to-me-now</id>
   <updated>2013-08-14T00:00:00-00:00</updated>
   <published>2013-08-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Having used &lt;a href=&quot;http://www.zonealarm.com/security/en-us/home.htm&quot; target=&quot;_blank&quot;&gt;ZoneAlarm&lt;/a&gt;’s free firewall in Windows for years and years, I just tried to upgrade, and got this:&lt;/p&gt;
 
 &lt;div class=&quot;col-md-10 image center&quot;&gt;
-&lt;a href=&quot;/images/zonealarm.PNG&quot; data-lightbox=&quot;zonealarm&quot;&gt;&lt;img src=&quot;/images/zonealarm.PNG&quot; alt=&quot;ZoneAlarm dark patterns&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://nicoladutoit.com/images/zonealarm.PNG&quot; data-lightbox=&quot;zonealarm&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/zonealarm.PNG&quot; alt=&quot;ZoneAlarm dark patterns&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;blockquote&gt;
@@ -400,20 +448,20 @@ Because: fuck English!&lt;/figcaption&gt;
 
 &lt;p&gt;Update: on uninstalling the damn thing, I was asked to provide customer feedback, so I did: “Remove the checkboxes, and I’ll reinstall your product.”&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/zonealarm-youre-dead-to-me-now&quot;&gt;ZoneAlarm you're dead to me now&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[So your hard drive crashed...]]></title>
-  <link>/articles/so-your-hard-drive-crashed</link>
-  <id>/articles/so-your-hard-drive-crashed</id>
+  <link>http://nicoladutoit.com/articles/so-your-hard-drive-crashed</link>
+  <id>http://nicoladutoit.com/articles/so-your-hard-drive-crashed</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-08-14T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;In the last couple of months I’ve had to listen to a number of friends and colleagues lamenting the recently-occured, or impending crash of their hard drive/flash disk/computer, resulting in a catastrophic loss of data.&lt;/p&gt;
@@ -466,7 +514,7 @@ Basically, any combination of silicon and solder ultimately results in failure, 
 &lt;h2&gt;
 &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;3. Dropbox&lt;/a&gt;&lt;/h2&gt;
 &lt;div class=&quot;col-md-3 image&quot;&gt;
-&lt;figure&gt;&lt;img src=&quot;/images/dropbox-logos_dropbox-vertical-blue.png&quot; alt=&quot;Dropbox logo&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;http://nicoladutoit.com/images/dropbox-logos_dropbox-vertical-blue.png&quot; alt=&quot;Dropbox logo&quot; /&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;p&gt;For those computer users who don’t trust Google, or don’t need the larny version control that GitHub has to offer, Dropbox is surely the most simple off-site storage solution. Dropbox gives you up to 18GB free (though friend referrals and social network sharing get you more data). After that, pricing starts at $10 per 100GB. Dropbox sits on your computer disguised as any other folder. And syncs the hell out of whatever happens in that folder. No need for backups, no need for tedious uploads. Dropbox will handle all of that for you. And, as with any well-synced data, you can access it from any device and from the web.&lt;/p&gt;
 
@@ -475,7 +523,7 @@ Basically, any combination of silicon and solder ultimately results in failure, 
 &lt;h2&gt;
 &lt;a href=&quot;https://evernote.com/&quot;&gt;4. Evernote&lt;/a&gt;&lt;/h2&gt;
 &lt;div class=&quot;col-md-4 col-xs-md-6 image&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;/images/elephant.JPG&quot; data-lightbox=&quot;ellie&quot;&gt;&lt;img src=&quot;/images/elephant.JPG&quot; alt=&quot;An elephant&quot; /&gt;&lt;/a&gt;
+&lt;figure&gt;&lt;a href=&quot;http://nicoladutoit.com/images/elephant.JPG&quot; data-lightbox=&quot;ellie&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/elephant.JPG&quot; alt=&quot;An elephant&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;A filing cabinet with ivory teeth.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -505,20 +553,20 @@ recommended too. As with the other services, Evernote provides free access in ex
 (Image by&amp;nbsp;&lt;a href=&quot;http://www.google.com/about/datacenters/gallery/#/tech/2&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/articles/so-your-hard-drive-crashed&quot;&gt;So your hard drive crashed...&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/so-your-hard-drive-crashed&quot;&gt;So your hard drive crashed...&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Remembering how to run]]></title>
-  <link>/articles/remembering-how-to-run</link>
-  <id>/articles/remembering-how-to-run</id>
+  <link>http://nicoladutoit.com/articles/remembering-how-to-run</link>
+  <id>http://nicoladutoit.com/articles/remembering-how-to-run</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-04-10T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;My original intention for resurrecting my blog was to write about tech-ified things. But, life is far more interesting and varied than that, so here’s a story about how I recently started remembering how to run.&lt;/p&gt;
@@ -535,7 +583,7 @@ recommended too. As with the other services, Evernote provides free access in ex
 
 &lt;div class=&quot;col-md-4 image&quot;&gt;
 &lt;figure&gt;
-	&lt;a href=&quot;/images/dogs.jpg&quot; data-lightbox=&quot;dogs&quot;&gt;&lt;img src=&quot;/images/dogs.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://nicoladutoit.com/images/dogs.jpg&quot; data-lightbox=&quot;dogs&quot;&gt;&lt;img src=&quot;http://nicoladutoit.com/images/dogs.jpg&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;These aren&#39;t high maintenance dogs at all.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -593,7 +641,7 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 
 &lt;div class=&quot;col-md-4 image center&quot;&gt;
 &lt;figure&gt;
-	&lt;a href=&quot;/images/OubosRock.jpg&quot; data-lightbox=&quot;oubos&quot;&gt; &lt;img src=&quot;/images/OubosRock.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://nicoladutoit.com/images/OubosRock.jpg&quot; data-lightbox=&quot;oubos&quot;&gt; &lt;img src=&quot;http://nicoladutoit.com/images/OubosRock.jpg&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;Fearless, fierce me (no really) embarking on my rock climbing career, aged 3.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
@@ -608,27 +656,27 @@ Not as big pricks as cigarettes though.&lt;br /&gt;
 
 &lt;div class=&quot;col-md-5 image center&quot;&gt;
 &lt;figure&gt;
-	&lt;a href=&quot;/images/newlands.jpg&quot; data-lightbox=&quot;gym&quot;&gt; &lt;img src=&quot;/images/newlands.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://nicoladutoit.com/images/newlands.jpg&quot; data-lightbox=&quot;gym&quot;&gt; &lt;img src=&quot;http://nicoladutoit.com/images/newlands.jpg&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;Boyfriend and dogs, in our really shitty gym.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Update (July 2013): Since writing this post, I have had an absolute blast running the &lt;a href=&quot;http://www.vws.org.za/?p=3234&quot; target=&quot;_blank&quot;&gt;Volunteer Wildfire Services 10km trail run&lt;/a&gt; on the slopes of Table Mountain and the 11 km &lt;a href=&quot;http://www.magneticsouth.net/events/salomon-featherbed-trail-run/&quot; target=&quot;_blank&quot;&gt;Salomon Featherbed Seahorse trail run&lt;/a&gt; in Knysna. Next up is the &lt;a href=&quot;http://trailrunning.co.za/events_detail.php?id=710&amp;amp;type=current&quot; target=&quot;_blank&quot;&gt;Salomon Bastille Day trail run&lt;/a&gt; this weekend! Bring on them mountains! I’ve also had this blog post published in the &lt;a href=&quot;http://www.gomulti.co.za/2013/06/18/issue-7-trail-magazine-released/&quot; target=&quot;_blank&quot;&gt;July edition of Trail&lt;/a&gt; magazine. Yay!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/remembering-how-to-run&quot;&gt;Remembering how to run&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on April 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/remembering-how-to-run&quot;&gt;Remembering how to run&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on April 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why CC-BY-SA should die]]></title>
-  <link>/articles/why-cc-by-sa-should-die</link>
-  <id>/articles/why-cc-by-sa-should-die</id>
+  <link>http://nicoladutoit.com/articles/why-cc-by-sa-should-die</link>
+  <id>http://nicoladutoit.com/articles/why-cc-by-sa-should-die</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-03-28T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Creative commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, &lt;b&gt;open&lt;/b&gt;, alternatives to the miserable “ © All Rights Reserved” that is so prevalent in the world today. I’m not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.&lt;/p&gt;
@@ -654,20 +702,20 @@ free and open source software licenses. All new works based on yours will carry 
 
 &lt;p&gt;We no longer live in a black and white world of closed vs. open. Open licensing has expanded to include many different flavours of openness. It’s just a pity that some of those flavours act on others in a ‘closed’ way.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/why-cc-by-sa-should-die&quot;&gt;Why CC-BY-SA should die&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on March 28, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/why-cc-by-sa-should-die&quot;&gt;Why CC-BY-SA should die&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on March 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[To blog or to press]]></title>
-  <link>/articles/to-blog-or-to-press</link>
-  <id>/articles/to-blog-or-to-press</id>
+  <link>http://nicoladutoit.com/articles/to-blog-or-to-press</link>
+  <id>http://nicoladutoit.com/articles/to-blog-or-to-press</id>
   <updated>2013-02-06T00:00:00-00:00</updated>
   <published>2013-02-06T00:00:00+02:00</published>
   
   <author>
     <name>Nicola du Toit</name>
-    <uri></uri>
+    <uri>http://nicoladutoit.com</uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve had a number of cool ideas for blog posts recently, and so decided to log in to my very rusty Wordpress and Blogger accounts and see if I could resurrect an old blog to start writing again.
@@ -685,7 +733,7 @@ free and open source software licenses. All new works based on yours will carry 
 
 &lt;p&gt;&lt;b&gt;Edit&lt;/b&gt;: Blogger even comes with baby Google Analytics bolted into the background. So far I’m impressed!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/to-blog-or-to-press&quot;&gt;To blog or to press&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on February 06, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://nicoladutoit.com/articles/to-blog-or-to-press&quot;&gt;To blog or to press&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;http://nicoladutoit.com&quot;&gt;Nicola du Toit&lt;/a&gt; on February 06, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
