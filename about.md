@@ -12,9 +12,9 @@ I believe that all users are experts in their personal domains and that we need 
 
 I've studied a variety of things, including psychology, law, international relations, classical music, computer science and astronomy. UX turned out to be a serendipitious combination of a number of things that I love including people, psychology, creative design and careful, logical problem-solving. 
 
-My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. After a brief freelance foray into project management and front-end development I'm working full time as a UX designer at a global publishing house. 
+My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. After a brief  foray into project management and freelance front-end development, I'm working full time again as a UX designer at a global publishing house. 
 
-When I'm not drawing paper prototypes and thinking about the optimal opacity of checkboxes, I run in the mountains with my dogs, drink wine and watch too much Nordic Noir television.
+When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?q=%23ux%20from%3Asophdex&src=typd), I run in the mountains with my dogs, drink wine and watch too much Nordic Noir television.
 
 ##Random facts
 
@@ -26,7 +26,7 @@ When I'm not drawing paper prototypes and thinking about the optimal opacity of 
 * <b>Most curious hobby</b>: avid bird-watching in South Africa's multitude of National Parks
 
 ##Contact 
-As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
+As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [Twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
 
 
 
