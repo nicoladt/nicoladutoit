@@ -4,6 +4,7 @@ title: So your hard drive crashed...
 description: "Why I have no sympathy for people who suffer from hardware-related data loss, and what cloud tools people should be using instead."
 modified: 2013-02-06
 category: articles
+share: true
 tags: [cloud computing, data storage, data loss]
  
 ---
