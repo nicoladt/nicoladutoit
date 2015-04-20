@@ -22,7 +22,7 @@ When I'm not drawing paper prototypes and thinking about the optimal opacity of 
 * <b>Markup languages I can write in my sleep</b>: HTML5, CSS3, XML
 * <b>Favourite sport</b>: trail running
 * <b>Most unusual qualification</b>: Licentiate of the Associated Board of the Royal Schools of Music (Performance: cello)
-* <b>Language I'd most like to learn (but am least likely to use): Dansk
+* <b>Language I'd most like to learn (but am least likely to use)</b>: Dansk
 * <b>Most curious hobby</b>: avid bird-watching in South Africa's multitude of National Parks
 
 ##Contact 
