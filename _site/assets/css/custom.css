@@ -80,4 +80,18 @@ h1.entry-title{
 }
 
 
+div#twitter{
+    text-align:center;
+    margin-top:50px;
+}
 
+.masthead{
+    margin-top:0px;   
+}
+
+@media only screen and (min-width: 62.5em){
+    .entry-title {
+        font-size:52px;
+        font-size:3.25rem;   
+    }
+}

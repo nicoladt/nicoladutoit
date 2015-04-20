@@ -4,6 +4,7 @@ title: Why CC-BY-SA should die
 description: "Why CC-BY-SA is a closed-open license and how it's frequently, and frustratingly misused."
 modified: 2013-02-06
 category: articles
+share: true
 tags: [creative commons, licensing, openness]
  
 ---

@@ -1,11 +1,11 @@
 [
 	
 		{
-		  "title"      : "On cooking hake",
+		  "title"      : "The heat death of a blog",
 		  "category"   : "articles",
-		  "url"        : "/articles/on-cooking-hake",
-		  "date"       : "2014-03-17 00:00:00 +0200",
-		  "shortdate"  : "March 17, 2014"
+		  "url"        : "/articles/the-heat-death-of-a-blog",
+		  "date"       : "2015-04-16 00:00:00 +0200",
+		  "shortdate"  : "April 16, 2015"
 		} ,
 	
 		{
@@ -33,22 +33,6 @@
 		} ,
 	
 		{
-		  "title"      : "Confessions of an atheist",
-		  "category"   : "articles",
-		  "url"        : "/articles/confessions-of-an-atheist",
-		  "date"       : "2013-09-17 00:00:00 +0200",
-		  "shortdate"  : "September 17, 2013"
-		} ,
-	
-		{
-		  "title"      : "Why I hate your bad grammar",
-		  "category"   : "articles",
-		  "url"        : "/articles/why-i-hate-your-bad-grammar",
-		  "date"       : "2013-08-18 00:00:00 +0200",
-		  "shortdate"  : "August 18, 2013"
-		} ,
-	
-		{
 		  "title"      : "ZoneAlarm you&#39;re dead to me now",
 		  "category"   : "articles",
 		  "url"        : "/articles/zonealarm-youre-dead-to-me-now",
@@ -65,27 +49,11 @@
 		} ,
 	
 		{
-		  "title"      : "Remembering how to run",
-		  "category"   : "articles",
-		  "url"        : "/articles/remembering-how-to-run",
-		  "date"       : "2013-04-10 00:00:00 +0200",
-		  "shortdate"  : "April 10, 2013"
-		} ,
-	
-		{
 		  "title"      : "Why CC-BY-SA should die",
 		  "category"   : "articles",
 		  "url"        : "/articles/why-cc-by-sa-should-die",
 		  "date"       : "2013-03-28 00:00:00 +0200",
 		  "shortdate"  : "March 28, 2013"
-		} ,
-	
-		{
-		  "title"      : "To blog or to press",
-		  "category"   : "articles",
-		  "url"        : "/articles/to-blog-or-to-press",
-		  "date"       : "2013-02-06 00:00:00 +0200",
-		  "shortdate"  : "February 06, 2013"
 		} 
 	
 ]

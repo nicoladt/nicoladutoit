@@ -4,6 +4,7 @@ title: Tips for installing Jekyll with So Simple and Jekyll Slideshow
 description: "A fix for some difficulties I had setting up my So Simple theme installation"
 modified: 2014-01-16
 category: articles
+share: true
 tags: [jekyll, github, ruby, so simple theme]
  
 ---
