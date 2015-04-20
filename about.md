@@ -14,7 +14,7 @@ I've studied a variety of things, including psychology, law, international relat
 
 My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. After a brief  foray into project management and freelance front-end development, I'm working full time again as a UX designer at a global publishing house. 
 
-When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?q=%23ux%20from%3Asophdex&src=typd), I run in the mountains with my dogs, drink wine and watch too much Nordic Noir television.
+When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?f=realtime&q=%23ux%20from%3Asophdex&src=typd), I run in the mountains with my dogs, drink wine and watch too much Nordic Noir television.
 
 ##Random facts
 
