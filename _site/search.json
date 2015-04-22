@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Google and mobile usability",
+		  "category"   : "articles",
+		  "url"        : "/articles/google-and-mobile-usability",
+		  "date"       : "2015-04-22 00:00:00 +0200",
+		  "shortdate"  : "April 22, 2015"
+		} ,
+	
+		{
 		  "title"      : "The heat death of a blog",
 		  "category"   : "articles",
 		  "url"        : "/articles/the-heat-death-of-a-blog",

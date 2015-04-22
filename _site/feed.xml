@@ -4,13 +4,65 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-20T22:30:16+02:00</updated>
+<updated>2015-04-22T21:11:33+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
   <uri>/</uri>
   <email>nicoladutoit@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Google and mobile usability]]></title>
+  <link>/articles/google-and-mobile-usability</link>
+  <id>/articles/google-and-mobile-usability</id>
+  <updated>2015-04-22T00:00:00-00:00</updated>
+  <published>2015-04-22T00:00:00+02:00</published>
+  
+  <author>
+    <name>Nicola du Toit</name>
+    <uri></uri>
+    <email>nicoladutoit@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Google &lt;a href=&quot;http://googlewebmastercentral.blogspot.de/2015/02/finding-more-mobile-friendly-search.html?mc_cid=cc21b18877&amp;amp;mc_eid=610a07c84b&quot;&gt;announced in February&lt;/a&gt; that as of this week mobile-friendliness will be a factor in their search algorithms. In other words, content and sites that are optimized for mobile phones will be given preference in Google’s search result listings. For those of us with responsive sites, this is wonderful news but according to &lt;a href=&quot;http://www.smashingmagazine.com/smashing-newsletter-issue-135/?mc_cid=cc21b18877&amp;amp;mc_eid=610a07c84b&quot;&gt;Smashing Magazine&lt;/a&gt;, 25% of sites are not responsive. That’s a lot of internet to fix.&lt;/p&gt;
+
+&lt;div class=&quot;col-md-5 col-xs-6 image left&quot;&gt;
+&lt;figure&gt;&lt;a href=&quot;/images/videophone.jpg&quot; data-lightbox=&quot;videophone&quot;&gt;&lt;img src=&quot;/images/videophone.jpg&quot; alt=&quot;A Videophone&quot; /&gt;&lt;/a&gt;
+&lt;figcaption&gt;The videphone: before Facetime was cool.&lt;br /&gt;
+(Image by &lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Videophone_IMG_1107-white.jpg&quot; target=&quot;_blank&quot;&gt;Rama&lt;/a&gt;&amp;nbsp;on Wikimedia Commons)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While it may leave some webmasters in the lurch, from a UX perspective this is an awesome move. Usability on mobile phones is fickle at the best of times but there are few things more frustrating than trying to find information on a site that is absolutely not intended to be viewed or used on a small screen. &lt;/p&gt;
+
+&lt;p&gt;Google is effectively incentivising website owners to evaluate their content and improve it for mobile users: such is the power of a good Google search ranking! &lt;/p&gt;
+
+&lt;p&gt;To help us all out, Google has provided several useful tools to help people make the transition:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/webmasters/tools/mobile-friendly/?mc_cid=cc21b18877&amp;amp;mc_eid=610a07c84b&quot;&gt;The Mobile Friendly Test&lt;/a&gt; let’s you type in your site’s URL and hit “Analyze” to see what Googlebot thinks of your web-stuff; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/webmasters/tools/mobile-usability?utm_source=wmc-blog&amp;amp;utm_medium=referral&amp;amp;utm_campaign=mobile-friendly&amp;amp;pli=1&quot;&gt;Webmaster Tools &amp;amp; The Mobile Usability Report&lt;/a&gt; which gives great feedback on specific usability issues with your site; and&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/webmasters/mobile-sites/get-started/?utm_source=wmc-blog&amp;amp;utm_medium=referral&amp;amp;utm_campaign=mobile-friendly&quot;&gt;A comprehensive guide&lt;/a&gt; to designing mobile-friendly websites. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;col-md-4 col-xs-6 image right&quot;&gt;
+&lt;figure&gt;&lt;a href=&quot;/images/googlebot.png&quot; data-lightbox=&quot;googlebot&quot;&gt;&lt;img src=&quot;/images/googlebot.png&quot; alt=&quot;The Googlebot&quot; /&gt;&lt;/a&gt;
+&lt;figcaption&gt;That&#39;s Mr Googlebot to you.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Earlier this year I received a pretty stern email from Google Webmaster Tools regarding one of the websites I maintain:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Google systems have tested 12 pages from your site and found that 100% of them have critical mobile usability errors. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This prompted me to take action and haul a bunch of appalling MSFrontpage HTML kicking and screaming into into the 21st century (actually I just deleted it all and started over - more on this in another blog post). But a second site I built years ago (before Bootstrap was a thing) now requires some urgent TLC. Off to the CSS drawing board I go!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/google-and-mobile-usability&quot;&gt;Google and mobile usability&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on April 22, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -29,7 +81,7 @@
 
 &lt;p&gt;I’m not going to write a long and self-indulgent post about all the reasons why I’ve been to busy to blog but I will say this much: I started out writing a series of rather long posts. And that got me stuck in a bit of a rut where I’d think “ooh I have this great idea but no time to turn it into a 1000 word piece”. &lt;/p&gt;
 
-&lt;p&gt;I’ve realised recently that writing short pieces, but writing more regularly is probably a better strategy. Much like an agile user-centred design process breaks up an enormous task into smaller bite-size chunksand iterates, blogging often and more briefly about particular ideas is a fresh approach which I’d like to try this year…&lt;/p&gt;
+&lt;p&gt;I’ve realised recently that writing short pieces, but writing more regularly is probably a better strategy. Much like an agile user-centred design process breaks up an enormous task into smaller bite-size chunks and iterates, blogging often and more briefly about particular ideas is a fresh approach which I’d like to try this year…&lt;/p&gt;
 
 &lt;p&gt;As the &lt;a href=&quot;http://en.wikipedia.org/wiki/Sheryl_Sandberg&quot;&gt;Sheryl Sandberg&lt;/a&gt; quote goes: “done is better than perfect”.&lt;/p&gt;
 
@@ -170,7 +222,7 @@ sudo gem install nokogiri
 &lt;p&gt;Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.&lt;/p&gt;
 
 &lt;div class=&quot;col-md-6 image center&quot;&gt;
-&lt;figure&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; data-lightbox=&quot;underground&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/d/d7/London_Underground_1890.jpg&quot; alt=&quot;The London Underground in 1890&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Trains under the ground: not a thing in 1890&#39;s Joburg.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;a href=&quot;/images/London_Underground_circa_1900.jpg&quot; data-lightbox=&quot;underground&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;/images/London_Underground_circa_1900.jpg&quot; alt=&quot;The London Underground in 1890&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Trains under the ground: not a thing in 1890&#39;s Joburg.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;And so, I grew up believing that trains were really a thing that only happened in England and Europe and the rest of the First World. I traveled on trains in London, Paris, Rome, Berlin, Singapore and California, before I stepped onto one in the city I have lived longest.&lt;/p&gt;
