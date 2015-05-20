@@ -4,13 +4,110 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-04-22T23:03:15+02:00</updated>
+<updated>2015-05-20T20:10:42+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
   <uri>/</uri>
   <email>nicoladutoit@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Sketchnoting UX Jhb 2015]]></title>
+  <link>/articles/sketchnoting-uxjhb-2015</link>
+  <id>/articles/sketchnoting-uxjhb-2015</id>
+  <updated>2015-05-20T00:00:00-00:00</updated>
+  <published>2015-05-20T00:00:00+02:00</published>
+  
+  <author>
+    <name>Nicola du Toit</name>
+    <uri></uri>
+    <email>nicoladutoit@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;In October 2014 I had the pleasure of attending South Africa’s first UX conference in Cape Town. Armed with my iPad and offline Google Docs, I took pages and pages of notes. I promised myself I would share them, go back to them, write blog posts about them. And of course I haven’t touched those documents again. Last week I headed up to Johannesburg for #UXJhb2015. Instead of taking boring text notes, this time I decided to try my hand at sketchnoting in the hope that it would produce more useful and visually appealling notes that I may actually refer to again at least once in my life…&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-is-sketchnoting-anyway&quot;&gt;So what is sketchnoting anyway?&lt;/h2&gt;
+
+&lt;p&gt;Sketchnoting is simply visual note taking. Instead of just writing down words, you draw images, patterns or shapes that relate to those words. The beauty of sketchnoting is that it requires no advanced drawing skills. As long as you have some cool stationary and you can draw some basic shapes, you’re good to go. &lt;/p&gt;
+
+&lt;p&gt;The Internet is awash with great resources for how to get started including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rohdesign.com/&quot;&gt;Mike Rohde’s site (and his books)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Smashing Mag’s &lt;a href=&quot;http://www.smashingmagazine.com/2014/11/10/how-to-get-started-with-sketchnotes/&quot;&gt;“How to get started with sketchnotes”&lt;/a&gt; and &lt;/li&gt;
+  &lt;li&gt;UX Mastery’s &lt;a href=&quot;http://uxmastery.com/sketchnoting-101-how-to-create-awesome-visual-notes/&quot;&gt;“Sketchnoting 101”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;taking-the-plunge&quot;&gt;Taking the plunge&lt;/h2&gt;
+
+&lt;p&gt;Although at first I felt a bit uncertain and intimidated by the idea of drawing again, after the first talk I was completely sold. I found that sketchnoting is a far more engaging way to listen to great speakers - it felt as if by writing &lt;i&gt;and&lt;/i&gt; drawing, my brain was able to process information more efficiently, more thoroughly and with far less effort. My sketchnotes evolved as I got more comfortable with the process (and paid less attention to my shitty inner art critic), and it was interesting to watch my creativity wax and wane depending on my energy levels and the pace of each talk. I also found myself feeling far less mentality drained than usual at the end of each day. &lt;/p&gt;
+
+&lt;p&gt;Overall I feel like my experiment was a great success. I remember far more of what I learned at the conference, and a whole talk comes back to me with a quick glance at my notes - it’s as if I can remeber the entire experience of each talk, not just fragments, because I was present in an engaged and creative way. I’ll definitely be attempting this in future and can highly recommend it as a fresh and fun way to take meaningful notes during meetings, talks or workshops.  &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/EricSchaffer1.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Eric Schaffer pg 1&quot;&gt;&lt;img src=&quot;/images/Sketchnotes/EricSchaffer1.png&quot; alt=&quot;Eric Schaffer&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/EricSchaffer2.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Eric Schaffer pg 2&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/EricSchaffer2.png&quot; alt=&quot;Eric Schaffer&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/HobbsFenn.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Jason Hobbs and Terrence Fenn&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/HobbsFenn.png&quot; alt=&quot;Jason Hobbs and Terence Fenn&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/KariPeters.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Kari Peters&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/KariPeters.png&quot; alt=&quot;Kari Peters&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/PhilBarrett.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Phil Barrett&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/PhilBarrett.png&quot; alt=&quot;Phil Barrett&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/NancyDouyon.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Nancy Douyon&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/NancyDouyon.png&quot; alt=&quot;Nancy Douyon&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/FaraiMadzuma.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Farai Madzuma&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/FaraiMadzuma.png&quot; alt=&quot;Farai Madzuma&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/AndrewBeckley.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Andrew Beckley&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/AndrewBeckley.png&quot; alt=&quot;Andrew Beckley&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+
+&lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/GarthBraithwaite.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Garth Braithwaite&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/GarthBraithwaite.png&quot; alt=&quot;Garth Braithwaite&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/RynoBooysens.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Ryno Booysens&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/RynoBooysens.png&quot; alt=&quot;Ryno Booysens&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/RobCowie.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Rob Cowie&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/RobCowie.png&quot; alt=&quot;Rob Cowie&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+            &lt;div class=&quot;col-md-4&quot;&gt;
+    &lt;figure&gt;&lt;a href=&quot;/images/Sketchnotes/JoannaChao.png&quot; data-lightbox=&quot;sketchnotes&quot; title=&quot;Joanna Chao&quot;&gt;&lt;img src=&quot;/images//Sketchnotes/JoannaChao.png&quot; alt=&quot;JoannaChao&quot; /&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/sketchnoting-uxjhb-2015&quot;&gt;Sketchnoting UX Jhb 2015&lt;/a&gt; was originally published by Nicola du Toit at &lt;a href=&quot;&quot;&gt;Nicola du Toit&lt;/a&gt; on May 20, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Sketchnoting UX Jhb 2015",
+		  "category"   : "articles",
+		  "url"        : "/articles/sketchnoting-uxjhb-2015",
+		  "date"       : "2015-05-20 00:00:00 +0200",
+		  "shortdate"  : "May 20, 2015"
+		} ,
+	
+		{
 		  "title"      : "Google and mobile usability",
 		  "category"   : "articles",
 		  "url"        : "/articles/google-and-mobile-usability",

@@ -50,7 +50,7 @@ div.image{
 .footnote{
 font-size:80%;   
 }
-}
+
 /*To darken line between blog entries on Words page*/
 ul.post-list > li{
 	border-bottom: 1px solid rgba(0,0,0,0.2);
