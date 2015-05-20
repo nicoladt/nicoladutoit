@@ -8,6 +8,12 @@ share: true
 tags: [ux, conference, sketchnoting]
  
 ---
+<div class="col-md-4 col-xs-6 image right">
+<figure><a href="{{ site.url }}/images/joburg.jpg" data-lightbox="joburg"><img src="{{ site.url }}/images/joburg.jpg" alt="Johannesburg"></a>
+<figcaption>The Big Smoke</figcaption>
+</figure>
+</div>
+
 
 In October 2014 I had the pleasure of attending South Africa's first UX conference in Cape Town. Armed with my iPad and offline Google Docs, I took pages and pages of notes. I promised myself I would share them, go back to them, write blog posts about them. And of course I haven't touched those documents again. Last week I headed up to Johannesburg for #UXJhb2015. Instead of taking boring text notes, this time I decided to try my hand at sketchnoting in the hope that it would produce more useful and visually appealling notes that I may actually refer to again at least once in my life...
 
