@@ -149,10 +149,10 @@ To overhaul Siyavula’s corporate site so that it accurately represented this q
 Because the development and graphic design work for this project was outsourced, it was very important to convey a clear idea of the company and brand to our designers. As a result, the project involved many iterations of visual design ideas as well as development and testing. It also included more copywriting than anticipated, which was an interesting challenge.
 
 <div class="row">
-	<div class="col-md-4 image">
+	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/siyavula/homelegacy.png" data-lightbox="siyavula" Title="The old homepage"><img src="{{ site.url }}/images/siyavula/homelegacy.png" alt=""></a></figure>
 	</div>	
-	<div class="col-md-4 image">
+	<div class="col-md-4">
 		<figure><a href="{{ site.url }}/images/siyavula/homesketch.jpg" data-lightbox="siyavula" Title="Paper sketch of a possible homepage layout"><img src="{{ site.url }}/images/siyavula/homesketch.jpg" alt=""></a></figure>
 	</div>
 	<div class="col-md-4">
