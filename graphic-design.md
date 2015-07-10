@@ -14,7 +14,7 @@ I have a concert pianist mother and a photographer father. I also love playing a
 </div>
 
 <div class="col-md-6 image">
-<figure><a href="{{ site.url }}/images/Untitled310.jpg" data-lightbox="graphicdesign" title="Untitled #310"><img src="{{ site.url }}/images/Untitled310.jpg" width="300" alt="Untitled #310"></a><figcaption>Photo by Francisco Lopez</figcaption></figure>
+<figure><a href="{{ site.url }}/images/Boulez.jpg" data-lightbox="graphicdesign" title="Untitled #310"><img src="{{ site.url }}/images/Boulez.jpg" width="300" alt="Day of the Giants"></a><figcaption>Photo by Eric Marinitsch, Universal Edition</figcaption></figure>
 </div>
 </div>
 
@@ -58,4 +58,7 @@ I have a concert pianist mother and a photographer father. I also love playing a
 <figure>
 <a href="{{ site.url }}/images/Soundmindlab.jpg" data-lightbox="graphicdesign" title="soundmindlab"><img src="{{ site.url }}/images/Soundmindlab.jpg" width="250"></a></figure>
 </div>	
+<div class="col-md-6 image">
+<figure><a href="{{ site.url }}/images/Untitled310.jpg" data-lightbox="graphicdesign" title="Untitled #310"><img src="{{ site.url }}/images/Untitled310.jpg" width="300" alt="Untitled #310"></a><figcaption>Photo by Francisco Lopez</figcaption></figure>
+</div>
 </div>

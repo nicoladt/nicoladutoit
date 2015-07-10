@@ -5,6 +5,7 @@ title: UX Portfolio
 tags: [ux, design, portfolio]
 modified: 2013-09-13
 ---
+This portfolio consists of just a few highlights from my time working as a UX Designer at Siyavula Education. I am currently working on a number of exciting projects for Pearson South Africa, but most are still in development, so it's too soon to share that work.
 
 <div class="row breadcrumbs">
 	<div class="col-md-4 image"><p><a href="#TBK">The Thunderbolt Kids</a></p>
