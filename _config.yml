@@ -2,11 +2,13 @@ title: Nicola du Toit
 description: User Experience Designer
 logo:             
 search: true
-comments: true
 locale: en_ZA
+disqus_shortname: nicoladutoit
 #Change url to your domain. Leave localhost server or blank when working locally.
-url: http://nicoladutoit.com        
-baseurl:	 
+url:    http://nicoladutoit.com    
+baseurl:
+
+comments: true
 
 # Owner/author information
 owner:
@@ -17,7 +19,6 @@ owner:
   twitter: sophdex      
   facebook:       
   github: nicoladt 
-  disqus_shortname: nicoladutoit
   stackexchange:  
   linkedin: nicoladutoit
   instagram:      

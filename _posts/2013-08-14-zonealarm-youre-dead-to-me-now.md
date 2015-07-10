@@ -5,6 +5,7 @@ description: "How ZoneAlarm lost a loyal client, with their crappy new scheme of
 modified: 2013-08-14
 category: articles
 share: true
+comments: true
 tags: [entrapment, firewall, ux fail]
  
 ---

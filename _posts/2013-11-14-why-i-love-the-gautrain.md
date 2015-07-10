@@ -5,6 +5,7 @@ description: "On Johannesburg's Gautrain and why it's an extraordinary thing."
 modified: 2013-09-17
 category: articles
 share: true
+comments: true
 tags: [transport, South Africa, optimism]
  
 ---

@@ -5,6 +5,7 @@ description: "A fix for some difficulties I had setting up my So Simple theme in
 modified: 2014-01-16
 category: articles
 share: true
+comments: true
 tags: [jekyll, github, ruby, so simple theme]
  
 ---

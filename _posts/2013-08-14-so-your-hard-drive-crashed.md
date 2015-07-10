@@ -5,6 +5,7 @@ description: "Why I have no sympathy for people who suffer from hardware-related
 modified: 2013-02-06
 category: articles
 share: true
+comments: true
 tags: [cloud computing, data storage, data loss]
  
 ---

@@ -5,6 +5,7 @@ description: "My first attempt at sketchnoting"
 modified: 2015-05-20
 category: articles
 share: true
+comments: true
 tags: [ux, conference, sketchnoting]
  
 ---

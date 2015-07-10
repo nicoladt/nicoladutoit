@@ -5,6 +5,7 @@ description: "An attempt to apply the agile methodology to a blog"
 modified: 2015-04-16
 category: articles
 share: true
+comments: true
 tags: [blogging, writing]
  
 ---

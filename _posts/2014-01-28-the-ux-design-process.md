@@ -5,6 +5,7 @@ description: "A high-level description of a typical design process"
 modified: 2014-01-28
 category: articles
 share: true
+comments: true
 tags: [web design, ux, process, workflow]
  
 ---
