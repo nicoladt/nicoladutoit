@@ -5,6 +5,7 @@ description: "Making the web a better place for mobile phones"
 modified: 2015-04-22
 category: articles
 share: true
+comments: true
 tags: [google, mobile, usability, ux]
  
 ---
