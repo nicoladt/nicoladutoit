@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "So you want to be a UX designer...",
+		  "category"   : "articles",
+		  "url"        : "/articles/so-you-want-to-be-a-ux-designer",
+		  "date"       : "2015-07-10 00:00:00 +0200",
+		  "shortdate"  : "July 10, 2015"
+		} ,
+	
+		{
 		  "title"      : "Sketchnoting UX Jhb 2015",
 		  "category"   : "articles",
 		  "url"        : "/articles/sketchnoting-uxjhb-2015",

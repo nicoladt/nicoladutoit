@@ -44,7 +44,9 @@ div.image > figure{
 
 div.image{
 	text-align: center;
+    margin-bottom:7px;
 }
+
 
 /*To shrink font size for homepage can opener explanation*/
 .footnote{
@@ -64,6 +66,13 @@ figure a img{
 	-moz-opacity: 1;
 }
 
+figure img {
+    margin-bottom:0px;   
+}
+figcaption{
+    font-size: 0.80rem;
+    padding-top:0px;
+}
 figcaption a{
 	border-bottom: 1px dotted #a2a2a2;
 }
