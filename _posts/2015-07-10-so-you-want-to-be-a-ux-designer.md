@@ -4,6 +4,7 @@ title: So you want to be a UX designer...
 description: "Some tips on making a move into the world of UX"
 modified: 2015-07-10
 category: articles
+share: true
 comments: true
 tags: [ux, design, advice]
  
