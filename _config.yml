@@ -1,23 +1,23 @@
-title:            Nicola du Toit
-description:      User Experience Designer
+title: Nicola du Toit
+description: User Experience Designer
 logo:             
-disqus_shortname: 
-search:           true
+search: true
+comments: true
+locale: en_ZA
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:    http://nicoladutoit.com       
+url: http://nicoladutoit.com        
 baseurl:	 
-
-#
 
 # Owner/author information
 owner:
-  name:           Nicola du Toit
-  avatar:         avatar.jpg
-  email:          nicoladutoit@gmail.com
+  name: Nicola du Toit
+  avatar: avatar.jpg
+  email: nicoladutoit@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: sophdex      
   facebook:       
-  github: nicoladt    
+  github: nicoladt 
+  disqus_shortname: nicoladutoit
   stackexchange:  
   linkedin: nicoladutoit
   instagram:      
@@ -46,8 +46,6 @@ links:
   - title: Words
     url: /words
     
-
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Africa/Johannesburg
 future:      true
@@ -64,7 +62,7 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-  coderay:
+coderay:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
@@ -74,4 +72,5 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
+        
 
