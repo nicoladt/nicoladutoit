@@ -26,7 +26,7 @@ The purpose of a UX portfolio is to show that you understand and can apply user-
 
 Don't be scared to include rough or messy work. For example, if you start designing wireframes on a paper napkin in a coffee shop, take a photo and explain how this was where your great idea was born! If you hold an informal focus group, document the questions you asked and write up your findings. It's as important to show how you did your research and design, as it is to show the results.
 
-If you're not sure about which design steps to include, do some reading about the user-centred design (UCD) framework. UCD is the toolkit we use to design great user experiences. Contextual inquiries, pariticatory design/prototyping, usability testing - that's all part of UCD! An excellent book about what tools to use when is ["Interaction Design" by Rogers, Sharp & Preece](http://www.id-book.com/).
+If you're not sure about which design steps to include, do some reading about the user-centred design (UCD) framework. UCD is the toolkit we use to design great user experiences. Contextual inquiries, participatory design/prototyping, usability testing - that's all part of UCD! An excellent book about what tools to use when is ["Interaction Design" by Rogers, Sharp & Preece](http://www.id-book.com/).
 
 ##Learn the software
 Almost every UX position I've seen advertised requires that you know [Balsamiq](https://balsamiq.com), [UXPin](https://www.uxpin.com) or [Axure](http://www.axure.com). All three have free trials and affordable licensing options. I would suggest you play with them all and then choose one and get to know it properly. Not only will you be able to produce shiny wireframes and mockups but you'll also have an opinion on which design software you like best and why! 
