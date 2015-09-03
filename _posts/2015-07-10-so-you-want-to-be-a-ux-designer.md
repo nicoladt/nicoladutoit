@@ -33,7 +33,7 @@ Almost every UX position I've seen advertised requires that you know [Balsamiq](
 
 The other staple to be familiar with is Adobe CC. It can't hurt to know your way around Photoshop and Illustrator. Adobe's new cloud pricing structure is far more affordable than it used to be. And if you can't afford Adobe products, then learn to use [GIMP](http://www.gimp.org) and [Inkscape](https://inkscape.org/en/) - two excellent and free alternatives.
 
-##Read read and read some more 
+##Read, read and read some more 
 <div class="col-md-4 image left">
 <figure><a href="{{ site.url }}/images/tweeps.jpg" data-lightbox="ux-tips"><img src="{{ site.url }}/images/tweeps.jpg" alt="Twitter is a great networking tool"></a></figure><figcaption>Tweet all the things! <br/> (<a href="https://www.flickr.com/photos/mkhmarketing/8477893426" target="_blank">Image by  mkhmarketing on Flickr</a>)</figcaption>
 </div>
