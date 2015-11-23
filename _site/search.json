@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "How to survive a dissertation",
+		  "category"   : "articles",
+		  "url"        : "/articles/how-to-survive-a-dissertation",
+		  "date"       : "2015-11-23 00:00:00 +0200",
+		  "shortdate"  : "November 23, 2015"
+		} ,
+	
+		{
 		  "title"      : "So you want to be a UX designer...",
 		  "category"   : "articles",
 		  "url"        : "/articles/so-you-want-to-be-a-ux-designer",

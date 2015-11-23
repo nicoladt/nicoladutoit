@@ -13,7 +13,7 @@ tags: [cloud computing, data storage, data loss]
 In the last couple of months I've had to listen to a number of friends and colleagues lamenting the recently-occured, or impending crash of their hard drive/flash disk/computer, resulting in a catastrophic loss of data.
 
 I have two, highly unsympathetic words for them: <b>cloud storage</b>.
- 
+
 <div class="col-md-4 col-xs-6 image right">
 <figure><a href="http://farm6.staticflickr.com/5094/5472536812_c2dd4e93f6.jpg" data-lightbox="drive"><img src="http://farm6.staticflickr.com/5094/5472536812_c2dd4e93f6.jpg" alt="A hard drive"></a>
 <figcaption>"I'm in your laptop. Flipping all your bits."<br />
