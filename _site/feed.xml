@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-11-23T13:09:17+02:00</updated>
+<updated>2015-11-23T13:10:51+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
@@ -117,20 +117,20 @@
 
 &lt;p&gt;Don’t be scared to include rough or messy work. For example, if you start designing wireframes on a paper napkin in a coffee shop, take a photo and explain how this was where your great idea was born! If you hold an informal focus group, document the questions you asked and write up your findings. It’s as important to show how you did your research and design, as it is to show the results.&lt;/p&gt;
 
-&lt;p&gt;If you’re not sure about which design steps to include, do some reading about the user-centred design (UCD) framework. UCD is the toolkit we use to design great user experiences. Contextual inquiries, pariticatory design/prototyping, usability testing - that’s all part of UCD! An excellent book about what tools to use when is &lt;a href=&quot;http://www.id-book.com/&quot;&gt;“Interaction Design” by Rogers, Sharp &amp;amp; Preece&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’re not sure about which design steps to include, do some reading about the user-centred design (UCD) framework. UCD is the toolkit we use to design great user experiences. Contextual inquiries, participatory design/prototyping, usability testing - that’s all part of UCD! An excellent book about what tools to use when is &lt;a href=&quot;http://www.id-book.com/&quot;&gt;“Interaction Design” by Rogers, Sharp &amp;amp; Preece&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;learn-the-software&quot;&gt;Learn the software&lt;/h2&gt;
 &lt;p&gt;Almost every UX position I’ve seen advertised requires that you know &lt;a href=&quot;https://balsamiq.com&quot;&gt;Balsamiq&lt;/a&gt;, &lt;a href=&quot;https://www.uxpin.com&quot;&gt;UXPin&lt;/a&gt; or &lt;a href=&quot;http://www.axure.com&quot;&gt;Axure&lt;/a&gt;. All three have free trials and affordable licensing options. I would suggest you play with them all and then choose one and get to know it properly. Not only will you be able to produce shiny wireframes and mockups but you’ll also have an opinion on which design software you like best and why! &lt;/p&gt;
 
 &lt;p&gt;The other staple to be familiar with is Adobe CC. It can’t hurt to know your way around Photoshop and Illustrator. Adobe’s new cloud pricing structure is far more affordable than it used to be. And if you can’t afford Adobe products, then learn to use &lt;a href=&quot;http://www.gimp.org&quot;&gt;GIMP&lt;/a&gt; and &lt;a href=&quot;https://inkscape.org/en/&quot;&gt;Inkscape&lt;/a&gt; - two excellent and free alternatives.&lt;/p&gt;
 
-&lt;h2 id=&quot;read-read-and-read-some-more&quot;&gt;Read read and read some more&lt;/h2&gt;
+&lt;h2 id=&quot;read-read-and-read-some-more&quot;&gt;Read, read and read some more&lt;/h2&gt;
 &lt;div class=&quot;col-md-4 image left&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;/images/tweeps.jpg&quot; data-lightbox=&quot;ux-tips&quot;&gt;&lt;img src=&quot;/images/tweeps.jpg&quot; alt=&quot;Twitter is a great networking tool&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;figcaption&gt;Tweet all the things! &lt;br /&gt; (&lt;a href=&quot;https://www.flickr.com/photos/mkhmarketing/8477893426&quot; target=&quot;_blank&quot;&gt;Image by  mkhmarketing on Flickr&lt;/a&gt;)&lt;/figcaption&gt;
 &lt;/div&gt;
 &lt;p&gt;There is an epic UX community on Twitter. For starters check out these tweeps: &lt;a href=&quot;http://www.creativebloq.com/web-design/20-ux-twitter-accounts-you-should-follow-912782&quot;&gt;“20 UX Twitter Accounts You Should Follow”&lt;/a&gt;. They are always posting interesting articles and links. Read the links that they share and engage with them and their content! &lt;/p&gt;
 
-&lt;p&gt;And then, of course, Google is your friend. There is a huge amount of fantastic UX literature out there. &lt;a href=&quot;http://www.usabilitycounts.com/2012/08/10/the-usability-counts-ux-resume-template-and-career-guide/&quot;&gt;Usability Counts’ “UX Resume and Career Guide”&lt;/a&gt; is a really good place to start if you’re new to UX. Also check out the &lt;a href=&quot;http://www.nngroup.com/&quot;&gt;Nielsen Norman Group&lt;/a&gt; website (stared by the godfathers of UX). They have an awesome weekly newsletter, amongst other things.&lt;/p&gt;
+&lt;p&gt;And then, of course, Google is your friend. There is a huge amount of fantastic UX literature out there. &lt;a href=&quot;http://www.usabilitycounts.com/2012/08/10/the-usability-counts-ux-resume-template-and-career-guide/&quot;&gt;Usability Counts’ “UX Resume and Career Guide”&lt;/a&gt; is a really good place to start if you’re new to UX. Also check out the &lt;a href=&quot;http://www.nngroup.com/&quot;&gt;Nielsen Norman Group&lt;/a&gt; website (started by the godfathers of UX). They have an awesome weekly newsletter, amongst other things.&lt;/p&gt;
 
 &lt;h2 id=&quot;if-you-have-the-time-study&quot;&gt;If you have the time: study!&lt;/h2&gt;
 &lt;p&gt;There are amazing formal and informal ways to study UX. Investigate what your local university offers. The University of Cape Town offers a &lt;a href=&quot;https://www.cs.uct.ac.za/mit/about.html&quot;&gt;Masters in Information Technology&lt;/a&gt; that includes Human-Computer Interaction. This is an excellent degree. For a faster learning experience, checkout UCT’s &lt;a href=&quot;http://www.getsmarter.co.za/courses/user-experience-design-short-course&quot;&gt;GetSmarter online UX course&lt;/a&gt;. And of course there are amazing free options online such as &lt;a href=&quot;https://www.coursera.org/specialization/humancomputerinteraction/28?utm_medium=catalog&quot;&gt;Coursera’s HCI specialisation&lt;/a&gt;. If you’re flush with cash, definitely investigate &lt;a href=&quot;http://www.humanfactors.com/training/&quot;&gt;Human Factors International’s training programs&lt;/a&gt;. &lt;/p&gt;
