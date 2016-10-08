@@ -8,25 +8,37 @@ modified: 2013-09-13
 
 I am a user experience (UX) designer, musician and lover of words. 
 
-I believe that all users are experts in their personal domains and that we need to spend more time asking people what they want and need from technology and less time designing to satisfy other agendas. User-centred design can and does make the Internet (my particular interest) a beautiful thing. 
+I believe that all users are experts in their personal domains and that we need to spend more time asking people what they want and need from technology and less time designing to satisfy other agendas. User-centred design can and does make the world a beautiful thing. 
 
 I've studied a variety of things, including psychology, law, international relations, classical music, computer science and astronomy. UX turned out to be a serendipitious combination of a number of things that I love including people, psychology, creative design and careful, logical problem-solving. 
 
-My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. After a brief  foray into project management and freelance front-end development, I'm working full time again as a UX designer at a global publishing house. 
+My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. I have worked as a professional musician, an author, a typesetter, a project manager and a front-end developer but UX design is where my real enthusiasm lies. I current work for [Pearson](https://www.pearson.com/): the world's largest education company publishing house. 
 
-When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?f=realtime&q=%23ux%20from%3Asophdex&src=typd), I run in the mountains with my dogs, drink wine and watch too much Nordic Noir television.
+When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?f=realtime&q=%23ux%20from%3Asophdex&src=typd), I walk in the mountains with my dogs, drink wine and watch too much Netflix.
 
 ##Random facts
 
-* <b>Software I love</b>: GVim, GitHub, Inkscape, LaTeX, Dropbox and Google Drive
+* <b>Software I love</b>: GVim, GitHub, LaTeX, GarageBand, Dropbox and Google Drive.
 * <b>Markup languages I can write in my sleep</b>: HTML5, CSS3, XML
-* <b>Favourite sport</b>: trail running
+* <b>Favourite sport</b>: swimming
 * <b>Most unusual qualification</b>: Licentiate of the Associated Board of the Royal Schools of Music (Performance: cello)
+* <b>Most precious possession</b>: my 1993 [Dawne Haddad](http://www.dawnehaddad.co.za/) cello 'Animato'
 * <b>Language I'd most like to learn (but am least likely to use)</b>: Dansk
-* <b>Most curious hobby</b>: avid bird-watching in South Africa's multitude of National Parks
+* <b>Most curious hobby</b>: abird-watching in South Africa's multitude of National Parks
+
+##Musical things
+
+My two current musical projects are:
+
+* [The Shh...Art! Ensemble](https://www.facebook.com/the.shh.art.ensemble/)
+* [Pantalaimon](https://www.instagram.com/pantalaimon_sa/)
+
+Recordings of recent musical endeavours can be found [here on Soundcloud](https://soundcloud.com/nicoladt).
 
 ##Contact 
 As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [Twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
+
+
 
 
 
