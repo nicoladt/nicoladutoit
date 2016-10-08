@@ -16,7 +16,7 @@ To many people, this might sound like a strange fact, but white kids like me who
 
 Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.
 
-<div class="col-md-6 image center">
+<div class="col-md-6 image left">
 <figure><a href= "{{ site.url }}/images/London_Underground_circa_1900.jpg" data-lightbox="underground"><img border="0" src="{{ site.url }}/images/London_Underground_circa_1900.jpg" alt="The London Underground in 1890"/></a><figcaption>Trains under the ground: not a thing in 1890's Joburg.</figcaption></figure>
 </div>
 
@@ -32,7 +32,8 @@ The train journey itself seemed like a dream - cutting over highways and interse
 
 The novelty of taking a high speed train in my own city, in my own country! The novelty of safe, efficient public transport not only replacing a road trip, but shortening the commute to the Airport to a fraction of the time, not to mention the stress! The novelty of taking just a few minutes to travel dozens of kilometres during peak rush hour traffic! All of this excitement I put down to Gautrain-virgin glee.
 
-<div class="col-md-6 image center">
+
+<div class="col-md-6 right">
 <figure><a href="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg" data-lightbox="jozi"><img src="http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg" alt="Joburg traffic"></a><figcaption>Joburg at rush hour: less appealing than triple bypass surgery.<br />
 Image by <a href="http://www.flickr.com/photos/francapicc/">jespahjoy</a> on Flickr</figcaption>
 </figure>
@@ -42,7 +43,7 @@ Until yesterday, when (several months later) I caught the Gautrain to the airpor
 
 I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.
 
-<div class="col-md-6 image center">
+<div class="col-md-6 image left">
 <figure><a href="{{ site.url }}/images/gautrain.jpg" data-lightbox="gautrain"><img src="{{ site.url }}/images/gautrain.jpg" alt="The Gautrain, Ortia Station" /></a><figcaption>21st century Joburg is a pretty shiny sight. </figcaption></figure>
 </div>
 

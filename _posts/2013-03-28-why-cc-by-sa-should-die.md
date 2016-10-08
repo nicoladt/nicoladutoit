@@ -10,9 +10,9 @@ tags: [creative commons, licensing, openness]
  
 ---
 
-Creative commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, <b>open</b>, alternatives to the miserable " © All Rights Reserved" that is so prevalent in the world today. I'm not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.
+Creative Commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, <b>open</b>, alternatives to the miserable " © All Rights Reserved" that is so prevalent in the world today. I'm not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.
 
-According to creative commons (<a href="http://creativecommons.org/licenses/">http://creativecommons.org/licenses/</a>), the Attribution-ShareAlike CC-BY-SA license:
+According to [Creative Commons]( href="http://creativecommons.org/licenses/">http://creativecommons.org/licenses/), the Attribution-ShareAlike CC-BY-SA license:
 
 >lets others remix, tweak, and build upon your work even for commercial 
 purposes, as long as they credit you and license their new creations 

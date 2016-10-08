@@ -9,6 +9,9 @@ comments: true
 tags: [jekyll, github, ruby, so simple theme]
  
 ---
+
+<b>[2016 Update]</b>: The information in this blog post is undoubtedly out of date by now. Use it at your own risk!
+
 [Jekyll](http://jekyllrb.com/) is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with [GitHub](http://github.com). There are a number of shiny themes available for Jekyll. This site uses the [So Simple Theme](http://mademistakes.com/articles/so-simple-jekyll-theme/).
 
 The processes for [installing Jekyll](http://jekyllrb.com/docs/installation/), [installing this theme](https://github.com/mmistakes/so-simple-theme/) and [using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages) are well documented and mostly simple, but I did run into a few weird errors when I added the [Jekyll Slideshow](https://github.com/matthewowen/jekyll-slideshow) gallery plugin to my installation - I think due to version conflicts between all the different bits of software.
