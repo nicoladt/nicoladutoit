@@ -13,7 +13,7 @@ I have a lot of smart friends and family. I am surrounded by Masters and Doctors
 
 Back in November 2013, for my own M.Phil, I had an awful lot of dissertation to write. I treated my thesis like it was work, project managed the crap out of it, and remarkably got it done before my submission deadline. I churned out a first draft in record time, despite having a full time job and only being able to work on it at night. I’d like to share a few tips here which I reckon saved my bacon.
 
-##1. Write in the cloud
+## 1. Write in the cloud
     
 <div class="col-md-3 image right">
 <figure><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Google_Drive.svg/600px-Logo_of_Google_Drive.svg.png" height="100" width="100" alt="Google Drive logo"/></figure></div> Use Google Docs! In 2015 if you are not writing your thesis in the cloud, you are quite simply a fool. Apologies if this sounds harsh, but we have incredible, versatile cloud storage and WYSIWYG editors available to us today - <b>use them!</b> Google Docs is my personal favourite because you have epic backups and version control at all times. You can easily view your history of changes and go and recover that paragraph you deleted last week in a rage. 
@@ -40,7 +40,7 @@ I budgeted time for writing, editing and proofreading. And I allowed for iterati
 
 My schedule was not cast in stone - it was absolutely a living document. I updated it every day and shuffled things around as the writing process evolved. There were obviously days when I was too tired to work, for example, and then I could easily shift things out, but it helped me see the longer term effect of moving things around. It wasn't about enforcing work on myself, it was more about reducing the burden of having to remember what I was supposed to be working on.
 
-##3. Create routine
+## 3. Create routine
 
 A daily routine into which you can fit your research/writing is key. So for example, let every day start with coffee and a walk, or a trip to the gym. Then work 9am-12pm (with a break half way through), take a timeout for lunch, work 1-4pm, break for tea, and then do admin from 5-6pm... 
 

@@ -18,7 +18,7 @@ tags: [ux, conference, sketchnoting]
 
 In October 2014 I had the pleasure of attending South Africa's first UX conference in Cape Town. Armed with my iPad and offline Google Docs, I took pages and pages of notes. I promised myself I would share them, go back to them, write blog posts about them. And of course I haven't touched those documents again. Last week I headed up to Johannesburg for #UXJhb2015. Instead of taking boring text notes, this time I decided to try my hand at sketchnoting in the hope that it would produce more useful and visually appealling notes that I may actually refer to again at least once in my life...
 
-##So what is sketchnoting anyway?
+## So what is sketchnoting anyway?
 
 Sketchnoting is simply visual note taking. Instead of just writing down words, you draw images, patterns or shapes that relate to those words. The beauty of sketchnoting is that it requires no advanced drawing skills. As long as you have some cool stationary and you can draw some basic shapes, you're good to go. 
 
@@ -28,7 +28,7 @@ The Internet is awash with great resources for how to get started including:
 * Smashing Mag's ["How to get started with sketchnotes"](http://www.smashingmagazine.com/2014/11/10/how-to-get-started-with-sketchnotes/) and 
 * UX Mastery's ["Sketchnoting 101"](http://uxmastery.com/sketchnoting-101-how-to-create-awesome-visual-notes/)
 
-##Taking the plunge
+## Taking the plunge
 
 Although I initially felt a bit uncertain and intimidated by the idea of drawing again, after the first talk I was completely sold. I found that sketchnoting is a far more engaging way to listen to great speakers - it felt as if by writing <i>and</i> drawing, my brain was able to process information more efficiently, more thoroughly and with far less effort. My sketchnotes evolved as I got more comfortable with the process (and paid less attention to my shitty inner art critic), and it was interesting to watch my creativity wax and wane depending on my energy levels and the pace of each talk. I also found myself feeling far less mentally drained than usual at the end of each day. 
 
