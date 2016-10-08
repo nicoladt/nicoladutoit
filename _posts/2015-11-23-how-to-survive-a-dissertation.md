@@ -53,14 +53,14 @@ You'll obviously know best what times of day you feel most productive and when i
 Include exercise and plenty of sleep in your routine. Our bodies and brains do best when we have regular bed times and get more than 7 hours of sleep a night. 
 
 
-##4. Clear out the clutter
+## 4. Clear out the clutter
 Make a tidy, calm and pleasant workspace for yourself. 
 
 Make a list of nice coffee shops nearby that have Wi-fi, for the days you need to get out of the house.
 
 Use software like Evernote to organise your life. I kept all the papers I read stored as PDFs in Evernote. This meant I could access them anytime (because Evernote will sync to all your devices) and also tag them by author, topic, keyword etc. This made searching for particular stuff later on really easy. 
 
-##5. Don't be too hard on yourself
+## 5. Don't be too hard on yourself
 Writing a dissertation sucks. Research is bloody hard work. You will have good days and bad. Listen to your body, take breaks when you need to, and give credit where it's due. You have to acknowledge the small things. Some days it will be impossible to sit and write for hours on end. But if you can read a couple of papers instead - bravo! All progress is good progress. Just get something useful done every day, no matter how small. And acknolwedge that it's still a huge step in the right direction, even if it's not exactly what you had planned.
 
 If, after all of this, you still find yourself feeling miserable and unmotivated all of the time, please <b>seek professional advice</b> from your GP or therapist. Postgraduate studies are notoriously linked to depression and anxiety disorders. This is a very real thing that academics and supervisors often ignore. Believe it or not, your dissertation actually shouldn't make you want to die. If you're struggling to cope, you are not alone and you can and should get help. 
