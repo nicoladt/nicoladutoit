@@ -26,9 +26,9 @@ div.right{
 }
 
 div.center{
+	float:center;
 	margin-left: auto;
 	margin-right: auto;
-    float:initial;
 }
 
 /*pushes down breadcrumbs on ux page*/
