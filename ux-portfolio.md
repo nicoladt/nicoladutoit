@@ -43,4 +43,9 @@ For this project, I created workflows, user journeys, paper prototypes and UXPin
         
 </div>
 
+Other websites I have designed, built and still maintain include:
+
+* <a href="http://www.jillrichards.com" target="_blank">Jill Richards</a>
+* <a href="http://www.clareloveday.co.za" target="_blank">Clare Loveday</a>
+
 For an archive of older UX work please <a href="{{ site.url }}/ux-archive/">click here</a>.

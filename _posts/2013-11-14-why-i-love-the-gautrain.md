@@ -53,6 +53,6 @@ Because we can't undo history, I have also often wondered what future South Afri
 
 Catching the Gautrain today, I realised that we are already watching the sun rise on those rolling green hills. Whilst the past and much of the present is still painful and complicated and difficult to fix, future South Africa is already here. It's happening now, one train trip at a time, literally in the rich red soil beneath our feet.
 
-<div class="col-md-6 image center">
+<div class="col-md-12 image">
 <figure><a href="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg" data-lightbox="mountains"><img src="http://farm9.staticflickr.com/8318/8023986234_5d22064db6_c.jpg"/></a><figcaption>Image by  <a href="http://www.flickr.com/photos/wildlife_encounters/" alt="Rolling green hills">Steve Slater (Wildlife Encounters)</a> on Flickr</figcaption></figure>
 </div>
