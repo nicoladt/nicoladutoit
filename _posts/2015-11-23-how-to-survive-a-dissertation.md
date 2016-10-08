@@ -67,6 +67,6 @@ If, after all of this, you still find yourself feeling miserable and unmotivated
 
 This too shall pass. 
 
-<div class="col-md-12 image center">
+<div class="col-md-12 image">
 <figure><a href="{{ site.url }}/images/PhDComic.gif" data-lightbox="thesis" Title="PhD Comics"><img src="{{ site.url }}/images/PhDComic.gif" alt="PhD Comics"></a></figure><figcaption>So true it hurts... <br/>By the venerable <a href="http://www.phdcomics.com/">PhD Comics</a></figcaption>
 </div>

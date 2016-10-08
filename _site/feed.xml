@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-10-08T21:59:12+02:00</updated>
+<updated>2016-10-08T21:56:37+02:00</updated>
 <id>/</id>
 <author>
   <name>Nicola du Toit</name>
@@ -104,7 +104,7 @@
 
 &lt;p&gt;This too shall pass. &lt;/p&gt;
 
-&lt;div class=&quot;col-md-12 image center&quot;&gt;
+&lt;div class=&quot;col-md-12 image&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;/images/PhDComic.gif&quot; data-lightbox=&quot;thesis&quot; title=&quot;PhD Comics&quot;&gt;&lt;img src=&quot;/images/PhDComic.gif&quot; alt=&quot;PhD Comics&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;figcaption&gt;So true it hurts... &lt;br /&gt;By the venerable &lt;a href=&quot;http://www.phdcomics.com/&quot;&gt;PhD Comics&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/div&gt;
 
@@ -171,7 +171,7 @@
 &lt;h2 id=&quot;have-faith&quot;&gt;Have faith&lt;/h2&gt;
 &lt;p&gt;You will find an awesome UX position but it may take time. In South Africa it’s still a fairly young field - a lot of companies are realising that they need UX but they aren’t sure why just yet. Keep looking and keep applying for positions. But be picky about what you apply for. Don’t go for the “UX/UI/graphic design/developer” job ads - those employers don’t know what they need from the role. In the meantime, keep working on your portfolio. You don’t have to be employed as a UX designer to start practising to be one. There’s no shame in saying “well I couldn’t do any UX in my current job, so I did all this in my spare time” - that says a helluva lot about you as a person and about your keenness to get into UX!&lt;/p&gt;
 
-&lt;div class=&quot;col-md-12 image center&quot;&gt;
+&lt;div class=&quot;col-md-12 image&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;/images/uxunicorn.jpg&quot; data-lightbox=&quot;ux-unicorn&quot; title=&quot;UX Unicorns!&quot;&gt;&lt;img src=&quot;/images/uxunicorn.jpg&quot; alt=&quot;Gun-toting cat riding a unicorn&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;figcaption&gt;A gun-toting cat riding a unicorn. Image possibly by &lt;a href=&quot;http://imgur.com/gallery/atz81&quot;&gt;oedaux on imgur&lt;/a&gt;. &lt;br /&gt; For more information about UX unicorns see &lt;a href=&quot;https://www.uie.com/articles/becoming_a_unicorn/&quot;&gt;Jared Spool&#39;s article&lt;/a&gt; on the subject!&lt;/figcaption&gt;
 &lt;/div&gt;
 
@@ -406,7 +406,9 @@
     <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;. There are a number of shiny themes available for Jekyll. This site uses the &lt;a href=&quot;http://mademistakes.com/articles/so-simple-jekyll-theme/&quot;&gt;So Simple Theme&lt;/a&gt;.&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;b&gt;[2016 Update]&lt;/b&gt;: The information in this blog post is undoubtedly out of date by now. Use it at your own risk!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is my new favourite thing. I used it to build this site and most excitingly it integrates seamlessly with &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;. There are a number of shiny themes available for Jekyll. This site uses the &lt;a href=&quot;http://mademistakes.com/articles/so-simple-jekyll-theme/&quot;&gt;So Simple Theme&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The processes for &lt;a href=&quot;http://jekyllrb.com/docs/installation/&quot;&gt;installing Jekyll&lt;/a&gt;, &lt;a href=&quot;https://github.com/mmistakes/so-simple-theme/&quot;&gt;installing this theme&lt;/a&gt; and &lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages&quot;&gt;using Jekyll with GitHub Pages&lt;/a&gt; are well documented and mostly simple, but I did run into a few weird errors when I added the &lt;a href=&quot;https://github.com/matthewowen/jekyll-slideshow&quot;&gt;Jekyll Slideshow&lt;/a&gt; gallery plugin to my installation - I think due to version conflicts between all the different bits of software.&lt;/p&gt;
 
@@ -490,7 +492,7 @@ sudo gem install nokogiri
 
 &lt;p&gt;Whilst there have always been trains going into Joburg and around Joburg, there have never been trains forming a network inside Joburg; trains that could get me to places I needed to be (in my Northern suburbs bubble); trains that could easily replace a parental vehicle. Joburg does not have century-old subterranean veins like London or Berlin or New York.&lt;/p&gt;
 
-&lt;div class=&quot;col-md-6 image center&quot;&gt;
+&lt;div class=&quot;col-md-6 image left&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;/images/London_Underground_circa_1900.jpg&quot; data-lightbox=&quot;underground&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;/images/London_Underground_circa_1900.jpg&quot; alt=&quot;The London Underground in 1890&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Trains under the ground: not a thing in 1890&#39;s Joburg.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
@@ -506,7 +508,7 @@ sudo gem install nokogiri
 
 &lt;p&gt;The novelty of taking a high speed train in my own city, in my own country! The novelty of safe, efficient public transport not only replacing a road trip, but shortening the commute to the Airport to a fraction of the time, not to mention the stress! The novelty of taking just a few minutes to travel dozens of kilometres during peak rush hour traffic! All of this excitement I put down to Gautrain-virgin glee.&lt;/p&gt;
 
-&lt;div class=&quot;col-md-6 image center&quot;&gt;
+&lt;div class=&quot;col-md-6 right&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg&quot; data-lightbox=&quot;jozi&quot;&gt;&lt;img src=&quot;http://farm1.staticflickr.com/250/520316324_cdc8283982_z.jpg&quot; alt=&quot;Joburg traffic&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Joburg at rush hour: less appealing than triple bypass surgery.&lt;br /&gt;
 Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jespahjoy&lt;/a&gt; on Flickr&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -516,7 +518,7 @@ Image by &lt;a href=&quot;http://www.flickr.com/photos/francapicc/&quot;&gt;jesp
 
 &lt;p&gt;I realised yesterday that it is not a European or American noise, curiously displaced in an African city. It is not a London-in-Joburg sound. It is a Joburg-in-Joburg sound. It is the incredible sound of a country shifting gears and cruising along into the First World. It the sound of progress, burrowing away through the South African soil. Those tunnels smell of hope and progress and prosperity. The Gautrain is quite simply a symbol of South African future potential.&lt;/p&gt;
 
-&lt;div class=&quot;col-md-6 image center&quot;&gt;
+&lt;div class=&quot;col-md-6 image left&quot;&gt;
 &lt;figure&gt;&lt;a href=&quot;/images/gautrain.jpg&quot; data-lightbox=&quot;gautrain&quot;&gt;&lt;img src=&quot;/images/gautrain.jpg&quot; alt=&quot;The Gautrain, Ortia Station&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;21st century Joburg is a pretty shiny sight. &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
@@ -687,9 +689,9 @@ recommended too. As with the other services, Evernote provides free access in ex
     <uri></uri>
     <email>nicoladutoit@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Creative commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, &lt;b&gt;open&lt;/b&gt;, alternatives to the miserable “ © All Rights Reserved” that is so prevalent in the world today. I’m not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Creative Commons copyright licenses are, in a nutshell, awesome. They offer flexibile, standardised, &lt;b&gt;open&lt;/b&gt;, alternatives to the miserable “ © All Rights Reserved” that is so prevalent in the world today. I’m not going to go into detail here about how copyright licenses are generally misused. I am, however, going to complain about how one particular open license is commonly used, and why that usage sucks.&lt;/p&gt;
 
-&lt;p&gt;According to creative commons (&lt;a href=&quot;http://creativecommons.org/licenses/&quot;&gt;http://creativecommons.org/licenses/&lt;/a&gt;), the Attribution-ShareAlike CC-BY-SA license:&lt;/p&gt;
+&lt;p&gt;According to &lt;a href=&quot;href=&amp;quot;http://creativecommons.org/licenses/&amp;quot;&amp;gt;http://creativecommons.org/licenses/&quot;&gt;Creative Commons&lt;/a&gt;, the Attribution-ShareAlike CC-BY-SA license:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;lets others remix, tweak, and build upon your work even for commercial 

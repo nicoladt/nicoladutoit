@@ -16,7 +16,7 @@ My most recent venture into academia involved an M.Phil. in IT from the Universi
 
 When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?f=realtime&q=%23ux%20from%3Asophdex&src=typd), I walk in the mountains with my dogs, drink wine and watch too much Netflix.
 
-##Random facts
+<h2>Random facts</h2>
 
 * <b>Software I love</b>: GVim, GitHub, LaTeX, GarageBand, Dropbox and Google Drive.
 * <b>Markup languages I can write in my sleep</b>: HTML5, CSS3, XML
@@ -26,7 +26,7 @@ When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](ht
 * <b>Language I'd most like to learn (but am least likely to use)</b>: Dansk
 * <b>Most curious hobby</b>: abird-watching in South Africa's multitude of National Parks
 
-##Musical things
+<h2>Musical things</h2>
 
 My two current musical projects are:
 
@@ -35,7 +35,7 @@ My two current musical projects are:
 
 Recordings of recent musical endeavours can be found [here on Soundcloud](https://soundcloud.com/nicoladt).
 
-##Contact 
+<h2>Contact </h2>
 As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [Twitter](http://twitter.com/sophdex), [LinkedIn](za.linkedin.com/in/nicoladutoit/) or [GitHub](https://github.com/nicoladt).
 
 
