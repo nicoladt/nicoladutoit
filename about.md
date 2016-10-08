@@ -24,7 +24,7 @@ When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](ht
 * <b>Most unusual qualification</b>: Licentiate of the Associated Board of the Royal Schools of Music (Performance: cello)
 * <b>Most precious possession</b>: my 1993 [Dawne Haddad](http://www.dawnehaddad.co.za/) cello 'Animato'
 * <b>Language I'd most like to learn (but am least likely to use)</b>: Dansk
-* <b>Most curious hobby</b>: abird-watching in South Africa's multitude of National Parks
+* <b>Most curious hobby</b>: bird-watching in South Africa's multitude of National Parks
 
 <h2>Musical things</h2>
 
