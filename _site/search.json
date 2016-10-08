@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "UXSA 2015 Conference Talk",
+		  "category"   : "articles",
+		  "url"        : "/articles/uxsa-conference-talk",
+		  "date"       : "2016-10-08 00:00:00 +0200",
+		  "shortdate"  : "October 08, 2016"
+		} ,
+	
+		{
 		  "title"      : "How to survive a dissertation",
 		  "category"   : "articles",
 		  "url"        : "/articles/how-to-survive-a-dissertation",
