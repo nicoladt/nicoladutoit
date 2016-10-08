@@ -12,7 +12,7 @@ I believe that all users are experts in their personal domains and that we need 
 
 I've studied a variety of things, including psychology, law, international relations, classical music, computer science and astronomy. UX turned out to be a serendipitious combination of a number of things that I love including people, psychology, creative design and careful, logical problem-solving. 
 
-My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. I have worked as a professional musician, an author, a typesetter, a project manager and a front-end developer but UX design is where my real enthusiasm lies. I current work for [Pearson](https://www.pearson.com/): the world's largest education company publishing house. 
+My most recent venture into academia involved an M.Phil. in IT from the University of Cape Town, specialising in Human-Computer Interaction, under the late Gary Marsden. I have worked as a professional musician, an author, a typesetter, a project manager and a front-end developer but UX design is where my real enthusiasm lies. I current work for [Pearson](https://www.pearson.com/): the world's largest education company and publishing house. 
 
 When I'm not drawing paper prototypes and [grumbling about bad UX on Twitter](https://twitter.com/search?f=realtime&q=%23ux%20from%3Asophdex&src=typd), I walk in the mountains with my dogs, drink wine and watch too much Netflix.
 
