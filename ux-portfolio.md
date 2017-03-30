@@ -5,7 +5,7 @@ title: UX Portfolio
 tags: [ux, design, portfolio]
 modified: 2013-09-13
 ---
-I am currently working on a number of exciting projects for Pearson South Africa but several are still in development, so I can't share all of that work just yet. 
+Much of my work is for proprietary products that have not yet been released, and it therefore cannot be shared publically. 
 
 However my regular work involves the follow aspects of UX design:
 
@@ -18,11 +18,11 @@ However my regular work involves the follow aspects of UX design:
 * wireframes, paper and interactive prototypes
 * usability testing
 * heuristic evalution
-* UX training
+* UX training design and facilitation
 
 I design for web, iOS and Android products. 
     
-I am working on a redesign of this portfolio (as of October 2016) to includes examples of all the above as soon as possible. One recently-live product I can share is listed below. 
+One recent product I can share is listed below. 
 
 <h3>X-kit Achieve! Mobile Android app</h3>
 
