@@ -37,7 +37,7 @@ My current musical projects are:
 Recordings of recent musical endeavours can be found [here on Soundcloud](https://soundcloud.com/nicoladt){:target="_blank"}.
 
 <h2>Contact </h2>
-As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [Twitter](http://twitter.com/sophdex){:target="_blank"}, [LinkedIn](za.linkedin.com/in/nicoladutoit/){:target="_blank"} or [GitHub](https://github.com/nicoladt){:target="_blank"}.
+As much as I adore the internet, I don't trust it with my personal details. If you're a human: my e-mail address is simply my name (as per the title of this page, all lower case) at gmail.com. Alternatively you can find me on [Twitter](http://twitter.com/sophdex){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/nicoladutoit/){:target="_blank"} or [GitHub](https://github.com/nicoladt){:target="_blank"}.
 
 
 
